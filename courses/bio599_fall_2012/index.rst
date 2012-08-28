@@ -14,8 +14,8 @@ Find information on assignments `here <./homework_assignments.html>`_.
 Office Hours
 ============
 
-Dr. Caporaso: Engineering 265
+Dr. Caporaso: Engineering 265 (gregcaporaso@gmail.com)
 Tuesday/Thursday: 9:15-10:15am
 
-Mr. Krohn: SLF 307
+Mr. Krohn: SLF 307 (alk224@nau.edu)
 Monday/Wednesday: 11:00am-12:00pm
