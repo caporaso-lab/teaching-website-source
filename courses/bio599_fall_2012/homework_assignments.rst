@@ -20,3 +20,7 @@ Be creative - there are many ways to achieve this.
 
 .. important::
 	Homework id: ``gc_content``; Extension: ``pdf``; For this first assignment, the file I turn in would be named ``jgc53_gc_content.pdf``. 
+
+Text editor (due 30 Aug 2012)
+-----------------------------
+Download and install a text editor. Use one of the ones recommended in PCFB. There is nothing to turn in for this assignment.
