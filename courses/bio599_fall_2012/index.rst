@@ -11,6 +11,8 @@ The course schedule (subject to updates through-out the semester) is available `
 
 Find information on assignments `here <./homework_assignments.html>`_.
 
+Required text: `Practical Computing for Biologists <http://practicalcomputing.org/>`_ (`get a free trial <http://www.coursesmart.com/IR/4767737/9780878933914?__hdv=6.8>`_)
+
 Office Hours
 ============
 
