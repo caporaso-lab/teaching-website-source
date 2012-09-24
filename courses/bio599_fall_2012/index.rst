@@ -9,7 +9,9 @@ You can find the course syllabus :download:`here <./bio599_fall_2012.pdf>`.
 
 The course schedule (subject to updates through-out the semester) is available `here <https://docs.google.com/spreadsheet/ccc?key=0AvglGXLayhG7dHltQWcyRFlyNkN0eXVFaHpURlBpVkE>`_.
 
-Find information on assignments `here <./homework_assignments.html>`_.
+Find information on homework assignments `here <./homework_assignments.html>`_.
+
+Find information on in class exercises `here <./in_class_assignments.html>`_.
 
 Required text: `Practical Computing for Biologists <http://practicalcomputing.org/>`_ (`get a free trial <http://www.coursesmart.com/IR/4767737/9780878933914?__hdv=6.8>`_)
 
