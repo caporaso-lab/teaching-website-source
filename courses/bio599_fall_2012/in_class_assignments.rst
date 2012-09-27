@@ -1,6 +1,27 @@
 ==========================================================================================
-Homework assignments
+In-class assignments
 ==========================================================================================
+
+Lectures 10-11
+=============
+Today's exercises are all to be performed in the QIIME AWS instance. You'll get a public DNS entry to connect in class.
+
+Writing a first shell script
+----------------------------
+Set your ``PATH`` environment variable to contain a new ``scripts`` directory under your directory. Create a new file called ``my_script.sh`` with ``nano`` and enter the following text::
+	
+	#!/bin/bash
+	echo "Below are contents of the directory:"
+	pwd
+	ls -al
+	echo "The time is currently:"
+	date
+
+Now change the permissions on this file to give it execute permissions::
+
+	chmod u+x my_script.sh
+
+This exercise is derived from *Practical Computing for Biologists*
 
 Lecture 9
 =========
