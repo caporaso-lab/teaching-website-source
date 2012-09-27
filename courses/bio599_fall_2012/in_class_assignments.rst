@@ -46,7 +46,7 @@ These exercises will make use a text editor, such as TextWrangler or jEdit.
 Reformat blast9 output
 ----------------------
 
-Start with :download:`this file <>`
+Start with :download:`this file <files/blastx_out.bl9>`
 
 Remove header (i.e. comment) lines
 
@@ -56,7 +56,7 @@ Format as comma-separated text
 Rearrange tabular data
 ----------------------
 
-Start with :download:`this file <>` (source: `Practical Computing for Biologists`)
+Start with :download:`this file <files/Ch3observations.txt>` (source: `Practical Computing for Biologists`)
 
 Lecture 4
 =========
@@ -64,14 +64,14 @@ Lecture 4
 Reformat sequence headers in a fasta file
 -----------------------------------------
 
-Start with :download:`this file <>`
+Start with :download:`this file <files/regex_seqs.fasta>`
 
 Rewrite each identifier as the portion of the identifier preceding the . character, followed by an underscore, followed by the genus name.
 
 Reformat coordinates
 --------------------
 
-Start with :download:`LatLong.txt <>` (source: `Practical Computing for Biologists`)
+Start with :download:`LatLong.txt <files/LatLon.txt>` (source: `Practical Computing for Biologists`)
 Make Lat/Long pairs tab-separated on a single line
 Remove trailing N and E, and replace with leading +
 Remove trailing S and W, and replace with leading -
@@ -82,7 +82,7 @@ Lecture 3
 Reformat taxa names
 -------------------
 
-Start with :download:`this file <>`
+Start with :download:`this file <files/taxa_list.txt>`
 
 Reformat taxa names to genus abbreviation, species name, name of person who named the species separated by underscores and excluding any parenthesis. 
 
