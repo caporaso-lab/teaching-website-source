@@ -2,11 +2,56 @@
 Homework assignments
 ==========================================================================================
 
+.. important:: I encourage you to discuss homework assignments with each other, but you may not view other student's assignments or share your assignment with others. When you start programming, you often think there is a single way to address a task, but that is usually not the case: there are many ways to complete these assignments, and when code has been shared or copied it is often very obvious to a more experienced eye.
+
 Turning in your homework
 ------------------------
 Your homework must always be turned in with a standardized name. That name should be ``<nau_id>_<homework_id>.<extension>``, where ``<nau_id>`` is your NAU identifier (for example, mine is ``jgc53``), and ``<homework_id>`` and ``<extension>`` are provided on a per-assignment basis. 
 
 Unless otherwise noted, homework must be turned in by email to alk224@nau.edu before class on the day it is due. 
+
+Accessing the cluster
+---------------------
+For the remaining assignments this semester we'll use an Amazon Cloud based cluster. You should have received a key file (``<nau-id>.rsa``) and ip address by email. (I won't post the ip address here for security reasons.) Use the key file and the ip address to connect as follows::
+
+	ssh -i <key-file> <nau-id>@<ip-address>
+
+For example, I would connect as follows::
+
+	ssh -i jgc53.rsa jgc53@<ip-address>
+
+Where ``<ip-address>`` is replaced with the IP address that was provided by email.
+
+To move files in and out of the instance, I recommend using `Cyberduck <http://www.cyberduck.ch>`_. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_. Instead of the public DNS entry, you'll use the IP address referenced above. You can also experiment with `command line tools to move data in and out of the cluster <http://qiime.org/tutorials/working_with_aws.html#working-with-command-line-tools>`_. 
+
+Shell script (due 9 Oct 2012)
+------------------------------
+
+In this assignment you will automate retrieval and processing of PDB files with a shell (``bash``) script, and turn that script in. We will run that script and grade you on the results. Your script should perform the following steps:
+
+1. Create a new directory called ``<nau-id>_pdb_files`` (e.g., mine would be called ``jgc53_pdb_files``).
+
+2. Create a file in that directory called ``pdb_retrival.log`` which contains:
+ a. the time the script began running (including descriptive text like `Logging started at:` ``<time>``) - this should only be the time, not the date (use google and ``man`` to figure out the formatting)
+ b. the time the script completed running (again with descriptive text like `Logging ended at:` ``<time>``) - this should only be the time, not the date (use google and ``man`` to figure out the formatting) 
+ c. the URLs of the files that were downloaded
+ d. the date of the download (so in case of future changes to the files on the PDB you know what versions of the files you obtained) - this should only be the date, not the time (use google and ``man`` to figure out the formatting)
+ e. any other information that you think might be important to log.
+
+3. Download the following PDB records as PDB files in ``.gz`` format: ``4DA7``, ``1HSG``,  ``1ZQA``, ``2RNM``, ``1RCX``, ``1GFL``,  ``2WDK`` (Hint: first go to the Protein Data Bank website and find the link to those records. Then figure out how to generalize that link to match different records.)
+
+4. Unzip all of the ``.gz`` files. (Hint: a wildcard expression is useful here.)
+
+5. Extract the line(s) containing PMIDs (PubMed Identifiers) for each of the records (Hint: Use ``egrep`` for this, and review the files to figure out where that information is) and write those lines to a new file called ``pmids.txt``.
+
+6. Extract the line(s) containing TITLE for each of the records (Hint: Use ``egrep`` for this, and review the files to figure out where that information is) and write those lines to a new file called ``titles.txt``. 
+
+7. Zip all of the PDB files in the directory with ``gzip``.
+
+.. important::
+	Homework id: ``shellscript``; Extension: ``sh``; For this assignment, the script file I turn in would be named ``jgc53_shellscript.sh``. Note that you will not turn in any files in the ``pdb_files`` directory: we'll generate those using your script. 
+	
+	E-mail these three files as attachments to alk224@nau.edu.
 
 Regular Expressions (due 18 Sept 2012)
 --------------------------------------
