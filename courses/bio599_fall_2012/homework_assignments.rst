@@ -31,7 +31,7 @@ In this assignment you will automate retrieval and processing of PDB files with 
 
 1. Create a new directory called ``<nau-id>_pdb_files`` (e.g., mine would be called ``jgc53_pdb_files``).
 
-2. Create a file in that directory called ``pdb_retrival.log`` which contains:
+2. Create a file in that directory called ``pdb_retrieval.log`` which contains:
  a. the time the script began running (including descriptive text like `Logging started at:` ``<time>``) - this should only be the time, not the date (use google and ``man`` to figure out the formatting)
  b. the time the script completed running (again with descriptive text like `Logging ended at:` ``<time>``) - this should only be the time, not the date (use google and ``man`` to figure out the formatting) 
  c. the URLs of the files that were downloaded
