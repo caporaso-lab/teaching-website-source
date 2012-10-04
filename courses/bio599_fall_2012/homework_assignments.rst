@@ -51,7 +51,7 @@ In this assignment you will automate retrieval and processing of PDB files with 
 .. important::
 	Homework id: ``shellscript``; Extension: ``sh``; For this assignment, the script file I turn in would be named ``jgc53_shellscript.sh``. Note that you will not turn in any files in the ``pdb_files`` directory: we'll generate those using your script. 
 	
-	E-mail these three files as attachments to alk224@nau.edu.
+	E-mail your shell script as an attachment to alk224@nau.edu.
 
 Regular Expressions (due 18 Sept 2012)
 --------------------------------------
