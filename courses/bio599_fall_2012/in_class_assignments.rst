@@ -2,6 +2,17 @@
 In-class assignments
 ==========================================================================================
 
+Lectures 13-14
+==============
+
+Working with a graphical ftp client
+-----------------------------------
+Use Cyberduck <http://www.cyberduck.ch>`_ to move data files to and from the cluster. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_.
+
+QIIME Illumina Overview tutorial
+--------------------------------
+We'll work through the QIIME Illumina overview tutorial in class. This will be related to the next homework assignment, so I encourage you to continue working on this outside of class if we don't finish up. You can `find the QIIME Illumina Overview Tutorial here <http://qiime.org/svn_documentation/tutorials/illumina_overview_tutorial.html>`_.
+
 Lectures 10-11
 =============
 Today's exercises are all to be performed in the QIIME AWS instance. You'll get a public DNS entry to connect in class.
