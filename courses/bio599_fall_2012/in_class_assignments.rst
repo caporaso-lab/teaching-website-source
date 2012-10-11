@@ -7,7 +7,7 @@ Lectures 13-14
 
 Working with a graphical ftp client
 -----------------------------------
-Use Cyberduck <http://www.cyberduck.ch>`_ to move data files to and from the cluster. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_.
+Use `Cyberduck <http://www.cyberduck.ch>`_ to move data files to and from the cluster. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_.
 
 QIIME Illumina Overview tutorial
 --------------------------------
