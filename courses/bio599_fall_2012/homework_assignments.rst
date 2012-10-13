@@ -47,18 +47,16 @@ The following commands will get you started. Run these after logging in to your 
 	cd /mnt/<nau-id>
 	
 	# download the Fierer data
-	wget https://s3.amazonaws.com/s3-public_ssu_data/fierer_forensic_keyboard.tgz
+	curl -O https://s3.amazonaws.com/s3-caporaso-share/fierer_forensic_keyboard_assignment.tgz > fierer_forensic_keyboard_assignment.tgz
 	
 	# unpack the tgz file and change to the resulting directory
-	tar -xvzf fierer_forensic_keyboard.tgz
-	cd fierer_forensic_keyboard
-	
-	# unpack the sff file and the mapping file
-	tar -xvzf study_232_FFCKVMW.sff.tgz
-	unzip study_232_run_FFCKVMW_mapping.txt.zip
+	tar -xvzf fierer_forensic_keyboard_assignment.tgz
+	cd fierer_forensic_keyboard_assignment
 	
 	# generate .fna and .qual files from the sff file
 	process_sff.py -i ./
+
+The steps in the `QIIME Overview Tutorial <http://qiime.org/svn_documentation/tutorials/tutorial.html>`_ are the next place to go from here... Good luck!
 
 .. important::
 	Homework id: ``qiime``; Extension: ``biom``, ``pdf``, and ``txt``; For this assignment, the files I turn in would be named <userid>_qiime_otu_table_even.biom, <userid>_qiime_paper.pdf and <userid>_qiime_analysis_notes.txt. 
