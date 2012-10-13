@@ -13,7 +13,7 @@ Find information on homework assignments `here <./homework_assignments.html>`_.
 
 Find information on in class exercises `here <./in_class_assignments.html>`_.
 
-Required text: `Practical Computing for Biologists <http://practicalcomputing.org/>`_ (`get a free trial <http://www.coursesmart.com/IR/4767737/9780878933914?__hdv=6.8>`_)
+Required text: `Practical Computing for Biologists <http://practicalcomputing.org/>`_
 
 Office Hours
 ============
