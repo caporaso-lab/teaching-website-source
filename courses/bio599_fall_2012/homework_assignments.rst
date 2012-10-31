@@ -24,6 +24,25 @@ Where ``<ip-address>`` is replaced with the IP address that was provided by emai
 
 To move files in and out of the instance, I recommend using `Cyberduck <http://www.cyberduck.ch>`_. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_. Instead of the public DNS entry, you'll use the IP address referenced above. You can also experiment with `command line tools to move data in and out of the cluster <http://qiime.org/tutorials/working_with_aws.html#working-with-command-line-tools>`_. 
 
+Programming Assignment 1 (8 Nov 2012)
+-------------------------------------
+
+Write a program that does the following:
+ - query a user for an input sequence
+ - print the sequence, all in uppercase, in four orientations (forward, reverse, forward complement, reverse complement), where forward refers to the sequence that was passed in.
+ - print the GC content (percent of the sequence which is either G or C) of the forward orientation of the sequence
+ - print the length of the sequence
+
+.. note:: Complementing the sequence can be tricky with your current skill set. You may need to go through an intermediate state by replacing characters with some other character. There are many ways to do this and the goal here is to get the right answer. I don't care how you implement it.
+
+.. note:: To reverse a string ``s``, you can use the command ``''.join(reversed(s))``.
+
+.. note:: To perform real division using integers, add the following line at the beginning of your file (just after the `shebang` line): ``from __future__ import division``
+
+.. important::
+	Homework id: ``sequence_stats``; Extension: ``py``; For this assignment, the file I turn in would be named <userid>_sequence_stats.py. 
+
+
 QIIME analysis (25 Oct 2012)
 ------------------------------
 
