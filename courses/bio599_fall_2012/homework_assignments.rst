@@ -35,7 +35,7 @@ Write a program that does the following:
 
 .. note:: Complementing the sequence can be tricky with your current skill set. You may need to go through an intermediate state by replacing characters with some other character. There are many ways to do this and the goal here is to get the right answer. I don't care how you implement it.
 
-.. note:: To reverse a string ``s``, you can use the command ``''.join(reversed(s))``.
+.. note:: To reverse a string ``s``, you can use the command ``s_rev = s[::-1]`` We'll talk about this syntax within the next couple of weeks - for now, just go treat this command as magic.
 
 .. note:: To perform real division using integers, add the following line at the beginning of your file (just after the `shebang` line): ``from __future__ import division``
 
