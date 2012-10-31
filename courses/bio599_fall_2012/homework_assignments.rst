@@ -40,7 +40,7 @@ Write a program that does the following:
 .. note:: To perform real division using integers, add the following line at the beginning of your file (just after the `shebang` line): ``from __future__ import division``
 
 .. important::
-	Homework id: ``sequence_stats``; Extension: ``py``; For this assignment, the file I turn in would be named <userid>_sequence_stats.py. 
+	Homework id: ``sequence_stats``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_sequence_stats.py``. 
 
 
 QIIME analysis (25 Oct 2012)
