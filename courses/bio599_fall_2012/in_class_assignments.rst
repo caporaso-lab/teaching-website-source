@@ -2,6 +2,17 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 20
+==========
+
+Write a python `Hello World` script
+-----------------------------------
+
+Log in to the cluster, write a program called ``hello_world.py`` that when run prints the text ``Hello World!`` to the terminal. You should be able to call this script from anywhere like:
+
+	hello_world.py
+
+
 Lectures 13-14
 ==============
 
