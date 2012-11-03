@@ -39,6 +39,10 @@ Getting started
 
 *Graduate students*: In the Fall of 2012 I'll offer CS499/Bio599. This will be a great opportunity to get started in Bioinformatics and will provide the background you'll need to integrate bioinformatics into your masters or doctoral research projects.
 
+Keeping up to date on Bioinformatics at NAU
+-------------------------------------------
+I maintain an email list that anyone at NAU can join to stay up-to-date on Bioinformatics-related activities at NAU. You can request to join the list `here <https://groups.google.com/forum/?fromgroups#!forum/nau-bioi>`_. Topics on this list will include announcement of seminars related to Bioinformatics, announcements of class offerings, updates on the Bioinformatics training program, Bioinformatics job announcements, and other related topics. When you request to join, please fill in a sentence or two describing who you are (undergraduate student, graduate student, your department, etc). 
+
 Current Bioinformatics Courses at NAU
 ======================================
 
