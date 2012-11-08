@@ -34,6 +34,7 @@ Assume that you will only receive IUPAC RNA bases (either upper or lower case) a
 .. important::
 	Homework id: ``translate``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_translate.py``.
 
+
 To get every third base, you can build a for loop that looks like the following. Use a variation on this to identify each codon::
 
 	s = "ACCTTTAGGACCCGG"
@@ -56,6 +57,7 @@ Example output 1::
 	Reverse complement orientation:
 	G*PG
 
+.. note:: One step in this process is going to be building a dictionary where you can look up codons to get the amino acid that they code for (or the ``*`` in the case of stop codons). You should pull the genetic code off the web from somewhere, and refer to the `Generating dictionaries` section of Chapter 9 of `Practical Computing for Biologists`. You'll go back to your regular expressions for this process.
 
 Programming Assignment 1 (8 Nov 2012)
 -------------------------------------
