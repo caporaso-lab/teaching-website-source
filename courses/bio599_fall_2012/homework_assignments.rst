@@ -27,10 +27,35 @@ To move files in and out of the instance, I recommend using `Cyberduck <http://w
 Programming Assignment 2 (15 Nov 2012)
 --------------------------------------
 
-Write a program that makes use of a ``for`` loop and a dictionary to translate an RNA sequence to a protein for all four orientations of the input sequence (forward, reverse, forward complement, reverse complement, where forward refers to the sequence that was passed in). This program should query a user for an input RNA sequence and print the translated protein sequences to the screen. If a stop codon is encountered in the RNA sequence, an ``*`` should be inserted in the translated sequence, and translation should continue.
+Write a program that makes use of a ``for`` loop and a dictionary to translate an RNA sequence to a protein for all four orientations of the input sequence (forward, reverse, forward complement, reverse complement, where forward refers to the sequence that was passed in). This program should query a user for an input RNA sequence and print the translated protein sequences to the screen. If a stop codon is encountered in the RNA sequence, an ``*`` should be inserted in the translated sequence, and translation should continue. 
+
+Assume that you will only receive IUPAC RNA bases (either upper or lower case) as input. In other words, you don't need to handle non-RNA characters in the input sequence. You can also assume that the length of an input sequence will be a multiple of three, so you only need to handle full-length codon sequences. 
 
 .. important::
-	Homework id: ``translate``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_translate.py``. 
+	Homework id: ``translate``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_translate.py``.
+
+To get every third base, you can build a for loop that looks like the following. Use a variation on this to identify each codon::
+
+	s = "ACCTTTAGGACCCGG"
+	for e in range(0,len(s),3):
+   		print s[e]
+
+Example input 1::
+	
+	Enter a DNA sequence: 
+	ACCGGGTTACCC
+
+Example output 1::
+	
+	Forward orientation:
+	TGLP
+	Reverse orientation:
+	PIGP
+	Forward complement orientation:
+	WPNG
+	Reverse complement orientation:
+	G*PG
+
 
 Programming Assignment 1 (8 Nov 2012)
 -------------------------------------
