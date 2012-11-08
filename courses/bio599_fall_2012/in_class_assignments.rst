@@ -2,6 +2,11 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 22
+==========
+
+In your IPython Notebook, write a block of code that implements a protein molecular calculator by summing the weights of the individual amino acids in a protein sequence.
+
 Lecture 20
 ==========
 
