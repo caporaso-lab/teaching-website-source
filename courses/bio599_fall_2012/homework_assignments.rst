@@ -24,6 +24,14 @@ Where ``<ip-address>`` is replaced with the IP address that was provided by emai
 
 To move files in and out of the instance, I recommend using `Cyberduck <http://www.cyberduck.ch>`_. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_. Instead of the public DNS entry, you'll use the IP address referenced above. You can also experiment with `command line tools to move data in and out of the cluster <http://qiime.org/tutorials/working_with_aws.html#working-with-command-line-tools>`_. 
 
+Programming Assignment 2 (15 Nov 2012)
+--------------------------------------
+
+Write a program that makes use of a ``for`` loop and a dictionary to translate an RNA sequence to a protein for all four orientations of the input sequence (forward, reverse, forward complement, reverse complement, where forward refers to the sequence that was passed in). This program should query a user for an input RNA sequence and print the translated protein sequences to the screen. If a stop codon is encountered in the RNA sequence, an ``*`` should be inserted in the translated sequence, and translation should continue.
+
+.. important::
+	Homework id: ``translate``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_translate.py``. 
+
 Programming Assignment 1 (8 Nov 2012)
 -------------------------------------
 
