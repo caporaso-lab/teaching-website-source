@@ -4,11 +4,20 @@ Homework assignments
 
 .. important:: I encourage you to discuss homework assignments with each other, but you may not view other student's assignments or share your assignment with others. When you start programming, you often think there is a single way to address a task, but that is usually not the case: there are many ways to complete these assignments, and when code has been shared or copied it is often very obvious to a more experienced eye.
 
-Turning in your homework
-------------------------
+Turning in your homework by email
+---------------------------------
 Your homework must always be turned in with a standardized name. That name should be ``<nau_id>_<homework_id>.<extension>``, where ``<nau_id>`` is your NAU identifier (for example, mine is ``jgc53``), and ``<homework_id>`` and ``<extension>`` are provided on a per-assignment basis. 
 
 Unless otherwise noted, homework must be turned in by email to alk224@nau.edu before class on the day it is due. 
+
+Turning in your homework via the cluster
+----------------------------------------
+You can also turn in your programming assignments by placing them in a specific location on the cluster. If your assignment file is called ``jgc53_translate.py`` you could do this as follows::
+	
+	chmod o-rwx jgc53_translate.py
+	cp jgc53_translate.py /mnt/assignments/translate/
+
+Note that the directory that you're turning your files in to will always be ``/mnt/assignments/<homework_id>/``, where ``<homework_id>`` is replaced with the current ``homework_id``. You should ``cp``, not ``mv``, the file so you retain a backup of it (and on that note, also remember to copy the file to your local hard drive as a backup).
 
 Accessing the cluster
 ---------------------
