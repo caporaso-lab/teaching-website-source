@@ -33,6 +33,34 @@ Where ``<ip-address>`` is replaced with the IP address that was provided by emai
 
 To move files in and out of the instance, I recommend using `Cyberduck <http://www.cyberduck.ch>`_. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_. Instead of the public DNS entry, you'll use the IP address referenced above. You can also experiment with `command line tools to move data in and out of the cluster <http://qiime.org/tutorials/working_with_aws.html#working-with-command-line-tools>`_. 
 
+Final project (13 Dec 2012 9:30am)
+----------------------------------
+
+You will have two options for the final project: one performing a QIIME meta-analysis, and one writing a python program.
+
+.. note::
+	Details to follow shortly.
+
+Programming Assignment 3 (4 Dec 2012)
+-------------------------------------
+
+You will write a program that extracts latitude and longitude information from a `QIIME-compatible mapping file <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_, and writes that to a `Keyhole Markup Language (kml) file <https://developers.google.com/kml/documentation/kml_tut>`_, which can be opened in `Google Earth <http://www.google.com/earth/index.html>`_. To achieve this you'll need to understand the QIIME mapping file format so you can parse it, the ``kml`` file format so you can write it, and the basics of file reading and writing in python so you can read the mapping file, process the input, and write the kml file.
+
+Your script should take two command line arguments: the input mapping file, and the name of the output file to write. For example, I would call my script as follows::
+
+	jgc53_coordinates.py glen_canyon_map.tsv jgc53_coordinates.kml
+
+You can obtain the mapping file from `here <https://docs.google.com/spreadsheet/ccc?key=0AvglGXLayhG7dDNCWnUwSHhWNmxKODZISWx6VzBqU0E>`_ (choose 'File > Download as > Plain text' to save as tab-separated text). You can see an example of what the output file should look like `here <https://gist.github.com/4121975>`_.
+
+.. important::
+	Homework id: ``coordinates``; Extension: ``py`` and ``kml``; For this assignment, the files I turn in would be named ``jgc53_coordinates.py`` and ``jgc53_coordinates.kml``.
+
+.. note::
+	Be sure to download, install, and use `Google Earth <http://www.google.com/earth/index.html>`_ to confirm that your ``kml`` file is written correctly, and that the points end up in the right place (i.e, Utah).
+
+.. note::
+	You can copy some information from the `example output file <https://gist.github.com/4121975>`_ to generate the header and the footer information in your kml file. 
+
 Programming Assignment 2 (15 Nov 2012)
 --------------------------------------
 
