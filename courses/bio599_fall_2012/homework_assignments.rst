@@ -33,13 +33,13 @@ Where ``<ip-address>`` is replaced with the IP address that was provided by emai
 
 To move files in and out of the instance, I recommend using `Cyberduck <http://www.cyberduck.ch>`_. You can find `instructions for connecting to AWS with Cyberduck here <http://qiime.org/tutorials/working_with_aws.html#working-with-cyberduck>`_. Instead of the public DNS entry, you'll use the IP address referenced above. You can also experiment with `command line tools to move data in and out of the cluster <http://qiime.org/tutorials/working_with_aws.html#working-with-command-line-tools>`_. 
 
-Final project (13 Dec 2012 9:30am)
+Final Project (13 Dec 2012 9:30am)
 ----------------------------------
 
-You will have two options for the final project: one performing a QIIME meta-analysis, and one writing a python program. You will turn in only one of these assignments.
+You will have two options for the final project: one where you perform a QIIME Database meta-analysis, and one where you Build a tree of life via a python program. You will turn in only one of these assignments.
 
-Final project: QIIME Database meta-analysis
--------------------------------------------
+Final Project Option 1: QIIME Database meta-analysis
+-----------------------------------------------------
 
 .. warning:: Start Early! The QIIME DB uses a shared server for this analysis, and you never know how busy it will be.
 
@@ -73,8 +73,8 @@ On an additional page (in addition to your three page paper) please provide feed
 	UniFrac clustering analysis: modifying the mapping file (e.g., in Excel) to create a single metadata column that is informative across all samples will help here. You would need to run ``make_3d_plots.py`` with your new mapping file to generate a new PCoA plot. I created a new column in my mapping file called ``Study_detail`` that combined the ``Surface`` and ``ENV_FEATURE`` columns.
 
 
-Final project: Building a tree of life (programming assignment)
-------------------------------------------------------------------
+Final Project Option 2: Building a tree of life (programming assignment)
+-------------------------------------------------------------------------
 
 In this assignment you will make use of the PyCogent software package to automate the process of constructing a phylogenetic tree from a set of genes. This will including querying NCBI to obtain sequences, performing a multiple sequence alignment, building a phylogenetic tree, writing a newick string containing that tree to file, and writing a visualization of that tree to a PDF file.
 
