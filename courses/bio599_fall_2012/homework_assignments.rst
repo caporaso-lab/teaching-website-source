@@ -36,10 +36,27 @@ To move files in and out of the instance, I recommend using `Cyberduck <http://w
 Final project (13 Dec 2012 9:30am)
 ----------------------------------
 
-You will have two options for the final project: one performing a QIIME meta-analysis, and one writing a python program.
+You will have two options for the final project: one performing a QIIME meta-analysis, and one writing a python program. You will turn in only one of these assignments.
 
-.. note::
-	Details to follow shortly.
+Final project: QIIME Database meta-analysis
+-------------------------------------------
+
+For this assignment you will perform a meta-analysis of several microbial surveys of the indoor environment. To get more details on microbiology of the built environment, check out `microBEnet <http://www.microbe.net/>`_. You will use the QIIME Database to perform this meta-analysis - you'll export several initial results from the QIIME DB, including a combined OTU table, and taxonomy survey and beta diversity results. You'll download these data either to the class cluster or your own computer to perform some more in-depth analyses.
+
+Follow these steps to perform the QIIME meta-analysis:
+
+1. Create an account with the `QIIME Database <http://www.microbio.me/qiime>`_.
+2. On logging in, choose 'Create a New Meta-Analysis'. Name your meta-analysis and hit 'Next'. Click 'Perform Meta-analysis'
+3. Next, you'll choose the studies you want to include. Choose ``Kelley_office_contamination`` (`cite <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0037849>`_), ``Flores_restroom_surface_biogeography`` (`cite <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0028132>`_), and ``CaporasoIlluminaPNAS2011_5prime`` (`cite <http://www.pnas.org/content/108/suppl.1/4516.long>`_). Then do the following: uncheck "Show Common Fields Only"; Select Metadata Fields: "All"; Hit '>>' to copy all metadata fields to your mapping file; Hit "Continue".
+4. Select "Processing Method: Serial"; Check taxonomy summary, choose sort by STUDY_TITLE; Check Beta-diversity, under rarefaction.py rarify at 500 seqs/sample, under beta_diversity.py choose metrics bray_curtis, weighted_unifrac, unweighted_unifrac, euclidean; choose 3d PCOA plots (no optional parameters). Click "Continue".
+5. This will take a while. When it's done, you can begin to explore the results via the database website. Download the "Zip Archive" to address the questions below.
+
+
+ (chosen because it contains a nice diversity of potential source environments, including human gut, skin, mouth, and soil)
+
+
+Final project: Programming
+------------------------------------
 
 Programming Assignment 3 (4 Dec 2012)
 -------------------------------------
