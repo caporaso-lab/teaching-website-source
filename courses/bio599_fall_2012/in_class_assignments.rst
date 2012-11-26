@@ -2,6 +2,11 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 26
+==========
+
+Create a `gist <http://gist.github.com>`_ containing your code for programming assignment 2.
+
 Lecture 22
 ==========
 
