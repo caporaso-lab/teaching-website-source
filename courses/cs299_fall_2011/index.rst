@@ -1,6 +1,6 @@
 
 ===========================================================================================
-CS/Bio 299 - Bioinformatics I: Introduction to Bioinformatics (Fall 2011)
+Bio/CS 299 - Bioinformatics I: Introduction to Bioinformatics (Fall 2011)
 ===========================================================================================
 
 Announcements

@@ -2,13 +2,13 @@
 Greg Caporaso's Teaching Website
 ====================================================
 
-Current courses
-==================
+Current courses (Spring 2013)
+=============================
 
 .. toctree::
    :maxdepth: 1
 
-   courses/bio599_fall_2012/index.rst
+   courses/bio299_spring_2013/index.rst
 
 Previous courses
 ==================
@@ -16,28 +16,27 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/bio599_fall_2012/index.rst
    courses/cs399_spring_2012/index.rst
    courses/cs299_fall_2011/index.rst
 
-Office Hours (Fall 2012)
+Office Hours (Spring 2013)
 ===========================================
 
-Dr. Caporaso: Engineering 265
-Tuesday/Thursday: 9:15-10:15am
+Dr. Caporaso: Engineering 265 (gregcaporaso@gmail.com)
 
-Mr. Krohn: SLF 307
-Monday/Wednesday: 11:00am-12:00pm
+Monday 3:15-4:15pm and Wednesday 1:00-2:00pm
 
 Bioinformatics @ Northern Arizona University
 ====================================================
 
-I am currently developing an undergraduate bioinformatics training program at Northern Arizona University spanning the Computer Science and Biology departments. We hope to have this made official beginning in the Fall of 2013, but in the meantime you should contact `Greg Caporaso <http://www.caporaso.us>`_ if you're interested in studying Bioinformatics at NAU. The initial courses are currently being developed and taught, so it's not too early to get started.
+I am currently developing an undergraduate bioinformatics training program at Northern Arizona University spanning the Computer Science and Biology departments. This is not yet official but you should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying Bioinformatics at NAU. The initial courses are currently being developed and taught, so it's not too early to get started.
 
 Getting started
 ---------------
-*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take CS/Bio 299 in the Spring of 2013. **The pre-requistes are CS 126 and Bio 181, so be sure to take these by Fall of 2012!**
+*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take BIO/CS299. **The pre-requistes are CS 126 and BIO 181, both with lab. I will allow you to take one of these as a co-requisite, but not both!**
 
-*Graduate students*: In the Fall of 2012 I'll offer CS499/Bio599. This will be a great opportunity to get started in Bioinformatics and will provide the background you'll need to integrate bioinformatics into your masters or doctoral research projects.
+*Graduate students*: In the Fall of 2013 I'll likely offer BIO599. This will be a great opportunity to get started in Bioinformatics and will provide the background you'll need to integrate bioinformatics into your masters or doctoral research projects.
 
 
 Keeping up to date on Bioinformatics at NAU
@@ -47,25 +46,30 @@ I maintain an email list that anyone at NAU can join to stay up-to-date on Bioin
 Current Bioinformatics Courses at NAU
 ======================================
 
-Fall 2012, BIO599 / CS499 Computational Biology: Addressing Biological Questions with Computing
------------------------------------------------------------------------------------------------
+Spring 2013, BIO299 / CS299 Introduction to Bioinformatics 
+----------------------------------------------------------
 
-This will be a projects-oriented course where students work in interdisciplinary teams to answer biological questions based on large genome, metagenome, or marker gene data sets. Biology students are encouraged to bring their own questions and data (e.g., related to their dissertation project), in which case projects can be designed around those data sets. Alternatively we will work with existing biological data sets. This course has not previously been taught at NAU.
-
-For Biology students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
+This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The current and previous course websites are listed above.
 
 Upcoming Bioinformatics Courses at NAU
 ======================================
-
-Spring 2013, BIO299 / CS299 Bioinformatics I
---------------------------------------------
-
-This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The previous course website is listed above.
 
 Fall 2013, BIO399 / CS399 Bioinformatics II
 --------------------------------------------
 
 This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
+
+Fall 2013, BIO599 Computational Biology: Addressing Biological Questions with Computing
+-----------------------------------------------------------------------------------------------
+
+This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012. The previous course website is listed above.
+
+For Biology students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
+
+Spring 2014, BIO299 / CS299 Introduction to Bioinformatics 
+----------------------------------------------------------
+
+This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The previous course website is listed above.
 
 Some resources for getting started with bioinformatics and python
 ==========================================================================================

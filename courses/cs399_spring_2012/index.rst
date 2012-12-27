@@ -1,5 +1,5 @@
 ==========================================================================================
-CS/Bio 399 - Bioinformatics II: Projects in Bioinformatics (Spring 2012)
+Bio/CS 399 - Bioinformatics II: Projects in Bioinformatics (Spring 2012)
 ==========================================================================================
 
 Announcements
