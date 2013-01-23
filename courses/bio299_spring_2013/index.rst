@@ -25,6 +25,4 @@ Dr. Caporaso: Engineering 265 (gregcaporaso@gmail.com)
 Monday 3:15-4:15pm
 Wednesday 1:00-2:00pm
 
-Mr. Chase: Location TBD (chase.johnh@gmail.com)
-Tuesday 3:30-4:30pm
-Thursday 11:15-12:15pm
+Mr. Chase: TBD (chase.johnh@gmail.com)
