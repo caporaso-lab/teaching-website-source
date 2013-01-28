@@ -25,4 +25,6 @@ Dr. Caporaso: Engineering 265 (gregcaporaso@gmail.com)
 Monday 3:15-4:15pm
 Wednesday 1:00-2:00pm
 
-Mr. Chase: TBD (chase.johnh@gmail.com)
+Mr. Chase: Wettaw Building, 2nd Floor Lobby (chase.johnh@gmail.com)
+Tuesday 11:00-12:00pm
+Thursday 1:00-2:00pm
