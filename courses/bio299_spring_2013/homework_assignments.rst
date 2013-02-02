@@ -10,6 +10,14 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
+Guest lecture reports (due 11 February 2013)
+--------------------------------------------
+
+For each of the two guest lectures, turn in answers to the questions in `this document <https://docs.google.com/document/d/1Fieqfkbn-dMLjR6bpVqoT8E8Rb9HBtAfCSvesvIvLtI/edit>`_. You can download this document and use it as a template for your assignment. You will turn these in as two separate PDFs by email to jc33@nau.edu. Taking detailed notes during these lectures will make this assignment a lot simpler!
+
+.. important::
+	Homework ids: ``johnson_lecture`` and ``butterfield_lecture``; Extension: ``pdf``; For this assignment, the files I turn in would be named ``jgc53_johnson_lecture.pdf`` and ``jgc53_butterfield_lecture.pdf``. 
+
 BLAST exercises (due 4 February 2013)
 -------------------------------------
 
