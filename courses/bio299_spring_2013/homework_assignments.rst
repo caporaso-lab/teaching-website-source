@@ -10,8 +10,8 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
-Homework 4: Tree of life
-------------------------
+Homework 4: Tree of life (15 points)
+------------------------------------
 
 .. important::
 	Homework id: ``tol``; Extension: ``py``, ``tre`` and ``pdf``; For this assignment, the files I turn in would be named ``jgc53_tol.py``, ``jgc53_tol.tre`` and ``jgc53_tol.pdf``.
@@ -59,8 +59,8 @@ where ``<nau-id>`` is replaced with your NAU identifier. This should perform all
 .. note::
 	Remember that you can call ``dir()`` on an object to find out what methods are available to that object. One of the methods associated with your tree object will help you generate a newick formatted tree.
 
-Homework 3: Alignments
-----------------------
+Homework 3: Alignments (25 points)
+----------------------------------
 
 .. warning:: This is a big assignment. Start early!
 
@@ -169,16 +169,16 @@ which should result in the following output::
 	("AWGHE", "AW-HE", 28.0)
 
 
-Guest lecture reports (due 11 February 2013)
---------------------------------------------
+Guest lecture reports (due 11 February 2013) (15 points; 7.5 points each)
+-------------------------------------------------------------------------
 
 For each of the two guest lectures, turn in answers to the questions in `this document <https://docs.google.com/document/d/1Fieqfkbn-dMLjR6bpVqoT8E8Rb9HBtAfCSvesvIvLtI/edit>`_. You can download this document and use it as a template for your assignment. You will turn these in as two separate PDFs by email to jc33@nau.edu. Taking detailed notes during these lectures will make this assignment a lot simpler!
 
 .. important::
 	Homework ids: ``johnson_lecture`` and ``butterfield_lecture``; Extension: ``pdf``; For this assignment, the files I turn in would be named ``jgc53_johnson_lecture.pdf`` and ``jgc53_butterfield_lecture.pdf``. 
 
-BLAST exercises (due 4 February 2013)
--------------------------------------
+BLAST exercises (due 4 February 2013) (20 points)
+-------------------------------------------------
 
 Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/1x_ilvV9zW_SI1sFyqukhLz0Lnd4gAmwlVEJ4jrC814Q/edit>`_. You should turn in a PDF of that file with all answers filled in by email to jc33@nau.edu.
 
@@ -252,8 +252,8 @@ Query sequences::
 	GTCGTAACAAGGTAGCGGTACTGGAAGGTGCAGCTGGA
 
 
-GC content (due 23 January 2013)
---------------------------------
+GC content (due 23 January 2013) (10 points)
+--------------------------------------------
 Download a genome and compute its GC content. Copy or download `the assignment <https://docs.google.com/document/d/1iY1sfH9uKulmO0CLugtQOzBoAIGqh0oIwzZfa1ARay0/edit>`_, fill in your answers, and turn the assignment in by email as a PDF.
 
 Note that there are various ways that you can just look up the GC content, including via the IMG website. I'm asking you to compute it, and you're being graded on your descriptions. Getting the right answer is a bonus (i.e., if you spend a couple of hours trying, and get it wrong, you'll be graded on your well-documented effort, not your final answer).
