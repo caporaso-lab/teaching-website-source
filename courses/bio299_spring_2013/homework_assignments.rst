@@ -10,6 +10,55 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
+Homework 4: Tree of life
+------------------------
+
+.. important::
+	Homework id: ``tol``; Extension: ``py``, ``tre`` and ``pdf``; For this assignment, the files I turn in would be named ``jgc53_tol.py``, ``jgc53_tol.tre`` and ``jgc53_tol.pdf``.
+
+In this assignment you will make use of the PyCogent software package to automate the process of constructing a phylogenetic tree from a set of genes. This will including querying NCBI to obtain sequences, performing a multiple sequence alignment, building a phylogenetic tree, writing a newick string containing that tree to file, and writing a visualization of that tree to a PDF file.
+
+Your script must define a function called ``obtain_sequences_and_build_tree`` that takes:
+1. a list of queries (as strings) to be run against NCBI;
+2. a list of query labels (also as strings) to label the sequences resulting from each query in the final tree;
+3. the filepath where the output newick string should be written;
+4. the filepath where the output pdf should be written;
+5. an optional parameter ``n`` which defines how many randomly chosen query results should be chosen for each of the queries. The default value for ``n`` should be 5.
+
+Your ``obtain_sequences_and_build_tree`` function must return a phylogenetic tree derived from ``n`` aligned representatives of each of the queries passed via parameter 1. Your function definition should look exactly like this, where you replace ``# do a bunch of work`` with your code::
+
+    def obtain_sequences_and_build_tree(queries,
+                                        query_labels,
+                                        output_newick_fp,
+                                        output_pdf_fp,
+                                        n=5):
+        # do a bunch of work
+        return tree
+
+As part of your analysis, you should filter any sequences that have one or more ``N`` characters in them. Each sequence label in the output tree should begin with the query label corresponding to that sequence. ``tree`` should be a PyCogent ``PhyloNode`` object (the output of ``cogent.app.fasttree.build_tree_from_alignment``).
+
+In your script, you should call the function you define as follows::
+
+    obtain_sequences_and_build_tree(
+         ['"small subunit rRNA"[ti] AND archaea[orgn]',
+          '"small subunit rRNA"[ti] AND bacteria[orgn]',
+          '"small subunit rRNA"[ti] AND eukarya[orgn]'],
+         ['A: ','B: ','E: '],
+         "<nau-id>_tol.tre",
+         "<nau-id>_tol.pdf",
+         n=5)
+
+where ``<nau-id>`` is replaced with your NAU identifier. This should perform all of the analysis steps and write the newick file and PDF to the directory where you are running the script from. You'll turn in the script, the newick file, and the PDF.
+
+.. note::
+	`This page <http://dl.dropbox.com/u/2868868/pycogent_160dev_docs/cookbook/building_a_tree_of_life.html>`_ should help quite a lot.
+
+.. note:: 
+	The cluster has PyCogent, muscle, and FastTree preinstalled. Working there will save you a lot of time on software installation.
+
+.. note::
+	Remember that you can call ``dir()`` on an object to find out what methods are available to that object. One of the methods associated with your tree object will help you generate a newick formatted tree.
+
 Homework 3: Alignments
 ----------------------
 
