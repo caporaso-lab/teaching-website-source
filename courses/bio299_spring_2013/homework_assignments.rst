@@ -67,7 +67,7 @@ Homework 3: Alignments
 .. important::
 	Homework id: ``align``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_align.ipynb``.
 
-.. important:: For this assignment you should work in the QIIME Virtual Box, or in another local IPython installation. You may not use the class IPython Notebook server for this, since it is not a mutli-user environment (i.e, other students will see your work). After installing the QIIME Virtual Box (`instructions here <qiime.org/install/virtual_box.html>`_), you can start IPython by opening a terminal and typing ``ipython notebook``. Leave the terminal window open, and open the URL that is printed to the terminal. 
+.. important:: For this assignment you should work in the QIIME Virtual Box, or in another local IPython installation. You may not use the class IPython Notebook server for this, since it is not a mutli-user environment (i.e, other students will see your work). After installing the QIIME Virtual Box (`instructions here <http://qiime.org/install/virtual_box.html>`_), you can start IPython by opening a terminal and typing ``ipython notebook``. Leave the terminal window open, and open the URL that is printed to the terminal. 
 
 Begin with the Needleman-Wunsch implementation in the `Lecture 10 IPython Notebook <https://speakerdeck.com/gregcaporaso/bio-299-lecture-8-10-nau-fall-2013>`_ and the materials in the `Lecture 8-10 slides <http://nbviewer.ipython.org/4657175/Lecture10.ipynb>`_.
 
