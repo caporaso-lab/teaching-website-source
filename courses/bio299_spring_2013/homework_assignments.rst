@@ -10,6 +10,114 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
+Homework 3: Alignments
+----------------------
+
+.. warning:: This is a big assignment. Start early!
+
+.. important::
+	Homework id: ``align``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_align.ipynb``.
+
+Begin with the Needleman-Wunsch implementation in the `Lecture 10 IPython Notebook <https://speakerdeck.com/gregcaporaso/bio-299-lecture-8-10-nau-fall-2013>`_ and the materials in the `Lecture 8-10 slides <http://nbviewer.ipython.org/4657175/Lecture10.ipynb>`_.
+
+For this assignment you will turn in an IPython notebook. You will generate this notebook by starting with the `Lecture 10 IPython Notebook <http://nbviewer.ipython.org/4657175/Lecture10.ipynb>`_ and modifying to add new functionality and annotation.
+
+Part 1
+^^^^^^
+Add a new function with this `exact` form::
+
+    nw_align(sequence1,sequence2,substitution_matrix)
+
+This function should return, in this order, the aligned sequence 1 as a string, the aligned sequence 2 as a string, and the score of the global alignment.
+
+To confirm that this is working for you, you should test with the following command, as this is one of the tests that we will apply to your homework::
+	
+	nw_align('HEAGAWGHEE','PAWHEAE',blosum50)
+
+which should result in the following output::
+	
+	("HEAGAWGHE-E", "--P-AW-HEAE", 1.0)
+
+Part 2
+^^^^^^
+
+In the same notebook, define a new function of the form::
+
+    generate_random_score_distribution(query_sequence,subject_sequence,n,substitution_matrix)
+
+Which returns a list of ``n`` scores for aligning each of ``n`` random sequences of the same length as ``query_sequence`` against ``subject_sequence``. 
+
+Next, define a function that takes a query sequence, a subject sequence, and a value ``n`` with this form::
+
+    fraction_better_or_equivalent_alignments(query_sequence,subject_sequence,n,substitution_matrix)
+
+This function should call ``generate_random_score_distribution`` to generate a list of scores for random alignments. It should then compute the score for aligning ``query_sequence`` against ``subject_sequence``. The return value of this function should be the number of random alignment scores that are better or equal to the actual alignment score divided by ``n``.
+
+After defining this function, use it to compare the following sequences to one another using a value of ``n=1000`` when calling ``fraction_better_or_equivalent_alignments`` as follows::
+
+	subject = "SAVLDMRPPEITCLCLHSVEWFWATDRAYITKFHVGQPMKCITGCHVFCGPRTSNLLQESCMYCVFSEIGCRNSANCFNFTRSCIRISSYLFSYYIVWGC"
+	query1 = "RHT"
+	query2 = "RHTSWIL"
+	query3 = "RHTSWIIQECWYCWFS"
+	query4 = "RHTSWIIQESCWYCWFSEIGCRNSANWFNFTRSCWRISYLFS"
+	fraction_better_or_equivalent_alignments(query1,subject,1000,blosum50)
+	...
+
+Each of these query sequences is designed to be similar to the subject. Also compare some randomly generated query sequences to the subject sequence. Do this several times. In a *markdown cell* just below this analysis, describe any general patterns that you notice. What do you think this means? Run this example on the alignment we worked through in class (query sequence: ``HEAGAWGHEE``; subject sequence: ``PAWHEAE``) and describe the results. How does this alignment compare to your randomly generated alignments?
+
+.. note:: In the `Lecture 8 IPython Notebook <http://nbviewer.ipython.org/4657175/Lecture8.ipynb>`_ there is code illustrating how to generate a random sequence of bases at a given sequence length (see the last cell where ``root_sequence`` is defined). Here we're working with protein sequences, so the alphabet is different but the process is the same.
+
+.. note:: In my `Lecture 8-10 slides <Sequence searching and alignment	https://speakerdeck.com/gregcaporaso/bio-299-lecture-8-10-nau-fall-2013#>`_ I provide details on the differences between SW and NW initialization, scoring, and traceback. 
+
+Part 3
+^^^^^^
+
+Define a general function that can perform global (Needleman-Wunsch; NW) or local (Smith-Waterman; SW) alignments.
+
+Define a new function, ``generate_sw_and_traceback_matrices`` with the following form::
+
+    generate_sw_and_traceback_matrices(seq1,seq2,gap_penalty,substitution_matrix)
+
+The return value should be the dynamic programming matrix and the traceback matrix for a SW alignment.
+
+.. note:: This will be much easier if you start with the ``generate_nw_and_traceback_matrices`` and modify it for Smith-Waterman.
+
+Define a new function ``sw_traceback`` with the form::
+
+    sw_traceback(traceback_matrix,sw_matrix,seq1,seq2)
+
+This function should return aligned the aligned sequences in the order they were passed in and the alignment score.
+
+.. note:: This will be much easier if you start with the ``nw_traceback`` and modify it for Smith-Waterman.
+
+Next, define a new function ``sw_align`` with the form::
+
+	sw_align(sequence1,sequence2,substitution_matrix)
+
+.. note:: This will be much easier if you start with your ``nw_align`` function and modify it for Smith-Waterman.
+Define a new function ``align`` with the following form::
+
+    align(sequence1,sequence2,substitution_matrix,local)
+    
+Where ``local`` is a boolean (i.e., True or False) value. This function should return aligned_sequence1, aligned_sequence2, and the best alignment score. If ``local==False``, an NW alignment should be performed. If ``local==True`` an SW alignment should be performed. 
+
+Run both local and global alignments as follows to test that this is working as expected::
+	
+	align('HEAGAWGHEE','PAWHEAE',blosum50, False)
+
+which should result in the following output::
+	
+	("HEAGAWGHE-E", "--P-AW-HEAE", 1.0)
+
+and::
+	
+	align('HEAGAWGHEE','PAWHEAE',blosum50, True)
+
+which should result in the following output::
+	
+	("AWGHE", "AW-HE", 28.0)
+
+
 Guest lecture reports (due 11 February 2013)
 --------------------------------------------
 
