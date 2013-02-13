@@ -59,7 +59,7 @@ Fall 2013, BIO399 / CS399 Bioinformatics II
 
 This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
 
-Fall 2013, BIO599 Computational Biology: Addressing Biological Questions with Computing
+Spring 2014, BIO599 Addressing Biological Questions with Computing
 -----------------------------------------------------------------------------------------------
 
 This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012. The previous course website is listed above.
