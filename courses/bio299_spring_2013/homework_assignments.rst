@@ -31,7 +31,7 @@ Each group will be pre-assigned an article seven days before their presentation 
  8. How did the authors test this tool? Was performance benchmarking included in their paper?
  9. How did the authors evaluate whether this tool was giving biologically meaningful results?
  
-Presentations will address these same questions, and will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output.
+Presentations will address these same questions, and will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output. You presentation should be around 20 minutes, including the live demo.
 
 Grading
 ^^^^^^^
