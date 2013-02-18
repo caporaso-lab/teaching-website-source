@@ -36,7 +36,7 @@ Presentations will address these same questions, and will additionally include a
 Grading
 ^^^^^^^
 
-All students in the group will receive the same grade, except in circumstances where it appears that vastly different amounts of effort were contributed by different members of the same group. In addition to being graded by the instructor, anonymous reviews will be turned in by all students - the results of these reviews will factor into each group's score. 
+All students in a group will receive the same grade on this assignment. 
 
 Groups
 ^^^^^^
