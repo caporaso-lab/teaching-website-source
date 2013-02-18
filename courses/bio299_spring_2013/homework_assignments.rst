@@ -43,9 +43,9 @@ Groups
 
 Group 1 (3/11/13): jrh355 etb36 rwf25 hhh34 (`paper <http://bioinformatics.oxfordjournals.org/content/early/2010/08/12/bioinformatics.btq461.full.pdf+html>`_ and `supplementary material <http://bioinformatics.oxfordjournals.org/content/suppl/2010/08/11/btq461.DC1/supp_mat_rev2.pdf>`_ - both are required reading!)
 
-Group 2 (3/11/13): gz38 kn95 sk367 ad572 (`paper <http://dl.dropbox.com/u/2868868/cs299_slides_XCFGcsdFGGad/Genome%20Res.-2009-Parks-1896-904.pdf`_)
+Group 2 (3/11/13): gz38 kn95 sk367 ad572 (`paper <http://dl.dropbox.com/u/2868868/cs299_slides_XCFGcsdFGGad/Genome%20Res.-2009-Parks-1896-904.pdf>`_)
 
-Group 3 (3/13/13): bs527 eca37 kh832 ajc388 (` <http://www.mcponline.org/content/5/8/1520.full.pdf+html>`_ and `website <http://bmf.colorado.edu/divergentset/>`_)
+Group 3 (3/13/13): bs527 eca37 kh832 ajc388 (`paper <http://www.mcponline.org/content/5/8/1520.full.pdf+html>`_ and `website <http://bmf.colorado.edu/divergentset/>`_)
 
 Group 4 (3/13/13): esm23 msk53 pja43 (`paper <http://genomebiology.com/2010/11/8/R86>`_)
 
