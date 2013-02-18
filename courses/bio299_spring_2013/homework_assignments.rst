@@ -36,7 +36,7 @@ Presentations will address these same questions, and will additionally include a
 Grading
 ^^^^^^^
 
-All students in a group will receive the same grade on this assignment. 
+All students in a group will receive the same grade on this assignment, unless there is clear evidence that some student(s) didn't contribute. 
 
 Groups
 ^^^^^^
