@@ -10,6 +10,45 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
+Application presentations
+-------------------------
+
+.. important::
+	Homework id: ``app``; Extension: ``pdf``; The assignment should be named ``<group-number>_app.pdf`` and ``<group-number>_app_slides.pdf``, so for example Group 1's assignments would be named ``group1_app.pdf`` and ``group1_app_slides.pdf``.
+
+Expectations
+^^^^^^^^^^^^
+
+Each group will be pre-assigned an article seven days before their presentation date. The students will present their article in class the day they're assigned. Each member of the group will present part of the material. Answers to the following questions will be turned in (by email, with all group member names included). These answers should form an approximately two-page report. 
+ 
+ 1. What is the biological problem that the authors are trying to address?
+ 2. What is the motivation for addressing this problem?
+ 3. What previous work has been done in this area? Are there pre-existing tools that address this problem?
+ 4. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+ 5. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)? 
+ 6. What is the input to this tool?
+ 7. What is the output of this tool?
+ 8. How did the authors test this tool? Was performance benchmarking included in their paper?
+ 9. How did the authors evaluate whether this tool was giving biologically meaningful results?
+ 
+Presentations will address these same questions, and will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output.
+
+Grading
+^^^^^^^
+
+All students in the group will receive the same grade, except in circumstances where it appears that vastly different amounts of effort were contributed by different members of the same group. In addition to being graded by the instructor, anonymous reviews will be turned in by all students - the results of these reviews will factor into each group's score. 
+
+Groups
+^^^^^^
+
+Group 1 (3/11/13): jrh355 etb36 rwf25 hhh34 (`paper <http://bioinformatics.oxfordjournals.org/content/early/2010/08/12/bioinformatics.btq461.full.pdf+html>`_ and `supplementary material <http://bioinformatics.oxfordjournals.org/content/suppl/2010/08/11/btq461.DC1/supp_mat_rev2.pdf>`_ - both are required reading!)
+
+Group 2 (3/11/13): gz38 kn95 sk367 ad572 (`paper <http://dl.dropbox.com/u/2868868/cs299_slides_XCFGcsdFGGad/Genome%20Res.-2009-Parks-1896-904.pdf`_)
+
+Group 3 (3/13/13): bs527 eca37 kh832 ajc388 (` <http://www.mcponline.org/content/5/8/1520.full.pdf+html>`_ and `website <http://bmf.colorado.edu/divergentset/>`_)
+
+Group 4 (3/13/13): esm23 msk53 pja43 (`paper <http://genomebiology.com/2010/11/8/R86>`_)
+
 Homework 4: Tree of life (15 points)
 ------------------------------------
 
