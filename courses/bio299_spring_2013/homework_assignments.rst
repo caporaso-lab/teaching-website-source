@@ -53,7 +53,7 @@ Homework 4: Tree of life (15 points)
 ------------------------------------
 
 .. important::
-	Homework id: ``tol``; Extension: ``py`` or ``ipynb`` (you can either build this as an IPython notebook or a stand-alone python script), ``tre`` and ``pdf``; For this assignment, the files I turn in would be named ``jgc53_tol.py``, ``jgc53_tol.tre`` and ``jgc53_tol.pdf``.
+	Homework id: ``tol``; Extension: ``py`` or ``ipynb`` (you can either build this as an IPython notebook or a stand-alone python script), ``tre`` and ``pdf``; For this assignment, the files I turn in would be named ``jgc53_tol.py`` (or ``jgc53_tol.ipynb``), ``jgc53_tol.tre`` and ``jgc53_tol.pdf``.
 
 In this assignment you will make use of the PyCogent software package to automate the process of constructing a phylogenetic tree from a set of genes. This will including querying NCBI to obtain sequences, performing a multiple sequence alignment, building a phylogenetic tree, writing a newick string containing that tree to file, and writing a visualization of that tree to a PDF file.
 
