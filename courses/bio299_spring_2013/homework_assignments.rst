@@ -53,7 +53,7 @@ Homework 4: Tree of life (15 points)
 ------------------------------------
 
 .. important::
-	Homework id: ``tol``; Extension: ``py``, ``tre`` and ``pdf``; For this assignment, the files I turn in would be named ``jgc53_tol.py``, ``jgc53_tol.tre`` and ``jgc53_tol.pdf``.
+	Homework id: ``tol``; Extension: ``py`` or ``ipynb`` (you can either build this as an IPython notebook or a stand-alone python script), ``tre`` and ``pdf``; For this assignment, the files I turn in would be named ``jgc53_tol.py``, ``jgc53_tol.tre`` and ``jgc53_tol.pdf``.
 
 In this assignment you will make use of the PyCogent software package to automate the process of constructing a phylogenetic tree from a set of genes. This will including querying NCBI to obtain sequences, performing a multiple sequence alignment, building a phylogenetic tree, writing a newick string containing that tree to file, and writing a visualization of that tree to a PDF file.
 
@@ -90,10 +90,10 @@ In your script, you should call the function you define as follows::
 where ``<nau-id>`` is replaced with your NAU identifier. This should perform all of the analysis steps and write the newick file and PDF to the directory where you are running the script from. You'll turn in the script, the newick file, and the PDF.
 
 .. note::
-	`This page <http://dl.dropbox.com/u/2868868/pycogent_160dev_docs/cookbook/building_a_tree_of_life.html>`_ should help quite a lot.
+	`This page <http://pycogent.org/cookbook/building_a_tree_of_life.html>`_ should help quite a lot.
 
 .. note:: 
-	The cluster has PyCogent, muscle, and FastTree preinstalled. Working there will save you a lot of time on software installation.
+	The QIIME VirtualBox has PyCogent, muscle, and FastTree preinstalled. Working there will save you a lot of time on software installation.
 
 .. note::
 	Remember that you can call ``dir()`` on an object to find out what methods are available to that object. One of the methods associated with your tree object will help you generate a newick formatted tree.
