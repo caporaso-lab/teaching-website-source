@@ -2,6 +2,11 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 19
+==========
+
+Construct a UPGMA tree from `this distance matrix <https://docs.google.com/spreadsheet/ccc?key=0AvglGXLayhG7dDE2X01QeDZpNUJhQ2pfbHNpNXhxWGc#gid=1>`_. You only need to compute a UPGMA tree from the "simple" tab, don't worry about the "more-complex" tab.
+
 Lecture 2
 =========
 
