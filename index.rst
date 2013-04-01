@@ -30,7 +30,7 @@ Monday 3:15-4:15pm and Wednesday 1:00-2:00pm
 Bioinformatics @ Northern Arizona University
 ====================================================
 
-I am currently developing an undergraduate bioinformatics training program at Northern Arizona University spanning the Computer Science and Biology departments. This is not yet official but you should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying Bioinformatics at NAU. The initial courses are currently being developed and taught, so it's not too early to get started.
+I teach graduate and undergraduate courses in bioinformatics at Northern Arizona University spanning the Computer Science and Biology departments. There is not an official track in bioinformatics at NAU yet, but several courses are in development that will prepare you for a career in bioinformatics. You should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying bioinformatics at NAU.
 
 Getting started
 ---------------
@@ -79,6 +79,13 @@ Spring 2014, BIO299 / CS299 Introduction to Bioinformatics
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The previous course website is listed above.
+
+Independent research
+--------------------
+
+Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+
+I occasionally mentor exceptional undergraduate and graduate students in bioinformatics-related research projects. If you're interested in this, contact me with details about the type of project you'd like to work on, and about your educational background. These are considerably harder than a single semester course in bioinformatics, and require you to be highly self-motivated. I do not accept all students who are interested.
 
 Some resources for getting started with bioinformatics and python
 ==========================================================================================
