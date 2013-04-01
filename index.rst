@@ -30,7 +30,7 @@ Monday 3:15-4:15pm and Wednesday 1:00-2:00pm
 Bioinformatics @ Northern Arizona University
 ====================================================
 
-I teach graduate and undergraduate courses in bioinformatics at Northern Arizona University spanning the Computer Science and Biology departments. There is not an official track in bioinformatics at NAU yet, but several courses are in development that will prepare you for a career in bioinformatics. You should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying bioinformatics at NAU.
+I teach graduate and undergraduate courses in bioinformatics at Northern Arizona University in the Biology and Computer Science departments. There is not an official track in bioinformatics at NAU yet, but several courses are in development that will prepare you for a career in bioinformatics. You should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying bioinformatics at NAU.
 
 Getting started
 ---------------
