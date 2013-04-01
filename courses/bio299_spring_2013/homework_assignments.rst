@@ -13,7 +13,7 @@ Unless otherwise noted, homework must be turned in by email to jc33@nau.edu befo
 Homework 5: Metrics of diversity (15 points)
 --------------------------------------------
 
-Download the assignment from `here <https://docs.google.com/document/d/13DS3xEQBgSDpHLtwzRDWj7vi-WH4Oi_flh8BHW77ODs/edit?usp=sharing>`_. Complete the assignment, and turn in **in class** to Mr. Chase. All pages must contain your name and be stapled together.
+Download the assignment from `here <https://docs.google.com/document/d/13DS3xEQBgSDpHLtwzRDWj7vi-WH4Oi_flh8BHW77ODs/edit?usp=sharing>`_. Complete the assignment, and turn in **in class or before class** to Mr. Chase. All pages must contain your name and be stapled together.
 
 
 Application presentations
