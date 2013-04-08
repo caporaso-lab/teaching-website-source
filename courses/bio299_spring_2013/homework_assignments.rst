@@ -14,7 +14,7 @@ Homework 6: QIIME analysis (25 points)
 ---------------------------------------
 
 .. important::
-	Homework id: ``qiime``; Extension: ``biom``, ``pdf``, and ``ipynb``; For this assignment, the files I turn in would be named ``jgc53_qiime_otu_table_even.biom``, ``jgc53_qiime_paper.pdf`` and ``jgc53_qiime_analysis_notes.ipynb``.
+	Homework id: ``qiime``; Extension: ``biom``, ``pdf``, and ``ipynb``; For this assignment, the files I turn in would be named ``jgc53_qiime_otu_table_even.biom``, ``jgc53_qiime_paper.pdf`` and ``jgc53_qiime_analysis_notes.ipynb``. E-mail your files as three separate attachments to jc33@nau.edu.
 
 .. important:: This assignment involves large data files and requires a working QIIME installation. You should work in the `QIIME Virtual Box <http://qiime.org/install/virtual_box.html>`_ for this assignment. Remember that to run a ``bash`` (i.e., command line) command from the IPython notebook you should start that command with ``!``. 
 
@@ -42,8 +42,7 @@ The following commands will get you started. Run these after logging in to your 
 	!process_sff.py -i ./
 
 The steps in the `QIIME Overview Tutorial <http://qiime.org/tutorials/tutorial.html>`_ are the next place to go from here. Good luck!
-	
-	E-mail your files as three separate attachments to jc33@nau.edu.
+
 
 Homework 5: Metrics of diversity (15 points)
 --------------------------------------------
