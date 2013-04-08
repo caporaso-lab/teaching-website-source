@@ -32,14 +32,14 @@ The following commands will get you started. Run these after logging in to your 
 ::
 	
 	# download the Fierer data
-	curl -O https://s3.amazonaws.com/s3-caporaso-share/fierer_forensic_keyboard_assignment.tgz > fierer_forensic_keyboard_assignment.tgz
+	!curl -O https://s3.amazonaws.com/s3-caporaso-share/fierer_forensic_keyboard_assignment.tgz > fierer_forensic_keyboard_assignment.tgz
 	
 	# unpack the tgz file and change to the resulting directory
-	tar -xvzf fierer_forensic_keyboard_assignment.tgz
-	cd fierer_forensic_keyboard_assignment
+	!tar -xvzf fierer_forensic_keyboard_assignment.tgz
+	!cd fierer_forensic_keyboard_assignment
 	
 	# generate .fna and .qual files from the sff file
-	process_sff.py -i ./
+	!process_sff.py -i ./
 
 The steps in the `QIIME Overview Tutorial <http://qiime.org/tutorials/tutorial.html>`_ are the next place to go from here. Good luck!
 	
