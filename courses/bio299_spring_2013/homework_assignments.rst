@@ -10,6 +10,16 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
+Homework 7: Human genomics (20 points)
+--------------------------------------
+
+The purpose of this homework is to help you become familiar with two of the most common databases for human genetic information and the types of analysis that can be done on this information. All of the data that you will need for this assignment can be found on the `UCSC Human Genome Browser <http://genome.ucsc.edu/index.html>`_ and the `1000 Genomes Database <http://www.1000genomes.org/>`_. While all of the data you'll need is available from these two sites, you should feel free to research a topic or question elsewhere.
+
+Find the assignment `here <https://docs.google.com/document/d/19X4l2pTbcICo_tqcampM097eSSwHFQXdtphjLgPe-X8/edit>`_.
+
+.. important::
+	Homework id: ``hum_gen``; Extension: ``ipynb``, ``pdf``; For this assignment, the files I turn in would be named ``jc33_hum_gen.ipynb`` and ``jc33_hum_gen.pdf``. E-mail your files as an attachment to jc33@nau.edu.
+
 Homework 6: QIIME analysis (25 points)
 ---------------------------------------
 
