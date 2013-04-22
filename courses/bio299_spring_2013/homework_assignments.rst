@@ -10,8 +10,11 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to jc33@nau.edu before class on the day it is due. 
 
-Final Project
--------------
+Final Project Due: Tues May 7th, 5pm
+-------------------------------------
+
+.. important::
+	Homework id: ``final``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_final.pdf``. E-mail your files as an attachment to jc33@nau.edu.
 
 .. warning:: Start Early! The QIIME DB uses a shared server for this analysis, and you never know how busy it will be.
 
