@@ -8,8 +8,7 @@ Current courses (Spring 2013)
 .. toctree::
    :maxdepth: 1
 
-   BIO698 Applied Bioinformatics (website coming soon)
-   BIO399 / CS399 Bioinformatics II (website coming soon)
+   courses/bio698_fall_2013/index.rst
 
 Previous courses
 ==================
