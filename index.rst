@@ -8,7 +8,6 @@ Current courses (Spring 2013)
 .. toctree::
    :maxdepth: 1
 
-   courses/bio299_spring_2013/index.rst
 
 Previous courses
 ==================
@@ -16,6 +15,7 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/bio299_spring_2013/index.rst
    courses/bio599_fall_2012/index.rst
    courses/cs399_spring_2012/index.rst
    courses/cs299_fall_2011/index.rst
@@ -46,26 +46,28 @@ I maintain an email list that anyone at NAU can join to stay up-to-date on Bioin
 Current Bioinformatics Courses at NAU
 ======================================
 
-Spring 2013, BIO299 / CS299 Introduction to Bioinformatics 
-----------------------------------------------------------
+Fall 2013, BIO698 Applied Bioinformatics (one credit)
+-----------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+Schedule: Monday 4:00-5:00, Biology 238
+A seminar focused on developing and using bioinformatics tools and algorithms, with a focus on tools that students are using, plan to use, or plan to develop for their research projects.
 
-This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The current and previous course websites are listed above.
 
-Upcoming Bioinformatics Courses at NAU
-======================================
-
-Fall 2013, BIO399 / CS399 Bioinformatics II
---------------------------------------------
+Fall 2013, BIO399 / CS399 Bioinformatics II (three credits)
+-----------------------------------------------------------
 
 Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
 Schedule: Friday 10:30-12:30, Biology 413
 
 This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
 
-Spring 2014, BIO599 Addressing Biological Questions with Computing
-------------------------------------------------------------------
+
+Upcoming Bioinformatics Courses at NAU
+======================================
+
+Spring 2014, BIO599 Addressing Biological Questions with Computing (three credits)
+----------------------------------------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
@@ -73,8 +75,8 @@ This courses introduces Biologists to advanced computing skills that they'll nee
 
 For Biology students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
 
-Spring 2014, BIO299 / CS299 Introduction to Bioinformatics 
-----------------------------------------------------------
+Spring 2014, BIO299 / CS299 Introduction to Bioinformatics (three credits)
+--------------------------------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
