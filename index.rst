@@ -2,7 +2,7 @@
 Greg Caporaso's Teaching Website
 ====================================================
 
-Current courses (Spring 2013)
+Current courses (Fall 2013)
 =============================
 
 .. toctree::
