@@ -35,9 +35,9 @@ I teach graduate and undergraduate courses in bioinformatics at Northern Arizona
 
 Getting started
 ---------------
-*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take BIO/CS299. **The pre-requistes are CS 126 and BIO 181, both with lab. I will allow you to take one of these as a co-requisite, but not both!**
+*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take BIO/CS299 in Spring 2014. **The pre-requistes are CS 126 and BIO 181, both with lab. I will allow you to take one of these as a co-requisite, but not both!**
 
-*Graduate students*: In the Fall of 2013 I'll likely offer BIO599. This will be a great opportunity to get started in Bioinformatics and will provide the background you'll need to integrate bioinformatics into your masters or doctoral research projects.
+*Graduate students*: In the Spring of 2014 I'll offer BIO599. This will be a great opportunity to get started in Bioinformatics and will provide the background you'll need to integrate bioinformatics into your master's or doctoral research projects.
 
 
 Keeping up to date on Bioinformatics at NAU
