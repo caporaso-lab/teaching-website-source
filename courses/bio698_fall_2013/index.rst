@@ -17,5 +17,8 @@ Find the `course syllabus here <https://drive.google.com/#folders/0B_glGXLayhG7W
 Office Hours
 ============
 
-Dr. Caporaso: ARD 224 (in the ARD 220 office suite) (gregcaporaso@gmail.com)
+Dr. Caporaso: 
+
+ARD 224 (in the ARD 220 office suite)
+
 By appointment
