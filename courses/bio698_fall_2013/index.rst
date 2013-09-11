@@ -12,7 +12,7 @@ Course materials
 
 All of my lecture notes are publicly accessible, either through `SpeakerDeck <https://speakerdeck.com/gregcaporaso>`_ (for slides) or `Gist <https://gist.github.com/gregcaporaso>`_ (for IPython Notebooks, python scripts, data sets, etc). 
 
-Find the `course syllabus here <https://drive.google.com/#folders/0B_glGXLayhG7Wk1idEp5RkZpVkU>`_.
+Find the `course syllabus here <https://docs.google.com/file/d/0B_glGXLayhG7R0J4VDROSzlETGM/edit?usp=sharing>`_.
 
 Office Hours
 ============
