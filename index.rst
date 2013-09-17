@@ -79,6 +79,10 @@ Spring 2014, BIO599 Addressing Biological Questions with Computing (three credit
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
+
+Tentative schedule: Tuesday 4-6:30, Biology 238
+
+
 This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012. The previous course website is listed above.
 
 For Biology students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
@@ -87,6 +91,9 @@ Spring 2014, BIO299 / CS299 Introduction to Bioinformatics (three credits)
 --------------------------------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+
+
+Tentative schedule: Tuesday/Thursday 9:35-10:50, Biology 146
 
 This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The previous course website is listed above.
 
