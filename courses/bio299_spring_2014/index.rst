@@ -1,5 +1,5 @@
 ==========================================================================================
-BIO/CS 299 - Introduction to Bioinformatics (Spring 2013)
+BIO/CS 299 - Introduction to Bioinformatics (Spring 2014)
 ==========================================================================================
 
 General information
