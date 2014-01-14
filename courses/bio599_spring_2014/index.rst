@@ -5,9 +5,9 @@ Bio 599 - Computational Biology (Spring 2014)
 General information
 ===================
 
-You can find the course syllabus `here <>`_.
+You can find the course syllabus `here <https://drive.google.com/file/d/0B_glGXLayhG7LVFqeU5Qb0NfREE/edit?usp=sharing>`_.
 
-The course schedule (subject to updates throughout the semester) is available `here <>`_.
+The course schedule (subject to updates throughout the semester) is available `here <http://bit.ly/bio599-sp14-sch>`_.
 
 Find information on homework assignments `here <./homework_assignments.html>`_.
 
@@ -18,7 +18,7 @@ Required text: `Practical Computing for Biologists <http://practicalcomputing.or
 Course materials
 ================
 
-All of my lecture notes are publicly accessible, either through `SpeakerDeck <https://speakerdeck.com/gregcaporaso>`_ (for slides) or `Gist <https://gist.github.com/gregcaporaso>`_ (for IPython Notebooks). See the ``Lecture notes`` column in the `course schedule <>`_ to find a link to the materials for that lecture.
+All of my lecture notes are publicly accessible, either through `SpeakerDeck <https://speakerdeck.com/gregcaporaso>`_ (for slides) or `Gist <https://gist.github.com/gregcaporaso>`_ (for IPython Notebooks). See the ``Lecture notes`` column in the `course schedule <http://bit.ly/bio599-sp14-sch>`_ to find a link to the materials for that lecture.
 
 Office Hours
 ============
