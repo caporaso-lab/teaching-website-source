@@ -2,13 +2,14 @@
 Greg Caporaso's Teaching Website
 ====================================================
 
-Current courses (Fall 2013)
+Current courses (Spring 2014)
 =============================
 
 .. toctree::
    :maxdepth: 1
 
-   courses/bio698_fall_2013/index.rst
+   courses/bio599_spring_2014/index.rst
+   courses/bio299_spring_2014/index.rst
 
 Previous courses
 ==================
@@ -16,17 +17,20 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/bio698_fall_2013/index.rst
    courses/bio299_spring_2013/index.rst
    courses/bio599_fall_2012/index.rst
    courses/cs399_spring_2012/index.rst
    courses/cs299_fall_2011/index.rst
 
-Office Hours (Spring 2013)
+Office Hours (Spring 2014)
 ===========================================
 
-Dr. Caporaso: Engineering 265 (gregcaporaso@gmail.com)
+Dr. Caporaso: ARD 225 (gregcaporaso@gmail.com)
 
-Monday 3:15-4:15pm and Wednesday 1:00-2:00pm
+Tues 2:30-3:30pm
+
+Thurs 11:00-12:00pm (ARD
 
 Bioinformatics @ Northern Arizona University
 ====================================================
@@ -35,9 +39,9 @@ I teach graduate and undergraduate courses in bioinformatics at Northern Arizona
 
 Getting started
 ---------------
-*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take BIO/CS299 in Spring 2014. **The pre-requistes are CS 126 and BIO 181, both with lab. I will allow you to take one of these as a co-requisite, but not both!**
+*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take BIO/CS 290 (formerly BIO/CS 299) in Spring 2015. **The pre-requistes are CS 126 and BIO 181, both with lab. I will allow you to take one of these as a co-requisite, but not both!**
 
-*Graduate students*: In the Spring of 2014 I'll offer BIO599. This will be a great opportunity to get started in Bioinformatics and will provide the background you'll need to integrate bioinformatics into your master's or doctoral research projects.
+*Graduate students*: In the Fall of 2014, I'll offer BIO 698: Applied Bioinformatics, a one-credit seminar focused on paper discussions. This will be a great follow-on to my BIO 599 class, though it will stand-alone so you do not need to take BIO 599 to take BIO 698. In the Spring of 2015 I'll offer BIO599. This is an opportunity to get started in Bioinformatics, and will provide the background you'll need to integrate bioinformatics into your master's or doctoral research projects.
 
 
 Keeping up to date on Bioinformatics at NAU
@@ -47,40 +51,13 @@ I maintain an email list that anyone at NAU can join to stay up-to-date on Bioin
 Current Bioinformatics Courses at NAU
 ======================================
 
-Fall 2013, BIO698 Applied Bioinformatics (one credit)
------------------------------------------------------
-
-Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
-
-
-Schedule: Monday 4:00-5:00, Biology 238
-
-
-A seminar focused on developing and using bioinformatics tools and algorithms, with a focus on tools that students are using, plan to use, or plan to develop for their research projects.
-
-
-Fall 2013, BIO399 / CS399 Bioinformatics II (three credits)
------------------------------------------------------------
-
-Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
-
-
-Schedule: Friday 10:30-12:30, Biology 413
-
-
-This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
-
-
-Upcoming Bioinformatics Courses at NAU
-======================================
-
 Spring 2014, BIO599 Addressing Biological Questions with Computing (three credits)
 ----------------------------------------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 
-Tentative schedule: Tuesday 4-6:30, Biology 238
+Schedule: Tuesday 4-6:30, Biology 238
 
 
 This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012. The previous course website is listed above.
@@ -93,9 +70,59 @@ Spring 2014, BIO299 / CS299 Introduction to Bioinformatics (three credits)
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 
-Tentative schedule: Tuesday/Thursday 9:35-10:50, Biology 146
+Schedule: Tuesday/Thursday 9:35-10:50, Biology 146
 
-This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall, 2011. The previous course website is listed above.
+This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011 and Spring 2013. The previous course websites are listed above.
+
+
+Upcoming Bioinformatics Courses at NAU
+======================================
+
+Fall 2013, BIO698 Applied Bioinformatics (one credit)
+-----------------------------------------------------
+
+Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+
+
+Schedule: TBD
+
+
+A seminar focused on developing and using bioinformatics tools and algorithms, with a focus on tools that students are using, plan to use, or plan to develop for their research projects.
+
+
+Fall 2013, BIO399 / CS399 Bioinformatics II (three credits)
+-----------------------------------------------------------
+
+Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
+
+
+Schedule: TBD
+
+
+This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
+
+Spring 2015, BIO599 Addressing Biological Questions with Computing (three credits)
+----------------------------------------------------------------------------------
+
+Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+
+
+Schedule: TBD
+
+
+This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.
+
+For Biology students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
+
+Spring 2015, BIO290 / CS290 Introduction to Bioinformatics (three credits)
+--------------------------------------------------------------------------
+
+Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+
+
+Schedule: TBD
+
+This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above.
 
 Independent research
 --------------------
