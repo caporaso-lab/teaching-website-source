@@ -5,7 +5,7 @@ Bio 599 - Computational Biology (Spring 2014)
 General information
 ===================
 
-You can find the course syllabus :download:`here <>`.
+You can find the course syllabus `here <>`_.
 
 The course schedule (subject to updates throughout the semester) is available `here <>`_.
 
