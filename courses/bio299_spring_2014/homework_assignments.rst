@@ -16,7 +16,7 @@ Download a genome and compute its GC content. Copy or download `the assignment <
 
 Note that there are various ways that you can just look up the GC content, including via the IMG website. I'm asking you to compute it, and you're being graded on your descriptions. Getting the right answer is a bonus (i.e., if you spend a couple of hours trying, and get it wrong, you'll be graded on your well-documented effort, not your final answer).
 
-Hints: Start with the IMG Genome Browser, and work with a bacterial, archaeal or viral genome.
+Hints: Start with the `NCBI Genome Browser <http://www.ncbi.nlm.nih.gov/genome>`_, and work with a bacterial, archaeal or viral genome.
 
 Be creative - there are many ways to achieve this.
 

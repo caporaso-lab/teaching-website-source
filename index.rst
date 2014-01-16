@@ -46,7 +46,7 @@ Getting started
 
 Keeping up to date on Bioinformatics at NAU
 -------------------------------------------
-I maintain an email list that anyone at NAU can join to stay up-to-date on Bioinformatics-related activities at NAU. You can request to join by sending an email message to listserv@lists.nau.edu
+I maintain an email list that anyone at NAU can join to stay up-to-date on informatics-related activities at NAU. You can request to join by sending an email message to listserv@lists.nau.edu
 with a single line of text in the body of the message that reads::
 
   subscribe big-data your_first_name your_last_name
