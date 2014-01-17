@@ -43,6 +43,8 @@ Getting started
 
 *Graduate students*: In the Fall of 2014, I'll offer BIO 698: Applied Bioinformatics, a one-credit seminar focused on paper discussions. This will be a great follow-on to my BIO 599 class, though it will stand-alone so you do not need to take BIO 599 to take BIO 698. In the Spring of 2015 I'll offer BIO599. This is an opportunity to get started in Bioinformatics, and will provide the background you'll need to integrate bioinformatics into your master's or doctoral research projects.
 
+NAU does not currently have a graduate program specifically in bioinformatics. If you have a biology background, you'd likely want to come in to either the PhD or Master's Biology program. You would then work with a faculty member whose research is bioinformatics heavy, and they would guide you toward relevant coursework. You can find some more information on graduate studies in biology on the `department website <http://nau.edu/CEFNS/NatSci/Biology/Degrees-Programs/Graduate/>`_.
+
 
 Keeping up to date on Bioinformatics at NAU
 -------------------------------------------
