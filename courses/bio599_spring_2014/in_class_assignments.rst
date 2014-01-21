@@ -2,6 +2,14 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 2
+=========
+
+Working with regular expressions
+--------------------------------
+
+Download `this file <https://www.dropbox.com/s/m21r7l91al1k0nt/Lecture2_support.zip>`_ and unzip it. Work through the examples presented in the lecture slides.
+
 Lecture 1
 =========
 
