@@ -19,11 +19,11 @@ Using ``curl`` and ``grep``
 ---------------------------
 Download the EMP minimal mapping file, directly into your AWS instance, from `here <https://www.dropbox.com/s/up005whnyunid9o/emp_11sept2012_minimal_mapping_file.txt.zip>`_ using ``curl``. You'll need to unzip that file with ``gunzip`` to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
 
-How do you invert a search with ``grep``?  How many lines contain information on human-associated samples? How many lines contain information on non-human-associated samples?
+How do you perform a search with ``grep``? How do you invert a search with ``grep``?  How can you print the lines that contain information on human-associated samples? How can you print the lines that contain information on non-human-associated samples?
 
 Using ``grep`` and navigating directories
 -----------------------------------------
-Under the ``qiime_software`` directory, there is a ``gg_otus_4feb2011`` directory, and another directory under that called ``rep_set`` which contains several fasta files. How do you perform a search with ``grep``? How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
+Download the Greengenes 13_8 OTUs subset from `here <https://www.dropbox.com/s/a0coxo8zkw6qz63/gg_13_8_otus_sub.tgz>`_. Untar/zip the file, and change to the resulting directory. Under this directory, there is another directory called ``rep_set`` which contains several fasta files. How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
 
 Configure ftp in your coding account
 ------------------------------------
