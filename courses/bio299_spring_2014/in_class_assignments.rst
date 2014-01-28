@@ -2,6 +2,12 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 5
+=========
+
+.. note::
+	If you want e-mail updates on NAU's Linux cluster (and other local "big data" topics), see `here <http://caporasolab.us/teaching/#keeping-up-to-date-on-bioinformatics-at-nau>`_.**
+
 Lecture 3
 =========
 
