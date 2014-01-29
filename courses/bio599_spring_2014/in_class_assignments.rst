@@ -24,7 +24,7 @@ How do you perform a search with ``grep``? How do you invert a search with ``gre
 
 Using ``grep`` and navigating directories
 -----------------------------------------
-Download the Greengenes 13_8 OTUs subset from `here <https://www.dropbox.com/s/a0coxo8zkw6qz63/gg_13_8_otus_sub.tgz>`_ using curl. Untar/zip the file, and change to the resulting directory. Under this directory, there is another directory called ``rep_set`` which contains several fasta files. How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
+Download the Greengenes 13_8 OTUs subset from `here <https://dl.dropboxusercontent.com/s/a0coxo8zkw6qz63/gg_13_8_otus_sub.tgz>`_ using curl. Untar/zip the file (hint: use ``tar -xzvf``), and change to the resulting directory. Under this directory, there is another directory called ``rep_set`` which contains several fasta files. How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
 
 Configure ftp in your coding account
 ------------------------------------
