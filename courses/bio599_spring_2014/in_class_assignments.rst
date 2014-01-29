@@ -17,7 +17,8 @@ The remaining exercises will be performed in your koding.com virtual machine.
 
 Using ``curl`` and ``grep``
 ---------------------------
-Download the EMP minimal mapping file, directly into your AWS instance, from `here <https://www.dropbox.com/s/f7ysoltbn0zpah7/emp_11sept2012_minimal_mapping_file.txt.gz>`_ using ``curl``. You'll need to unzip that file with ``gunzip`` to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
+Download the EMP minimal mapping file, directly into your AWS instance, from `here <https://dl.dropboxusercontent.com/s/f7ysoltbn0zpah7/e
+mp_11sept2012_minimal_mapping_file.txt.gz>`_ using ``curl``. You'll need to unzip that file with ``gunzip`` to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
 
 How do you perform a search with ``grep``? How do you invert a search with ``grep``?  How can you print the lines that contain information on human-associated samples? How can you print the lines that contain information on non-human-associated samples?
 
