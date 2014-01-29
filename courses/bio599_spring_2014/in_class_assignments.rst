@@ -9,21 +9,21 @@ Create a koding account
 -----------------------
 
 .. note::
-	If you want e-mail updates on NAU's Linux cluster (and other local "big data" topics), see `here <http://caporasolab.us/teaching/#keeping-up-to-date-on-bioinformatics-at-nau>`_.**
+	If you want e-mail updates on NAU's Linux cluster (and other local "big data" topics), see `here <http://caporasolab.us/teaching/#keeping-up-to-date-on-bioinformatics-at-nau>`_.
 
-Go `here <https://koding.com/R/gregcaporaso>`_) to create a new account at koding.com. Boot up a virtual machine, and open the terminal.
+Go `here <https://koding.com/R/gregcaporaso>`_ to create a new account at koding.com. Boot up a virtual machine, and open the terminal.
 
 The remaining exercises will be performed in your koding.com virtual machine. 
 
 Using ``curl`` and ``grep``
 ---------------------------
-Download the EMP minimal mapping file, directly into your AWS instance, from `here <https://www.dropbox.com/s/up005whnyunid9o/emp_11sept2012_minimal_mapping_file.txt.zip>`_ using ``curl``. You'll need to unzip that file with ``gunzip`` to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
+Download the EMP minimal mapping file, directly into your AWS instance, from `here <https://www.dropbox.com/s/f7ysoltbn0zpah7/emp_11sept2012_minimal_mapping_file.txt.gz>`_ using ``curl``. You'll need to unzip that file with ``gunzip`` to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
 
 How do you perform a search with ``grep``? How do you invert a search with ``grep``?  How can you print the lines that contain information on human-associated samples? How can you print the lines that contain information on non-human-associated samples?
 
 Using ``grep`` and navigating directories
 -----------------------------------------
-Download the Greengenes 13_8 OTUs subset from `here <https://www.dropbox.com/s/a0coxo8zkw6qz63/gg_13_8_otus_sub.tgz>`_. Untar/zip the file, and change to the resulting directory. Under this directory, there is another directory called ``rep_set`` which contains several fasta files. How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
+Download the Greengenes 13_8 OTUs subset from `here <https://www.dropbox.com/s/a0coxo8zkw6qz63/gg_13_8_otus_sub.tgz>`_ using curl. Untar/zip the file, and change to the resulting directory. Under this directory, there is another directory called ``rep_set`` which contains several fasta files. How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
 
 Configure ftp in your coding account
 ------------------------------------
