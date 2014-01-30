@@ -13,7 +13,7 @@ Unless otherwise noted, homework must be turned in by email to chase.johnh@gmail
 BLAST exercises (due 13 February 2013, 20 points)
 -------------------------------------------------
 
-Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/1x_ilvV9zW_SI1sFyqukhLz0Lnd4gAmwlVEJ4jrC814Q/edit>`_. You should turn in a PDF of that file with all answers filled in by email to chase.johnh@gmail.com.
+Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/11n5-A5Zzqc1EDnAaUTup387XMFeM06ueLt1XqUiDuXQ/pub>`_. You should turn in a PDF of that file with all answers filled in by email to chase.johnh@gmail.com.
 
 .. important::
 	Homework id: ``blast``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_blast.pdf``. 
