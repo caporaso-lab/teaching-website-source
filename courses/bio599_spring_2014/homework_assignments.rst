@@ -10,6 +10,39 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to gregcaporaso@gmail.com before class on the day it is due. 
 
+Shell script (due 18 Feb 2014)
+------------------------------
+
+In this assignment you will automate retrieval and processing of PDB files with a shell (``bash``) script, and turn that script in. I will run that script and grade you on the results. 
+
+You should develop this script in your virtual machine on koding.com, or test it there before turning it in. That is where I'll run your code, so you need to be sure that it works correctly in that environment. If it works on your laptop, but not on koding.com, that's not good enough!
+
+Your script should perform the following steps:
+
+1. Create a new directory called ``<nau-id>_pdb_output`` (e.g., mine would be called ``jgc53_pdb_output``). I'll refer to this as your *output directory*.
+
+2. Create a file in your output directory called ``pdb_retrieval.log`` which contains:
+ a. the time the script began running (including descriptive text like `Logging started at:` ``<time>``) - this should only be the time, not the date (use google and ``man`` to figure out the formatting)
+ b. the time the script completed running (again with descriptive text like `Logging ended at:` ``<time>``) - this should only be the time, not the date (use google and ``man`` to figure out the formatting) 
+ c. the URLs of the files that were downloaded
+ d. the date of the download (so in case of future changes to the files on the PDB you know what versions of the files you obtained) - this should only be the date, not the time (use google and ``man`` to figure out the formatting)
+ e. any other information that you think might be important to log.
+
+3. Download the following PDB records as PDB files in ``.gz`` format: ``4DA7``, ``1HSG``,  ``1ZQA``, ``2RNM``, ``1RCX``, ``1GFL``,  ``2WDK`` (Hint: first go to the Protein Data Bank website and find the link to those records. Then figure out how to generalize that link to match different records.)
+
+4. Unzip all of the ``.gz`` files. (Hint: a wildcard expression is useful here.)
+
+5. Extract the line(s) containing PMIDs (PubMed Identifiers) for each of the records (Hint: Use ``grep`` for this, and review the files to figure out where that information is) and write those lines to a new file called ``pmids.txt`` in your output directory.
+
+6. Extract the line(s) containing TITLE for each of the records (Hint: Use ``grep`` for this, and review the files to figure out where that information is) and write those lines to a new file called ``titles.txt`` in your output directory. 
+
+7. Zip all of the PDB files in the directory with ``gzip``.
+
+.. important::
+	Homework id: ``shellscript``; Extension: ``sh``; For this assignment, the script file I turn in would be named ``jgc53_shellscript.sh``. Note that you will not turn in any files in the ``pdb_files`` directory: I'll generate those using your script. 
+	
+	E-mail your shell script as an attachment to gregcaporaso@gmail.com.
+
 Regular Expressions
 --------------------------------------
 Download the EMP minimal mapping file `here <https://www.dropbox.com/s/up005whnyunid9o/emp_11sept2012_minimal_mapping_file.txt.zip>`_. You'll need to unzip that file to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
