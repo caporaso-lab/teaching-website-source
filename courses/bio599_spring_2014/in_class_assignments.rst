@@ -9,7 +9,19 @@ Lecture 5
 Working with the python interpreter
 -----------------------------------
 
-Define some variables, and do some math with those variables. 
+Run the command ``python`` to open the python interpreter. 
+
+Define a variable ``a`` as some integer, and add a number to it. 
+
+Define a variable ``b`` as some integer, and add it to ``a``. 
+
+Multiply and divide ``a`` and ``b``. When do you and do you not get the expected results? 
+
+Set a variable ``c`` as the result of some operation between ``a`` and ``b``. 
+
+Define a variable ``d`` as a real (i.e., floating point) number. Perform the same operations as above, using ``d`` in place of ``a`` or ``b``. What is the same and what is different about the results. 
+
+Print a string to the screen.
 
 Write a python `Hello World` script
 -----------------------------------
