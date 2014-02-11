@@ -3,7 +3,23 @@ In-class assignments
 ==========================================================================================
 
 
-Lecture 6
+Lecture 5
+=========
+
+Working with the python interpreter
+-----------------------------------
+
+Define some variables, and do some math with those variables. 
+
+Write a python `Hello World` script
+-----------------------------------
+
+Log in to the cluster, write a program called ``hello_world.py`` that when run prints the text ``Hello World!`` to the terminal. You should be able to call this script from anywhere like:
+
+	hello_world.py
+
+
+Lecture 4
 =========
 
 Using ``grep`` and navigating directories
@@ -37,7 +53,7 @@ Write a more useful shell script
 
 Write a new shell script that tells you the number of records in a fasta file, if you provide a path to a fasta file on the command line. Hint: If you pass argument(s) to your script, you can access those within the script as ``$1``, ``$2``, .... 
 
-Lecture 5
+Lecture 3
 =========
 
 Create a koding account
