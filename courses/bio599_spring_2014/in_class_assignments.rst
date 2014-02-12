@@ -3,7 +3,7 @@ In-class assignments
 ==========================================================================================
 
 
-Lecture 5
+Lecture 6
 =========
 
 Working with the python interpreter
@@ -30,6 +30,25 @@ Log in to the cluster, write a program called ``hello_world.py`` that when run p
 
 	hello_world.py
 
+Lecture 5
+=========
+
+Make your script developed in class last time executable from anywhere on the system.
+-------------------------------------------------------------------------------------
+
+This will involve changing permissions using chmod, setting your ``PATH`` environment variable with ``export``, and adding that export command to your ``$HOME/.bashrc`` script.
+
+You can do this as follows::
+	
+	mkdir $HOME/scripts
+	echo "export PATH=$HOME/scripts:$PATH >> $HOME/.bashrc"
+
+You'll then need to open a new terminal window so ``$HOME/.bashrc`` is executed (and your ``$PATH`` variable gets set).
+
+Configure ftp in your coding account
+------------------------------------
+
+See the instructions `here <http://learn.koding.com/setting-up-ftp-on-koding/>`_. 
 
 Lecture 4
 =========
@@ -38,14 +57,9 @@ Using ``grep`` and navigating directories
 -----------------------------------------
 Download the Greengenes 13_8 OTUs subset from `here <https://dl.dropboxusercontent.com/s/a0coxo8zkw6qz63/gg_13_8_otus_sub.tgz>`_ using curl. Untar/zip the file (hint: use ``tar -xzvf``), and change to the resulting directory. Under this directory, there is another directory called ``rep_set`` which contains several fasta files. How do you get ``grep`` to print the number of lines in a file rather than the lines which match a pattern? How many sequence records are in the ``97``, ``88``, and ``73`` variants of those files?
 
-Configure ftp in your coding account
-------------------------------------
-
-See the instructions `here <http://learn.koding.com/setting-up-ftp-on-koding/>`_. 
-
 Writing a first shell script
 ----------------------------
-Set your ``PATH`` environment variable to contain a new ``scripts`` directory under your directory. Create a new file called ``my_script.sh`` with ``nano`` and enter the following text::
+Create a new file called ``my_script.sh`` with ``nano`` and enter the following text::
 	
 	#!/bin/bash
 	echo "Below are contents of the directory:"
@@ -57,6 +71,10 @@ Set your ``PATH`` environment variable to contain a new ``scripts`` directory un
 Now change the permissions on this file to give it execute permissions::
 
 	chmod u+x my_script.sh
+
+Then execute this by running::
+
+	./my_script.sh
 
 This exercise is derived from *Practical Computing for Biologists*
 
