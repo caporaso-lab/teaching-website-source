@@ -41,7 +41,7 @@ This will involve changing permissions using chmod, setting your ``PATH`` enviro
 You can do this as follows::
 	
 	mkdir $HOME/scripts
-	echo "export PATH=$HOME/scripts:$PATH >> $HOME/.bashrc"
+	echo "export PATH=$HOME/scripts:$PATH" >> $HOME/.bashrc
 
 You'll then need to open a new terminal window so ``$HOME/.bashrc`` is executed (and your ``$PATH`` variable gets set).
 
