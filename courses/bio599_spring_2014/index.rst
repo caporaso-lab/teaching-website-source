@@ -26,3 +26,6 @@ Office Hours
 Dr. Caporaso: ARD 225 (in the ARD 220 office suite) (gregcaporaso@gmail.com)
 Tuesday 2:30-3:30pm
 Thursday 11:00-12:00pm
+
+John Chase: ARD 224 (in the ARD 220 office suite, for help with python programming only) (chase.johnh@gmail.com)
+Wednesday 4:00-5:00pm
