@@ -41,9 +41,10 @@ This will involve changing permissions using chmod, setting your ``PATH`` enviro
 You can do this as follows::
 	
 	mkdir $HOME/scripts
+	echo "" >> $HOME/.bashrc
 	echo "export PATH=$HOME/scripts:$PATH" >> $HOME/.bashrc
 
-You'll then need to open a new terminal window so ``$HOME/.bashrc`` is executed (and your ``$PATH`` variable gets set).
+You'll then need to open a new terminal window so ``$HOME/.bashrc`` is executed (and your ``$PATH`` variable gets set). You can then copy your script into ``$HOME/scripts``, and you should be able to run it from anywhere on the system.
 
 Configure ftp in your coding account
 ------------------------------------
