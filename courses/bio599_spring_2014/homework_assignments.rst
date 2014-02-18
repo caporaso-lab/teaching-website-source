@@ -10,6 +10,25 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to gregcaporaso@gmail.com before class on the day it is due. 
 
+Programming Assignment 1 (due 4 Mar 2014)
+-------------------------------------
+
+Write a program that does the following:
+ - query a user for an input sequence
+ - print the sequence, all in uppercase, in four orientations (forward, reverse, forward complement, reverse complement), where forward refers to the sequence that was passed in.
+ - print the GC content (percent of the sequence which is either G or C) of the forward orientation of the sequence
+ - print the length of the sequence
+
+.. note:: Complementing the sequence can be tricky with your current skill set. You may need to go through an intermediate state by replacing characters with some other character. There are many ways to do this and the goal here is to get the right answer. I don't care how you implement it.
+
+.. note:: To reverse a string ``s``, you can use the command ``s_rev = s[::-1]`` We'll talk about this syntax within the next couple of weeks - for now, just treat this command as magic.
+
+.. note:: To perform real division using integers, add the following line at the beginning of your file (just after the `shebang` line): ``from __future__ import division``
+
+.. important::
+	Homework id: ``sequence_stats``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_sequence_stats.py``. 
+
+
 Shell script (due 18 Feb 2014)
 ------------------------------
 
