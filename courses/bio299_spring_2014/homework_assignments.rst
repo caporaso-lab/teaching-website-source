@@ -10,7 +10,15 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to chase.johnh@gmail.com before class on the day it is due. 
 
-BLAST exercises (due 13 February 2013, 20 points)
+Pairwise alignment exercises (due 6 March 2014, 20 points)
+----------------------------------------------------------
+
+For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.ipython.org/github/gregcaporaso/An-Introduction-To-Applied-Bioinformatics/blob/master/algorithms/alignment-exercises.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date. 
+
+.. important::
+	Homework id: ``pairwise_alignment``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_pairwise_alignment.pdf``. 
+
+BLAST exercises (due 13 February 2014, 20 points)
 -------------------------------------------------
 
 Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/11n5-A5Zzqc1EDnAaUTup387XMFeM06ueLt1XqUiDuXQ/pub>`_. You should turn in a PDF of that file with all answers filled in by email to chase.johnh@gmail.com.
@@ -170,7 +178,7 @@ Query sequences::
 	CATTTTATTAGGAGCTAGCCGTCGAAGGTGGGAC
 
 
-Assignment 1: GC content (due 23 January 2013, 10 points)
+Assignment 1: GC content (due 23 January 2014, 10 points)
 ---------------------------------------------------------
 Download a genome and compute its GC content. Copy or download `the assignment <https://docs.google.com/document/d/1iY1sfH9uKulmO0CLugtQOzBoAIGqh0oIwzZfa1ARay0/edit>`_, fill in your answers, and turn the assignment in by email as a PDF.
 

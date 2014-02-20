@@ -20,7 +20,7 @@ Course materials
 
 All of my lecture notes are publicly accessible, either through `SpeakerDeck <https://speakerdeck.com/gregcaporaso>`_ (for slides) or `Gist <https://gist.github.com/gregcaporaso>`_ (for IPython Notebooks). See the ``Lecture notes`` column in the `course schedule <http://bit.ly/bio599-sp14-sch>`_ to find a link to the materials for that lecture.
 
-The IPython Notebook server used in class is accessible [here](https://dana.ucc.nau.edu:8887/). You'll get the password in class. Note that you can only access this system from NAU IP addresses, included ethernet connections on campus, via the NAU wireless network, or via VPN when off-campus. Thanks to ITS Academic Computing for setting this up for us!
+The IPython Notebook server used in class is accessible `here <https://dana.ucc.nau.edu:8887/>`_. You'll get the password in class. Note that you can only access this system from NAU IP addresses, included ethernet connections on campus, via the NAU wireless network, or via VPN when off-campus. Thanks to ITS Academic Computing for setting this up for us!
 
 Office Hours
 ============

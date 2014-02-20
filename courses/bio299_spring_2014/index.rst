@@ -20,7 +20,7 @@ There is no text book for this class. All of the reading materials are publicly 
 
 Find the `course syllabus here <https://drive.google.com/file/d/0B_glGXLayhG7dnM3YmVfX2tDWTg/edit?usp=sharing>`_.
 
-The IPython Notebook server used in class is accessible [here](https://dana.ucc.nau.edu:8887/). You'll get the password in class. Note that you can only access this system from NAU IP addresses, included ethernet connections on campus, via the NAU wireless network, or via VPN when off-campus. Thanks to ITS Academic Computing for setting this up for us!
+The IPython Notebook server used in class is accessible `here <https://dana.ucc.nau.edu:8887/>`_. You'll get the password in class. Note that you can only access this system from NAU IP addresses, included ethernet connections on campus, via the NAU wireless network, or via VPN when off-campus. Thanks to ITS Academic Computing for setting this up for us!
 
 Office Hours
 ============
