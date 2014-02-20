@@ -10,6 +10,40 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to chase.johnh@gmail.com before class on the day it is due. 
 
+Application presentations
+-------------------------
+
+.. important::
+	Homework id: ``app``; Extension: ``pdf``; The assignment should be named ``<group-number>_app.pdf`` and ``<group-number>_app_slides.pdf``, so for example Group 1's assignments would be named ``group1_app.pdf`` and ``group1_app_slides.pdf``.
+
+Expectations
+^^^^^^^^^^^^
+
+Each group will be pre-assigned an article seven days before their presentation date. The students will present their article in class the day they're assigned. Each member of the group will present part of the material. Answers to the following questions will be turned in (by email, with all group member names included). These answers should form an approximately two-page report. 
+ 
+ 1. What is the biological problem that the authors are trying to address?
+ 2. What is the motivation for addressing this problem?
+ 3. What previous work has been done in this area? Are there pre-existing tools that address this problem?
+ 4. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+ 5. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)? 
+ 6. What is the input to this tool?
+ 7. What is the output of this tool?
+ 8. How did the authors test this tool? Was performance benchmarking included in their paper?
+ 9. How did the authors evaluate whether this tool was giving biologically meaningful results?
+ 
+Presentations will address these same questions, and will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output. You presentation should be around 20 minutes, including the live demo.
+
+Grading
+^^^^^^^
+
+All students in a group will receive the same grade on this assignment, unless there is clear evidence that some student(s) didn't contribute. 
+
+Groups
+^^^^^^
+
+TBD
+
+
 Pairwise alignment exercises (due 6 March 2014, 20 points)
 ----------------------------------------------------------
 
