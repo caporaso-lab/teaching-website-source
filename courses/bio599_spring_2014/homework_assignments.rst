@@ -10,8 +10,8 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to gregcaporaso@gmail.com before class on the day it is due. 
 
-Programming Assignment 1 (due 4 Mar 2014)
--------------------------------------
+Programming Assignment 1 (due 4 Mar 2014)  (20 points)
+-------------------------------------------------------
 
 Write a program that does the following:
  - query a user for an input sequence
@@ -29,8 +29,8 @@ Write a program that does the following:
 	Homework id: ``sequence_stats``; Extension: ``py``; For this assignment, the file I turn in would be named ``jgc53_sequence_stats.py``. 
 
 
-Shell script (due 18 Feb 2014)
-------------------------------
+Shell script (due 18 Feb 2014)  (20 points)
+-------------------------------------------
 
 In this assignment you will automate retrieval and processing of PDB files with a shell (``bash``) script, and turn that script in. I will run that script and grade you on the results. 
 
@@ -62,7 +62,7 @@ Your script should perform the following steps:
 	
 	E-mail your shell script as an attachment to gregcaporaso@gmail.com.
 
-Regular Expressions
+Regular Expressions  (20 points)
 --------------------------------------
 Download the EMP minimal mapping file `here <https://www.dropbox.com/s/up005whnyunid9o/emp_11sept2012_minimal_mapping_file.txt.zip>`_. You'll need to unzip that file to get started. You can read about the `file format here <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_.
 
@@ -91,8 +91,8 @@ The tasks you must achieve are as follows:
 	
 	E-mail these three files as attachments to gregcaporaso@gmail.com.
 
-GC content (due 21 Jan 2014)
-----------------------------
+GC content (due 21 Jan 2014) (10 points)
+----------------------------------------
 Download a genome and compute its GC content (i.e., the percent of the genome that is composed of G or C). Turn in a max of one page describing the steps that you took to achieve this, including failed attempts, and the genome you selected (include a link to the download page) and the GC content that you computed.
 
 Note that there are various ways that you can just look up the GC content, including via the IMG website. I'm asking you to compute it, and you're being graded on your description of the process. Getting the right answer is a bonus (i.e., if you spend a couple of hours trying, and get it wrong, you'll be graded on your well-documented effort, not your final answer).
