@@ -30,7 +30,7 @@ Dr. Caporaso: ARD 225 (gregcaporaso@gmail.com)
 
 Tues 2:30-3:30pm
 
-Thurs 11:00-12:00pm (ARD
+Thurs 11:00-12:00pm
 
 Bioinformatics @ Northern Arizona University
 ====================================================
