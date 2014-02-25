@@ -2,6 +2,18 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 7
+=========
+
+Write a python `Hello World` script
+-----------------------------------
+
+In your Unix/Linux/OS X environment of choice (koding.com, QIIME VB, laptop), write a program called ``hello_world.py`` that when run prints the text ``Hello World!`` to the terminal. You should be able to call this script from anywhere like:
+
+	hello_world.py
+
+.. hint:: Don't forget the *shebang* line. For python scripts, this should look like ``#!/usr/bin/env python``.
+
 
 Lecture 6
 =========
@@ -23,12 +35,6 @@ Define a variable ``d`` as a real (i.e., floating point) number. Perform the sam
 
 Print a string to the screen.
 
-Write a python `Hello World` script
------------------------------------
-
-Log in to the cluster, write a program called ``hello_world.py`` that when run prints the text ``Hello World!`` to the terminal. You should be able to call this script from anywhere like:
-
-	hello_world.py
 
 Lecture 5
 =========
