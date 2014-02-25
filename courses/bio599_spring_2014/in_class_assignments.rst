@@ -14,6 +14,12 @@ In your Unix/Linux/OS X environment of choice (koding.com, QIIME VB, laptop), wr
 
 .. hint:: Don't forget the *shebang* line. For python scripts, this should look like ``#!/usr/bin/env python``.
 
+Create a "sequence processor" script
+------------------------------------
+
+Define a new script called ``sequence_processor.py``. This script should take two arguments on the command line, a function and a sequence, and output the results of applying the specified function to the sequence. Be creative in what functions you support (but some ideas are ``compute-length`` and ``compute-gc-content``). Add a ``help`` function which prints out some information on how to use your script and what functions it supports.
+
+.. hint:: Use ``argv`` to load command line arguments. To do this, you'll need to include the line ``from sys import argv`` toward the top of your script.
 
 Lecture 6
 =========
