@@ -21,6 +21,19 @@ Define a new script called ``sequence_processor.py``. This script should take tw
 
 .. hint:: Use ``argv`` to load command line arguments. To do this, you'll need to include the line ``from sys import argv`` toward the top of your script.
 
+You can use the following as a starting point for this::
+
+	#!/usr/bin/env python
+
+	from sys import argv
+
+	if len(argv) == 3:
+	   print "The name of the script is: ", argv[0]
+	   print "The first argument is: ", argv[1]
+	   print "The second argument is: ", argv[2]
+	else:
+	   print "ERROR: sequence_processor.py must be called with exactly two arguments!"
+
 Lecture 6
 =========
 
