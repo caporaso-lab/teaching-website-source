@@ -2,6 +2,14 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 8
+=========
+
+Continue working on your "sequence processor" script
+----------------------------------------------------
+
+See description under Lecture 7.
+
 Lecture 7
 =========
 
