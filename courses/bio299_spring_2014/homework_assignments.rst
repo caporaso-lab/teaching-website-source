@@ -41,7 +41,9 @@ All students in a group will receive the same grade on this assignment, unless t
 Groups
 ^^^^^^
 
-Group 1 (Presentation date: 6 Mar 2014, Application: GenGIS `paper <http://dl.dropboxusercontent.com/u/2868868/cs299_slides_XCFGcsdFGGad/Genome%20Res.-2009-Parks-1896-904.pdf>`_)
+Group 1
+```````
+(Presentation date: 6 Mar 2014, Application: GenGIS `paper <http://dl.dropboxusercontent.com/u/2868868/cs299_slides_XCFGcsdFGGad/Genome%20Res.-2009-Parks-1896-904.pdf>`_)
 
 dm669 (CS) rsb93 (CS) sd543 (BIO) hw244 (BIO) tmr252 (BIO)
 
