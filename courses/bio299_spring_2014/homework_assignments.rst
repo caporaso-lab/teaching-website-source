@@ -41,7 +41,28 @@ All students in a group will receive the same grade on this assignment, unless t
 Groups
 ^^^^^^
 
-TBD
+Group 1 (Presentation date: 6 Mar 2014, Application: GenGIS `paper <http://dl.dropboxusercontent.com/u/2868868/cs299_slides_XCFGcsdFGGad/Genome%20Res.-2009-Parks-1896-904.pdf>`_)
+dm669 (CS) rsb93 (CS) sd543 (BIO) hw244 (BIO) tmr252 (BIO)
+
+
+Group 2 (Presentation date: 6 Mar 2014, Application: usearch `paper <http://bioinformatics.oxfordjournals.org/content/early/2010/08/12/bioinformatics.btq461.full.pdf+html>`_ and `supplementary material <http://bioinformatics.oxfordjournals.org/content/suppl/2010/08/11/btq461.DC1/supp_mat_rev2.pdf>`_ - both are required reading!))
+ngf4 (CS) mrd292 (CS) dh465 (BIO) wjk23 (BIO) ag635 (BIO)
+
+
+Group 3 (Presentation date: 11 Mar 2014, Application: TBD)
+lmk243 (CS) smj79 (CS) glk27 (BIO) rbm43 (BIO) ak658 (BIO) dds94 (BIO)
+
+
+Group 4 (Presentation date: 11 Mar 2014, Application: TBD)
+as2544 (CS) bee28 (CS) tk266 (BIO) cmm455 (BIO) lks74 (BIO)
+
+
+Group 5 (Presentation date: 13 Mar 2014, Application: TBD)
+ei36 (CS) bkh76 (CS) atd59 (BIO) wgm25 (BIO) drh78 (BIO)
+
+
+Group 6 (Presentation date: 13 Mar 2014, Application: TBD)
+lwr22 (CS) bv77 (CS) mh862 (BIO) jwh89 (BIO) mab523 (BIO)
 
 
 Pairwise alignment exercises (due 6 March 2014, 20 points)
