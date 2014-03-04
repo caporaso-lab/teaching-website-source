@@ -13,15 +13,13 @@ Unless otherwise noted, homework must be turned in by email to gregcaporaso@gmai
 Programming Assignment 2 (1 Apr 2014) (20 points)
 -------------------------------------------------
 
-**HOLD OFF ON GETTING STARTED ON THIS:** I am still working on it a little bit.
-
 You will write a program that extracts latitude and longitude information from a `QIIME-compatible mapping file <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_, and writes that to a `Keyhole Markup Language (kml) file <https://developers.google.com/kml/documentation/kml_tut>`_, which can be opened in `Google Earth <http://www.google.com/earth/index.html>`_. To achieve this you'll need to understand the QIIME mapping file format so you can parse it, the ``kml`` file format so you can write it, and the basics of file reading and writing in python so you can read the mapping file, process the input, and write the kml file.
 
 Your script should take two command line arguments: the input mapping file, and the name of the output file to write. For example, I would call my script as follows::
 
 	jgc53_coordinates.py glen_canyon_map.tsv jgc53_coordinates.kml
 
-You can obtain the mapping file from `here <https://docs.google.com/spreadsheet/ccc?key=0AvglGXLayhG7dDNCWnUwSHhWNmxKODZISWx6VzBqU0E>`_ (choose 'File > Download as > Plain text' to save as tab-separated text). You can see an example of what the output file should look like `here <https://gist.github.com/4121975>`_.
+You can obtain the mapping file from `here <https://docs.google.com/spreadsheet/ccc?key=0AvglGXLayhG7dDNCWnUwSHhWNmxKODZISWx6VzBqU0E>`_ (choose 'File > Download as > Tab-separated values' to save as tab-separated text). You can see an example of what the output file should look like `here <https://gist.github.com/4121975>`_.
 
 .. important::
 	Homework id: ``coordinates``; Extension: ``py`` and ``kml``; For this assignment, the files I turn in would be named ``jgc53_coordinates.py`` and ``jgc53_coordinates.kml``.
