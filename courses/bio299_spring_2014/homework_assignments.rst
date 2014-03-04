@@ -50,21 +50,21 @@ dm669 (CS) rsb93 (CS) sd543 (BIO) hw244 (BIO) tmr252 (BIO)
 
 Group 2
 ```````
-Presentation date: 6 Mar 2014, Application: usearch `paper <http://bioinformatics.oxfordjournals.org/content/early/2010/08/12/bioinformatics.btq461.full.pdf+html>`_ and `supplementary material <http://bioinformatics.oxfordjournals.org/content/suppl/2010/08/11/btq461.DC1/supp_mat_rev2.pdf>`_ - both are required reading!)
+Presentation date: 6 Mar 2014, Application: usearch `paper <http://bioinformatics.oxfordjournals.org/content/early/2010/08/12/bioinformatics.btq461.full.pdf+html>`_ and `supplementary material <http://bioinformatics.oxfordjournals.org/content/suppl/2010/08/11/btq461.DC1/supp_mat_rev2.pdf>`_ - both are required reading!
 
 ngf4 (CS) mrd292 (CS) dh465 (BIO) wjk23 (BIO) ag635 (BIO)
 
 
 Group 3
 ```````
-Presentation date: 11 Mar 2014, Application: TBD
+Presentation date: 11 Mar 2014, Application: emperor `paper <http://www.gigasciencejournal.com/content/2/1/16/>`_
 
 lmk243 (CS) smj79 (CS) glk27 (BIO) rbm43 (BIO) ak658 (BIO) dds94 (BIO)
 
 
 Group 4
 ```````
-Presentation date: 11 Mar 2014, Application: TBD
+Presentation date: 11 Mar 2014, Application: galaxy `<http://genomebiology.com/2010/11/8/R86>`_
 
 as2544 (CS) bee28 (CS) tk266 (BIO) cmm455 (BIO) lks74 (BIO)
 
