@@ -13,6 +13,8 @@ Unless otherwise noted, homework must be turned in by email to gregcaporaso@gmai
 Programming Assignment 2 (1 Apr 2014) (20 points)
 -------------------------------------------------
 
+**HOLD OFF ON GETTING STARTED ON THIS:** I am still working on it a little bit.
+
 You will write a program that extracts latitude and longitude information from a `QIIME-compatible mapping file <http://qiime.org/documentation/file_formats.html#metadata-mapping-files>`_, and writes that to a `Keyhole Markup Language (kml) file <https://developers.google.com/kml/documentation/kml_tut>`_, which can be opened in `Google Earth <http://www.google.com/earth/index.html>`_. To achieve this you'll need to understand the QIIME mapping file format so you can parse it, the ``kml`` file format so you can write it, and the basics of file reading and writing in python so you can read the mapping file, process the input, and write the kml file.
 
 Your script should take two command line arguments: the input mapping file, and the name of the output file to write. For example, I would call my script as follows::
