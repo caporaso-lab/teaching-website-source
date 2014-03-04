@@ -28,7 +28,7 @@ You can obtain the mapping file from `here <https://docs.google.com/spreadsheet/
 	Be sure to download, install, and use `Google Earth <http://www.google.com/earth/index.html>`_ to confirm that your ``kml`` file is written correctly, and that the points end up in the right place (i.e, Utah).
 
 .. note::
-	You can copy some information from the `example output file <https://gist.github.com/4121975>`_ to generate the header and the footer information in your kml file. 
+	You can copy some information from the `example output file <https://gist.github.com/4121975>`_ to generate the header and the footer information in your kml file.
 
 Programming Assignment 1 (due 4 Mar 2014)  (20 points)
 -------------------------------------------------------
