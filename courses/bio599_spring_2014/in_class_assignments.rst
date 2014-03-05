@@ -2,13 +2,8 @@
 In-class assignments
 ==========================================================================================
 
-Lecture 8
+Lecture 9
 =========
-
-Continue working on your "sequence processor" script
-----------------------------------------------------
-
-See description under Lecture 7.
 
 Function definition exercise
 ----------------------------
@@ -19,6 +14,14 @@ For more practice: adapt your "sequence processor" script to use functions
 --------------------------------------------------------------------------
 
 Define a couple of functions in your sequence processor script. One of these could be called ``compute_gc_content``, and another could be called ``compute_length``. Each of these should take a single sequence as input, and return the GC content or the sequence length, respectively, as output. Hook these functions up so they are called when the user defines what function they want to run.
+
+Lecture 8
+=========
+
+Continue working on your "sequence processor" script
+----------------------------------------------------
+
+See description under Lecture 7.
 
 Lecture 7
 =========
