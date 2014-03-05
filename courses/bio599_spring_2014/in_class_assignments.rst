@@ -78,7 +78,7 @@ My ``sequence-processor.py`` script looks like the following::
 	  if total_acgt_count == len(sequence):
 	    print "Sequence is valid (it only contains As, Cs, Gs and Ts)."
 	  else:
-	    print "Sequence is invalid (it contains characters other than As, Cs, Gs, and Ts)"
+	    print "Sequence is invalid (it contains characters other than As, Cs, Gs, and Ts)."
 	else:
 	  print "ERROR: Unknown function!"
 
