@@ -52,6 +52,38 @@ You can use the following as a starting point for this::
 	else:
 	   print "ERROR: sequence_processor.py must be called with exactly two arguments!"
 
+My ``sequence-processor.py`` script looks like the following::
+
+	#!/usr/bin/env python
+	from __future__ import division
+	from sys import argv
+
+	script_name = argv[0]
+	sequence = argv[1]
+	function = argv[2]
+
+	if len(argv) == 3:
+	    print "The name of the script is: ", script_name
+	    print "The sequence is: ", sequence
+	    print "The function to perform is: ", function
+	else:
+	    print "ERROR: sequence_processor.py must be called with exactly two arguments!"
+
+	if function == "length":
+	  print len(sequence)
+	elif function == "gc-content":
+	  print (sequence.count('G') + sequence.count('C')) / len(sequence)
+	elif function == "validate":
+	  total_acgt_count = sequence.count('G') + sequence.count('C') + sequence.count('A') + sequence.count('T')
+	  if total_acgt_count == len(sequence):
+	    print "Sequence is valid (it only contains As, Cs, Gs and Ts)."
+	  else:
+	    print "Sequence is invalid (it contains characters other than As, Cs, Gs, and Ts)"
+	else:
+	  print "ERROR: Unknown function!"
+
+
+
 Lecture 6
 =========
 
