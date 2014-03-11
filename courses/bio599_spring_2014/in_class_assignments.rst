@@ -15,6 +15,11 @@ For more practice: adapt your "sequence processor" script to use functions
 
 Define a couple of functions in your sequence processor script. One of these could be called ``compute_gc_content``, and another could be called ``compute_length``. Each of these should take a single sequence as input, and return the GC content or the sequence length, respectively, as output. Hook these functions up so they are called when the user defines what function they want to run.
 
+File I/O: adapt your "sequence processor" script to read and write files
+------------------------------------------------------------------------
+
+Instead of passing a sequence on the command line, pass a file with one sequence per line. Have your script perform the requested function on all sequences in the file and print the results to the terminal. Once that's working, have your script take an output file name as another command line parameter. Instead of printing output to the screen, have your command write the result for each sequence to the specified file.
+
 Lecture 8
 =========
 
