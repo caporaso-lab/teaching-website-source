@@ -20,6 +20,13 @@ File I/O: adapt your "sequence processor" script to read and write files
 
 Instead of passing a sequence on the command line, pass a file with one sequence per line. Have your script perform the requested function on all sequences in the file and print the results to the terminal. Once that's working, have your script take an output file name as another command line parameter. Instead of printing output to the screen, have your command write the result for each sequence to the specified file.
 
+Paste the following sequences into a new text file to pass as input to your script::
+
+	ACCGGT
+	GTTGACCAGGTTGACACCGTTGACACA
+	GGTCCAGGTTGACCA
+	ACCGATTTTAAA
+
 Lecture 8
 =========
 
