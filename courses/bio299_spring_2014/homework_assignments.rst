@@ -94,7 +94,7 @@ lwr22 (CS) bv77 (CS) mh862 (BIO) jwh89 (BIO) mab523 (BIO)
 Assignment 3: Pairwise alignment exercises (due 13 March 2014, 20 points)
 -------------------------------------------------------------------------
 
-For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.ipython.org/github/gregcaporaso/An-Introduction-To-Applied-Bioinformatics/blob/master/algorithms/alignment-exercises.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date. 
+For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.ipython.org/github/gregcaporaso/An-Introduction-To-Applied-Bioinformatics/blob/master/algorithms/pairwise-alignment-exercises.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date. 
 
 .. important::
 	Homework id: ``pairwise_alignment``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_pairwise_alignment.pdf``. 
