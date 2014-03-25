@@ -79,14 +79,14 @@ as2544 (CS) bee28 (CS) tk266 (BIO) cmm455 (BIO) lks74 (BIO)
 
 Group 5
 ```````
-Presentation date: 13 Mar 2014, Application: TBD
+Presentation date: 13 Mar 2014, Application: SSW `paper <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0082138>`_
 
 ei36 (CS) bkh76 (CS) atd59 (BIO) wgm25 (BIO) drh78 (BIO)
 
 
 Group 6
 ```````
-Presentation date: 13 Mar 2014, Application: TBD
+Presentation date: 13 Mar 2014, Application: GATK `paper <http://genome.cshlp.org/content/20/9/1297.long>`_
 
 lwr22 (CS) bv77 (CS) mh862 (BIO) jwh89 (BIO) mab523 (BIO)
 
