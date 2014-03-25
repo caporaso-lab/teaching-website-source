@@ -72,7 +72,7 @@ lmk243 (CS) smj79 (CS) glk27 (BIO) rbm43 (BIO) ak658 (BIO) dds94 (BIO)
 
 Group 4
 ```````
-Presentation date: 11 Mar 2014, Application: galaxy `<http://genomebiology.com/2010/11/8/R86>`_
+Presentation date: 11 Mar 2014, Application: galaxy `paper <http://genomebiology.com/2010/11/8/R86>`_
 
 as2544 (CS) bee28 (CS) tk266 (BIO) cmm455 (BIO) lks74 (BIO)
 
