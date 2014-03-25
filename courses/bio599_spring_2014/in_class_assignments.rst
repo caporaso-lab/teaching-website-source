@@ -2,13 +2,23 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 10
+==========
+
+Working in a new IPython Notebook, use `NCBI EUtils <http://www.ncbi.nlm.nih.gov/books/NBK25500/>`_, `urllib2 <http://docs.python.org/2/library/urllib2.html>`_, `xml.etree.ElementTree <http://docs.python.org/2/library/xml.etree.elementtree.html>`_ and `matplotlib <http://matplotlib.org/>`_ to do the following:
+
+1. Retrieve the number of articles in *Nature* on lung cancer in 2000.
+2. Modify the code used to achieve the above to create a loop, and get the list of counts of articles in *Nature* on lung cancer between 1990 and 2014. Print this to the terminal as tab-separated text.
+3. Plot this to visualize the trend. 
+4. Generalize this, so a user can enter an arbitrary search term (so instead of *lung cancer*, they can enter another phrase).
+
 Lecture 9
 =========
 
 Function definition exercise
 ----------------------------
 
-Run through Excercise 1 from `today's notebook <http://nbviewer.ipython.org/github/gregcaporaso/An-Introduction-To-Applied-Bioinformatics/blob/master/programming-and-se/4-functions.ipynb>`_.
+Run through Exercise 1 from `today's notebook <http://nbviewer.ipython.org/github/gregcaporaso/An-Introduction-To-Applied-Bioinformatics/blob/master/programming-and-se/4-functions.ipynb>`_.
 
 For more practice: adapt your "sequence processor" script to use functions
 --------------------------------------------------------------------------
