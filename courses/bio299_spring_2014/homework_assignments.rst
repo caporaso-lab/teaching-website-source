@@ -10,13 +10,35 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to chase.johnh@gmail.com before class on the day it is due. 
 
+
+Final assignment: Interpreting and reporting QIIME results (due 6 May 2014 9:30am, 20 points)
+---------------------------------------------------------------------------------------------
+
+This assignment continues on from Assignment 5. You should continue working in the IPython Notebook that you developed for that assignment, this time addressing the questions in **Part 3 only**. For this assignment you will turn in a 2.5 to 3 page paper as a PDF. Details on the format are provided in the IPython Notebook.
+
+.. important::
+	Homework id: ``qiime2``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_qiime2.pdf``.
+
+Assignment 6: To be announced
+-----------------------------
+
+**ASSIGNMENT 6 WILL BE POSTED HERE WHEN IT IS READY.**
+
+Assignment 5: Microbiome-based forensics with QIIME (due 22 April 2014, 20 points)
+----------------------------------------------------------------------------------
+
+For this assignment, you will run analyses and answer questions in the IPython Notebook provided `here <http://nbviewer.ipython.org/urls/gist.githubusercontent.com/gregcaporaso/adab1b45885210d299cb/raw/ee09d98928b4279ceb1b92713ebd0c6334aeffee/qiime-exercise.ipynb?create=1>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in **Parts 1 and 2 only** in your copy of the IPython Notebook, and submit that notebook by email. You will also submit the rarefied BIOM table generated in your analysis as a gzipped BIOM file (instructions for locating that file are in the IPython Notebook).
+
+.. important::
+	Homework id: ``qiime1``; Extension: ``ipynb`` and ``.biom.gz``; For this assignment, the files I turn in would be named ``jgc53_qiime1.ipynb`` and ``jgc_qiime1.biom.gz`.
+
 Assignment 4: Multiple sequence alignment and phylogeny exercises (due 3 April 2014, 20 points)
 ------------------------------------------------------------------------------------------------
 
 For this assignment, you will answer questions from the IPython Notebook provided `here <http://nbviewer.ipython.org/github/gregcaporaso/An-Introduction-To-Applied-Bioinformatics/blob/master/algorithms/msa-assignment.ipynb>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in your copy of the IPython Notebook, and submit that notebook by email.
 
 .. important::
-	Homework id: ``multiple_alignment``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_multiple_alignment.ipynb``. 
+	Homework id: ``multiple_alignment``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_multiple_alignment.ipynb``.
 
 Application presentations
 -------------------------
