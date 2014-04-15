@@ -19,10 +19,13 @@ This assignment continues on from Assignment 5. You should continue working in t
 .. important::
 	Homework id: ``qiime2``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_qiime2.pdf``.
 
-Assignment 6: To be announced
------------------------------
+Assignment 6: Human Genomics/Population Genetics (due 29 April 2014, 20 points)
+-------------------------------------------------------------------------------
 
-**ASSIGNMENT 6 WILL BE POSTED HERE WHEN IT IS READY.**
+For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.ipython.org/urls/raw.githubusercontent.com/gregcaporaso/teaching-notebooks/master/assignments/genomics.ipynb?create=1>`_. Download that file (click the download icon on the top-right) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date. You should also plan on turning in your ipython notebook. 
+
+.. important::
+	Homework id: ``human_genomics``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_human_genomics.pdf``, ``jgc53_human_genomics.ipynb``.
 
 Assignment 5: Microbiome-based forensics with QIIME (due 22 April 2014, 20 points)
 ----------------------------------------------------------------------------------
