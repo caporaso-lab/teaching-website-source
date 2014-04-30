@@ -63,7 +63,7 @@ Fall 2014, BIO698 Bioinformatics Code Review (one credit)
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 
-Schedule: Monday 3-4:00pm, Location: to be determined
+Schedule: Monday 3-4:00pm, Location: Biology 234
 
 
 This seminar will focus on reviewing bioinformatics software that is being developed by students in the course, as well as code that is commonly in use in bioinformatics. We'll discuss best practices in scientific computing and software engineering. The focus will be on student presentations of their code, with each student present 1-2 times through-out the semester.
