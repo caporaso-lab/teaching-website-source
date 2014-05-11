@@ -11,6 +11,11 @@ Current courses (Fall 2014)
    courses/bio698_fall_2014/index.rst
 
 
+An Introduction to Applied Bioinformatics (or *IAB*)
+====================================================
+
+My interactive, IPython Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_. For more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_.
+
 Previous courses
 ==================
 
@@ -31,6 +36,7 @@ Office Hours (Summer/Fall 2014)
 Dr. Caporaso: ARD 225 (gregcaporaso@gmail.com)
 
 Available by appointment.
+
 
 Bioinformatics @ Northern Arizona University
 ============================================
@@ -122,8 +128,9 @@ I occasionally mentor exceptional undergraduate and graduate students in bioinfo
 Some resources for getting started with bioinformatics and python
 ==========================================================================================
 
-| `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_ (canonically abbreviated IAB) by Greg Caporaso
-| My interactive, IPython Notebook-based introductory bioinformatics text. This is currently in very early development, but (in my unbiased opinion), I think it's a good place to get started. For some more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_.
+
+| `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Intr
+| My interactive, IPython Notebook-based introductory bioinformatics text. This is in early development, but is (in my unbiased opinion) a good place to get for both Biologists and Computer Scientists interested in Bioinformatics. For more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_.
 |
 
 For biologists who want to pick up computational skills
