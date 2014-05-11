@@ -1,5 +1,5 @@
 ==========================================================================================
-BIO 698 - Applied Bioinformatics 
+BIO 698 - Applied Bioinformatics
 ==========================================================================================
 
 General information
@@ -10,7 +10,7 @@ The course schedule (subject to updates through-out the semester) is available `
 Course materials
 ================
 
-All of my lecture notes are publicly accessible, either through `SpeakerDeck <https://speakerdeck.com/gregcaporaso>`_ (for slides) or `Gist <https://gist.github.com/gregcaporaso>`_ (for IPython Notebooks, python scripts, data sets, etc). 
+All of my lecture notes are publicly accessible, either through `SpeakerDeck <https://speakerdeck.com/gregcaporaso>`_ (for slides) or `Gist <https://gist.github.com/gregcaporaso>`_ (for IPython Notebooks, python scripts, data sets, etc).
 
 Find the `course syllabus here <https://docs.google.com/file/d/0B_glGXLayhG7R0J4VDROSzlETGM/edit?usp=sharing>`_.
 

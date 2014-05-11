@@ -2,14 +2,14 @@
 Greg Caporaso's Teaching Website
 ====================================================
 
-Current courses (Spring 2014)
+Current courses (Fall 2014)
 =============================
 
 .. toctree::
    :maxdepth: 1
 
-   courses/bio599_spring_2014/index.rst
-   courses/bio299_spring_2014/index.rst
+   courses/bio698_fall_2014/index.rst
+
 
 Previous courses
 ==================
@@ -17,23 +17,23 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/bio599_spring_2014/index.rst
+   courses/bio299_spring_2014/index.rst
    courses/bio698_fall_2013/index.rst
    courses/bio299_spring_2013/index.rst
    courses/bio599_fall_2012/index.rst
    courses/cs399_spring_2012/index.rst
    courses/cs299_fall_2011/index.rst
 
-Office Hours (Spring 2014)
+Office Hours (Summer/Fall 2014)
 ===========================================
 
 Dr. Caporaso: ARD 225 (gregcaporaso@gmail.com)
 
-Tues 2:30-3:30pm
-
-Thurs 11:00-12:00pm
+Available by appointment.
 
 Bioinformatics @ Northern Arizona University
-====================================================
+============================================
 
 I teach graduate and undergraduate courses in bioinformatics at Northern Arizona University in the Biology and Computer Science departments. There is not an official track in bioinformatics at NAU yet, but several courses are in development that will prepare you for a career in bioinformatics. You should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying bioinformatics at NAU.
 
@@ -68,9 +68,7 @@ Schedule: Monday 3-4:00pm, Location: Biology 234
 
 This seminar will focus on reviewing bioinformatics software that is being developed by students in the course, as well as code that is commonly in use in bioinformatics. We'll discuss best practices in scientific computing and software engineering. The focus will be on student presentations of their code, with each student present 1-2 times through-out the semester.
 
-For students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
-
-Monday: 3-4pm
+For students who are looking to get a head-start on the material, see my resources section below.
 
 
 Fall 2014, BIO399 / CS399 Bioinformatics II (three credits)
@@ -97,9 +95,9 @@ Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 Schedule: TBD
 
 
-This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.
+This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.  **You do not need to know how to program to take this course!**
 
-For Biology students who are looking to get a head-start on the material, I highly recommend `this book <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_.
+For students who are looking to get a head-start on the material, I recommend `Practical Computing for Biologists <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_ and the materials in my resources section below.
 
 Spring 2015, BIO290 / CS290 Introduction to Bioinformatics (three credits)
 --------------------------------------------------------------------------
@@ -109,7 +107,10 @@ Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 Schedule: TBD
 
-This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above.
+This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above. **You do not need to know how to program to take this course!**
+
+
+For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_  and the materials in my resources section below..
 
 Independent research
 --------------------
@@ -120,6 +121,10 @@ I occasionally mentor exceptional undergraduate and graduate students in bioinfo
 
 Some resources for getting started with bioinformatics and python
 ==========================================================================================
+
+| `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_ (canonically abbreviated IAB) by Greg Caporaso
+| My interactive, IPython Notebook-based introductory bioinformatics text. This is currently in very early development, but (in my unbiased opinion), I think it's a good place to get started. For some more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_.
+|
 
 For biologists who want to pick up computational skills
 -------------------------------------------------------
@@ -136,7 +141,7 @@ For computer scientists who want to learn some biology
 ------------------------------------------------------
 | `The Processes of Life <http://www.amazon.com/Processes-Life-Introduction-Molecular-Biology/dp/0262013053>`_ by Lawrence Hunter
 | An introduction to biology for computer scientists. (Chapter 1 is available for free `here <http://mitpress.mit.edu/books/chapters/0262013053chap1.pdf>`_.)
-| 
+|
 | `Molecular Biology of the Cell <http://www.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059/ref=sr_1_1?s=books&ie=UTF8&qid=1314225305&sr=1-1>`_ by Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, Peter Walter
 | One of the best texts on molecular biology. This is fairly advanced (it's generally used in upper division molecular biology courses) so it may not be the best place to start. You'll find it invaluable though if you plan to go on in Bioinformatics. This book is available via the NIH Bookshelf (for example, from Chapter 1: `The Universal Features of Cells on Earth <http://www.ncbi.nlm.nih.gov/books/NBK26864/>`_ and `The Diversity of Genomes and the Tree of Life <http://www.ncbi.nlm.nih.gov/books/NBK26866/>`_).
 |
@@ -145,6 +150,7 @@ For computer scientists who want to learn some biology
 
 For students in either discipline who want to learn some fundamental concepts in bioinformatics
 ------------------------------------------------------------------------------------------------
+
 | `Inferring Phylogenies <http://www.amazon.com/Inferring-Phylogenies-Joseph-Felsenstein/dp/0878931775/ref=sr_1_1?s=books&ie=UTF8&qid=1326253914&sr=1-1>`_ by Joseph Felsenstein
 | One of the definitive texts on algorithms used in bioinformatics: particularly focused on building phylogenetic trees.
 |
@@ -153,5 +159,3 @@ For students in either discipline who want to learn some fundamental concepts in
 |
 | `Biometry <http://www.amazon.com/Biometry-Robert-R-Sokal/dp/0716786044>`_ by Robert Sokal and James Rohlf
 | An excellent (and highly referenced) basic statistics book for biology.
-
-
