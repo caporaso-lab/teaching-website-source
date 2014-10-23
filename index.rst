@@ -83,9 +83,6 @@ Fall 2014, BIO399 / CS399 Bioinformatics II (three credits)
 Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
 
 
-Schedule: TBD
-
-
 This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
 
 
@@ -98,7 +95,7 @@ Spring 2015, BIO599 Addressing Biological Questions with Computing (three credit
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 
-Schedule: TBD
+Schedule: W 2:20-4:50pm, Chemistry 209
 
 
 This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.  **You do not need to know how to program to take this course!**
@@ -111,7 +108,7 @@ Spring 2015, BIO290 / CS290 Introduction to Bioinformatics (three credits)
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 
-Schedule: TBD
+Schedule: T/Th 9:35-10:50am, Chemistry 209
 
 This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above. **You do not need to know how to program to take this course!**
 
