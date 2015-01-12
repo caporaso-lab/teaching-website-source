@@ -2,14 +2,13 @@
 Greg Caporaso's Teaching Website
 ====================================================
 
-Current courses (Fall 2014)
+Current courses (Spring 2015)
 =============================
 
 .. toctree::
    :maxdepth: 1
 
-   courses/bio698_fall_2014/index.rst
-
+   courses/bio290_spring_2015/index.rst
 
 An Introduction to Applied Bioinformatics (or *IAB*)
 ====================================================
@@ -22,6 +21,7 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/bio698_fall_2014/index.rst
    courses/bio599_spring_2014/index.rst
    courses/bio299_spring_2014/index.rst
    courses/bio698_fall_2013/index.rst
@@ -30,12 +30,17 @@ Previous courses
    courses/cs399_spring_2012/index.rst
    courses/cs299_fall_2011/index.rst
 
-Office Hours (Summer/Fall 2014)
-===========================================
+Office Hours
+============
 
-Dr. Caporaso: ARD 225 (gregcaporaso@gmail.com)
+Dr. Caporaso: ARD 225 (in the ARD 220 office suite)
 
-Available by appointment.
+Tues: 1pm-2pm
+Wed: 1pm-2pm
+
+John Chase: ARD 224, times to be determined
+
+Arron Shiffer: ARD 224, times to be determined
 
 
 Bioinformatics @ Northern Arizona University
@@ -63,44 +68,18 @@ with a single line of text in the body of the message that reads::
 Current Bioinformatics Courses at NAU
 ======================================
 
-Fall 2014, BIO698 Bioinformatics Code Review (one credit)
----------------------------------------------------------
-
-Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
-
-
-Schedule: Monday 3-4:00pm, Location: Biology 234
-
-
-This seminar will focus on reviewing bioinformatics software that is being developed by students in the course, as well as code that is commonly in use in bioinformatics. We'll discuss best practices in scientific computing and software engineering. The focus will be on student presentations of their code, with each student present 1-2 times through-out the semester.
-
-For students who are looking to get a head-start on the material, see my resources section below.
-
-
-Fall 2014, BIO399 / CS399 Bioinformatics II (three credits)
------------------------------------------------------------
-
-Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
-
-
-This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
-
-
-Upcoming Bioinformatics Courses at NAU
-======================================
-
 Spring 2015, BIO599 Addressing Biological Questions with Computing (three credits)
 ----------------------------------------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 
-Schedule: W 2:20-4:50pm, Chemistry 209
+Schedule: T/Th 9:35-10:50am, Chemistry 209
 
+This course covers introductory topics in bioinformatics, method and tool benchmarking, in depth coverage of several specific high-interest topics, and advanced computing skills that students need to become effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.  **You do not need to know how to program to take this course!**
 
-This courses introduces Biologists to advanced computing skills that they'll need to be effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.  **You do not need to know how to program to take this course!**
+For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_ , `Practical Computing for Biologists <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_ and the materials in my resources section below.
 
-For students who are looking to get a head-start on the material, I recommend `Practical Computing for Biologists <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_ and the materials in my resources section below.
 
 Spring 2015, BIO290 / CS290 Introduction to Bioinformatics (three credits)
 --------------------------------------------------------------------------
@@ -110,10 +89,34 @@ Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 Schedule: T/Th 9:35-10:50am, Chemistry 209
 
-This course covers introductory topics in bioinformatics, method and tool benchmarking, intermediate topics in python programming, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above. **You do not need to know how to program to take this course!**
+This course covers introductory topics in bioinformatics, method and tool benchmarking, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above. **You do not need to know how to program to take this course!**
+
+For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_  and the materials in my resources section below.
 
 
-For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_  and the materials in my resources section below..
+Upcoming Bioinformatics Courses at NAU
+======================================
+
+Fall 2015, BIO698 Bioinformatics Code Review (one credit)
+---------------------------------------------------------
+
+Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+
+
+This seminar will focus on reviewing bioinformatics software that is being developed by students in the course, as well as code that is commonly in use in bioinformatics. We'll discuss best practices in scientific computing and software engineering. The focus will be on student presentations of their code, with each student present 1-2 times through-out the semester.
+
+
+For students who are looking to get a head-start on the material, see my resources section below.
+
+
+Fall 2015, BIO399 / CS399 Bioinformatics II (three credits)
+-----------------------------------------------------------
+
+Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
+
+
+This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
+
 
 Independent research
 --------------------
