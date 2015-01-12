@@ -35,12 +35,17 @@ Office Hours
 
 Dr. Caporaso: ARD 225 (in the ARD 220 office suite)
 
-Tues: 1pm-2pm
-Wed: 1pm-2pm
+Tues: 1:00-2:00pm
+Wed: 1:00-2:00pm
 
-John Chase: ARD 224, times to be determined
+John Chase: ARD 224 (in the ARD 220 office suite)
 
-Arron Shiffer: ARD 224, times to be determined
+Times to be determined.
+
+Arron Shiffer: ARD 224 (in the ARD 220 office suite)
+
+Mon: 10:30-11:30am
+Fri: 2:00-3:00pm
 
 
 Bioinformatics @ Northern Arizona University
