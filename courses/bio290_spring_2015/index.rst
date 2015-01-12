@@ -22,7 +22,9 @@ The text book for this class is `An Introduction to Applied Bioinformatics <http
 
 Find the `course syllabus here <https://drive.google.com/file/d/0B_glGXLayhG7emQ2d1h3cUhfOE0/view>`_.
 
-The IPython Notebook server used in class is accessible `here <https://dana.ucc.nau.edu:8887/>`_. You'll get the password in class. Note that you can only access this system from NAU IP addresses, included ethernet connections on campus, via the NAU wireless network, or via VPN when off-campus. Thanks to ITS Academic Computing for supporting this server for our class. **IMPORTANT: you cannot leave any data in the class IPython Notebook server.
+The IPython Notebook server used in class is accessible `here <https://dana.ucc.nau.edu:8887/>`_. You'll get the password in class. Note that you can only access this system from NAU IP addresses, included ethernet connections on campus, via the NAU wireless network, or via VPN when off-campus. Thanks to ITS Academic Computing for supporting this server for our class.
+
+**IMPORTANT: you cannot leave any data in the class IPython Notebook server. You should always download your saved notebooks when you're done working on them for the day, and then re-upload them when you're ready to continue working.** Notebooks left on the server can be deleted at any time.
 
 Office Hours
 ============
