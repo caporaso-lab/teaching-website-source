@@ -45,7 +45,7 @@ Times to be determined.
 Arron Shiffer: ARD 224 (in the ARD 220 office suite)
 
 Mon: 10:30-11:30am
-Fri: 2:00-3:00pm
+Fri: 9:00-10:00am
 
 
 Bioinformatics @ Northern Arizona University
