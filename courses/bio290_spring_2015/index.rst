@@ -53,4 +53,4 @@ Unless otherwise noted, homework must be turned in by email to chase.johnh@gmail
 Other information
 =================
 
-CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs.
+CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs. BIO 290 counts as a major elective for the Biology degree programs.

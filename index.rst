@@ -98,7 +98,7 @@ This course covers introductory topics in bioinformatics, method and tool benchm
 
 For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_  and the materials in my resources section below.
 
-CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs.
+CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs. BIO 290 counts as a major elective for the Biology degree programs. 
 
 
 Upcoming Bioinformatics Courses at NAU
