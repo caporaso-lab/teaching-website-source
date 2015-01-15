@@ -13,6 +13,8 @@ Find information on additional graduate (BIO 599) assignments `here <./graduate_
 
 Find information on in-class exercises `here <./in_class_assignments.html>`_.
 
+Shared class notes in the `hackpad <https://hackpad.com/Computational-Biology-CSBIO-299BIO-599-1152015-EArs6OzHIPi>`_.
+
 Course materials
 ================
 
@@ -48,7 +50,7 @@ Turning in your homework by email
 
 Your homework must always be turned in with a standardized name. That name should be ``<nau_id>_<homework_id>.<extension>``, where ``<nau_id>`` is your NAU identifier (for example, mine is ``jgc53``), and ``<homework_id>`` and ``<extension>`` are provided on a per-assignment basis.
 
-Unless otherwise noted, homework must be turned in by email to chase.johnh@gmail.com before class on the day it is due.
+Unless otherwise noted, homework must be turned in by email to Arrom (ams379@nau.edu) before class on the day it is due.
 
 Other information
 =================
