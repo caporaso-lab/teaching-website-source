@@ -13,7 +13,7 @@ Find information on additional graduate (BIO 599) assignments `here <./graduate_
 
 Find information on in-class exercises `here <./in_class_assignments.html>`_.
 
-Shared class notes in the `hackpad <https://hackpad.com/Computational-Biology-CSBIO-299BIO-599-1152015-EArs6OzHIPi>`_.
+Shared class notes in the `hackpad <https://hackpad.com/Computational-Biology-CSBIO-299BIO-599-1152015-EArs6OzHIPi>`_ (thanks for Jess Patnode for creating and maintaining this!).
 
 Course materials
 ================
