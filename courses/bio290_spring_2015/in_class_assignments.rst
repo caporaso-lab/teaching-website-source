@@ -2,6 +2,19 @@
 In-class assignments
 ==========================================================================================
 
+Lecture 5
+=========
+
+Translate the following sequences. For sequences 2, 3, and 4, are these synonymous point mutations, non-synonymous point mutations, insertions, or deletions with respect to sequence 1?
+
+1. ``AUGCUUUGUAAGUAG``
+
+2. ``AUGCUCUGUAAGUAG``
+
+3. ``AUGCCUUGUAAGUAG``
+
+4. ``AUGCUUGUAAGUAG``
+
 Lecture 2
 =========
 
