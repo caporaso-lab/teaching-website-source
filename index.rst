@@ -40,13 +40,16 @@ Wed: 1:00-2:00pm
 
 John Chase: ARD 224 (in the ARD 220 office suite)
 
-Times to be determined.
+Thurs: 3:00-4:00pm
 
 Arron Shiffer: ARD 224 (in the ARD 220 office suite)
 
 Mon: 10:30-11:30am
 Fri: 9:00-10:00am
 
+Programming Boot Camp (Room TBD)
+
+Tues: 3:00-4:00pm
 
 Bioinformatics @ Northern Arizona University
 ============================================
@@ -98,7 +101,7 @@ This course covers introductory topics in bioinformatics, method and tool benchm
 
 For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_  and the materials in my resources section below.
 
-CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs. BIO 290 counts as a major elective for the Biology degree programs. 
+CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs. BIO 290 counts as a major elective for the Biology degree programs.
 
 
 Upcoming Bioinformatics Courses at NAU
