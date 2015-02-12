@@ -15,15 +15,15 @@ BIO 290/CS 290 Group Application Report and Presentation
 
 Each group will be pre-assigned an article two weeks before their presentation date. The students will present their article in class the day they’re assigned. Each member of the group will present part of the material. Answers to the following questions will be turned in (by email, with all group member names included, on the day of the presentation). These answers should form a 2 +/- 1/3 page report. **You will lose points if your report falls outside of this length range.**
 
- *. What is the biological problem that the authors are trying to address?
- *. What is the motivation for addressing this problem?
- *. What previous work has been done in this area? Are there preexisting tools that address this problem?
- *. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
- *. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)?
- *. What is the input to this tool?
- *. What is the output of this tool?
- *. How did the authors test this tool? Was performance benchmarking included in their paper?
- *. How did the authors evaluate whether this tool was giving biologically meaningful results?
+#. What is the biological problem that the authors are trying to address?
+#. What is the motivation for addressing this problem?
+#. What previous work has been done in this area? Are there preexisting tools that address this problem?
+#. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+#. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)?
+#. What is the input to this tool?
+#. What is the output of this tool?
+#. How did the authors test this tool? Was performance benchmarking included in their paper?
+#. How did the authors evaluate whether this tool was giving biologically meaningful results?
 
 Presentations will address these same questions, and will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output. You presentation should be around 20 +/- 3 minutes, including the live demo. **You will lose points if your presentation falls outside of this time range.**
 
@@ -34,16 +34,16 @@ BIO 599 Individual Application Report and Presentation
 
 Graduate student presentations should be 20 +/- 3 minutes and should address all of the following questions. **You will lose points if your presentation falls outside of this time range.** You will also turn in a 2 +/- 1/3 page report answering these questions, by email on the day of your presentation. **You will lose points if your report falls outside of this length range.**
 
- *. Background/Introduction to your research.
- *. How does bioinformatics play a role in your research?
- *. What bioinformatics tool have you used (or do you plan to use) to address your questions?
- *. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
- *. What pre-existing biological resources (e.g., sequence databases) did the authors make use of (if any)?
- *. What is the input to this tool (ideally you will demo this using your own data)?
- *. What is the output of this tool (ideally you will demo this using your own data)?
- *. How did the authors test this tool? Was performance benchmarking included in their paper?
- *. How did the authors evaluate whether this tool was giving biologically meaningful results?
- *. Discuss the pros and cons of this software relative to related bioinformatics software.
+#. Background/Introduction to your research.
+#. How does bioinformatics play a role in your research?
+#. What bioinformatics tool have you used (or do you plan to use) to address your questions?
+#. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+#. What pre-existing biological resources (e.g., sequence databases) did the authors make use of (if any)?
+#. What is the input to this tool (ideally you will demo this using your own data)?
+#. What is the output of this tool (ideally you will demo this using your own data)?
+#. How did the authors test this tool? Was performance benchmarking included in their paper?
+#. How did the authors evaluate whether this tool was giving biologically meaningful results?
+#. Discuss the pros and cons of this software relative to related bioinformatics software.
 
 The presentation should address all of the questions listed here and should include a live demonstration of the software where the presenters show/discuss the input data, run the application, and show/discuss the output.
 
