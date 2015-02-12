@@ -4,7 +4,48 @@ Homework assignments
 
 .. important:: I encourage you to discuss homework assignments with each other, but you may not view other student's assignments or share your assignment with others.
 
-Assignment 2: BLAST exercises (due 13 February 2014, 20 points)
+Presentations
+-------------
+
+.. important::
+	Homework id: ``app``; Extension: ``pdf``; For BIO/CS 290 students, the assignment should be named ``<group-number>_app.pdf`` and ``<group-number>_app_slides.pdf``, so for example Group 1’s assignments would be named ``group1_app.pdf`` and ``group1_app_slides.pdf``. For BIO 599 students, the assignment should be named ``<nau-id>_app.pdf`` and ``<group-nau-id>_app_slides.pdf``, so for example my assignment would be named ``jgc53_app.pdf`` and ``jgc53_app_slides.pdf``.
+
+BIO 290/CS 290 Group Application Report and Presentation
+````````````````````````````````````````````````````````
+
+Each group will be pre-assigned an article two weeks before their presentation date. The students will present their article in class the day they’re assigned. Each member of the group will present part of the material. Answers to the following questions will be turned in (by email, with all group member names included, on the day of the presentation). These answers should form a 2 +/- 1/3 page report. **You will lose points if your report falls outside of this length range.**
+ *. What is the biological problem that the authors are trying to address?
+ *. What is the motivation for addressing this problem?
+ *. What previous work has been done in this area? Are there preexisting tools that address this problem?
+ *. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+ *. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)?
+ *. What is the input to this tool?
+ *. What is the output of this tool?
+ *. How did the authors test this tool? Was performance benchmarking included in their paper?
+ *. How did the authors evaluate whether this tool was giving biologically meaningful results?
+
+Presentations will address these same questions, and will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output. You presentation should be around 20 +/- 3 minutes, including the live demo. **You will lose points if your presentation falls outside of this time range.**
+
+All students in a group will receive the same grade on this assignment, unless there is clear evidence that some student(s) didn’t contribute.
+
+BIO 599 Individual Application Report and Presentation
+``````````````````````````````````````````````````````
+
+Graduate student presentations should be 20 +/- 3 minutes and should address all of the following questions. **You will lose points if your presentation falls outside of this time range.** You will also turn in a 2 +/- 1/3 page report answering these questions, by email on the day of your presentation. **You will lose points if your report falls outside of this length range.**
+ *. Background/Introduction to your research.
+ *. How does bioinformatics play a role in your research?
+ *. What bioinformatics tool have you used (or do you plan to use) to address your questions?
+ *. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+ *. What pre-existing biological resources (e.g., sequence databases) did the authors make use of (if any)?
+ *. What is the input to this tool (ideally you will demo this using your own data)?
+ *. What is the output of this tool (ideally you will demo this using your own data)?
+ *. How did the authors test this tool? Was performance benchmarking included in their paper?
+ *. How did the authors evaluate whether this tool was giving biologically meaningful results?
+ *. Discuss the pros and cons of this software relative to related bioinformatics software.
+
+The presentation should address all of the questions listed here and should include a live demonstration of the software where the presenters show/discuss the input data, run the application, and show/discuss the output.
+
+Assignment 2: BLAST exercises (due 11 February 2015, 20 points)
 ---------------------------------------------------------------
 
 Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/1mGW_90OvfnxO_fRLLgji1MPOICJ-M0XmdAnvE6z5WdU/pub>`_. You should turn in a PDF of that file with all answers filled in by email.
@@ -164,7 +205,7 @@ Query sequences::
 	CATTTTATTAGGAGCTAGCCGTCGAAGGTGGGAC
 
 
-Assignment 1: GC content (due 22 January 2014, 10 points)
+Assignment 1: GC content (due 22 January 2015, 10 points)
 ---------------------------------------------------------
 Download a genome and compute its GC content. Copy or download `the assignment <https://docs.google.com/document/d/1iY1sfH9uKulmO0CLugtQOzBoAIGqh0oIwzZfa1ARay0/edit>`_, fill in your answers, and turn the assignment in by email as a PDF.
 
