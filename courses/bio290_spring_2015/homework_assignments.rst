@@ -7,7 +7,7 @@ Homework assignments
 Assignment 5: Human Genomics/Population Genetics (due 16 April 2015, 20 points)
 -------------------------------------------------------------------------------
 
-For this assignment, you will answer the questions in the IPython Notebook provided `here <http://nbviewer.ipython.org/urls/gist.githubusercontent.com/gregcaporaso/7cfeab8c15755d96a05a/raw/093f1a74e3e0b4982034991d4f84a991de02e6c5/assignment-5.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date. You should also plan on turning in your ipython notebook. 
+For this assignment, you will answer the questions in the IPython Notebook provided `here <http://nbviewer.ipython.org/urls/gist.githubusercontent.com/gregcaporaso/7cfeab8c15755d96a05a/raw/e62b1c462a270d7b73f5564327a45961f6265714/assignment-5.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date. You should also plan on turning in your ipython notebook. 
 
 .. important::
 	Homework id: ``human_genomics``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_human_genomics.pdf``, ``jgc53_human_genomics.ipynb``.
