@@ -4,7 +4,7 @@ Homework assignments
 
 .. important:: I encourage you to discuss homework assignments with each other, but you may not view other student's assignments or share your assignment with others.
 
-Final assignment: Interpreting and reporting QIIME results (due 5 May 2014 9:30am, 20 points)
+Final assignment: Interpreting and reporting QIIME results (due 5 May 2015 9:30am, 20 points)
 ---------------------------------------------------------------------------------------------
 
 This assignment continues on from Assignment 6. You should continue working from the IPython Notebook that you developed for that assignment, this time addressing the questions in **Part 3 only**. For this assignment you will turn in a 2.5 to 3 page paper as a PDF. Details on the format are provided in the IPython Notebook.
