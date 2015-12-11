@@ -77,7 +77,7 @@ Some resources for getting started with bioinformatics and Python
 | My interactive, IPython Notebook-based introductory bioinformatics text. This is in early development, but is (in my unbiased opinion) a good place to get for both Biologists and Computer Scientists interested in Bioinformatics. For more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_.
 |
 
-For biologists who want to pick up computational skills
+For biologists who want to develop computational skills
 -------------------------------------------------------
 | `Software Carpentry <https://software-carpentry.org/>`_
 | Online materials and in-person workshops covering essential computational skills for scientists.
@@ -91,8 +91,8 @@ For biologists who want to pick up computational skills
 | `Learn Python the Hard Way <http://learnpythonthehardway.org/>`_ by Zed Shaw
 | Another good python introduction. This one is very focused on exercises and is great for practicing python. My students have complained that it doesn't provide enough background information (i.e., `what` you're doing and `why` it works) and for that reason I recommend using this in conjunction with `Practical Programming`. Beware that the two don't follow each other exactly. One strategy that some students use is to work through these exercises in order and use `Practical Programming` as a reference.
 
-For computer scientists who want to learn some biology
-------------------------------------------------------
+For computer scientists who want to learn biology
+-------------------------------------------------
 | `The Processes of Life <http://www.amazon.com/Processes-Life-Introduction-Molecular-Biology/dp/0262013053>`_ by Lawrence Hunter
 | An introduction to biology for computer scientists. (Chapter 1 is available for free `here <http://mitpress.mit.edu/books/chapters/0262013053chap1.pdf>`_.)
 |
@@ -102,8 +102,8 @@ For computer scientists who want to learn some biology
 | `Brock Biology of Microorganisms <http://www.amazon.com/Brock-Biology-Microorganisms-Michael-Madigan/dp/032164963X/ref=dp_ob_title_bk>`_ by Michael T. Madigan, John M. Martinko, David Stahl, David P. Clark
 | One of the best textbooks on microbiology. This is also fairly advanced, but if you're interested in microbial ecology or other aspects of microbiology it will likely be extremely useful.
 
-For students in either discipline who want to learn some fundamental concepts in bioinformatics
-------------------------------------------------------------------------------------------------
+For students in either discipline who want to learn the fundamentals of bioinformatics
+--------------------------------------------------------------------------------------
 
 | `Inferring Phylogenies <http://www.amazon.com/Inferring-Phylogenies-Joseph-Felsenstein/dp/0878931775/ref=sr_1_1?s=books&ie=UTF8&qid=1326253914&sr=1-1>`_ by Joseph Felsenstein
 | One of the definitive texts on algorithms used in bioinformatics: particularly focused on building phylogenetic trees.
