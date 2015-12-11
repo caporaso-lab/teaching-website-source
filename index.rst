@@ -11,8 +11,8 @@ Current courses (Spring 2016)
    courses/2016.01-499/index.rst
 
 
-An Introduction to Applied Bioinformatics (or *IAB*)
-====================================================
+An Introduction to Applied Bioinformatics (IAB)
+===============================================
 
 My interactive, IPython Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_. For more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_.
 
@@ -34,6 +34,8 @@ Previous courses
 
 Caporaso Lab Office Hours
 =========================
+
+All lab member office hours are open to the public. These are held in ARD 220.
 
 .. raw:: html
 
