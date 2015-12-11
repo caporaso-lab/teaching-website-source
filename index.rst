@@ -1,14 +1,15 @@
 ====================================================
-Greg Caporaso's Teaching Website
+Caporaso Lab Teaching Website
 ====================================================
 
-Current courses (Spring 2015)
+Current courses (Spring 2016)
 =============================
 
 .. toctree::
    :maxdepth: 1
 
-   courses/bio290_spring_2015/index.rst
+   courses/2016.01-499/index.rst
+
 
 An Introduction to Applied Bioinformatics (or *IAB*)
 ====================================================
@@ -21,111 +22,42 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
-   courses/bio698_fall_2014/index.rst
-   courses/bio599_spring_2014/index.rst
-   courses/bio299_spring_2014/index.rst
-   courses/bio698_fall_2013/index.rst
-   courses/bio299_spring_2013/index.rst
-   courses/bio599_fall_2012/index.rst
-   courses/cs399_spring_2012/index.rst
-   courses/cs299_fall_2011/index.rst
+   courses/2015.01-290/index.rst
+   courses/2014.08-698/index.rst
+   courses/2014.01-599/index.rst
+   courses/2014.01-299/index.rst
+   courses/2013.08-698/index.rst
+   courses/2013.01-299/index.rst
+   courses/2012.08-599/index.rst
+   courses/2012.01-399/index.rst
+   courses/2011.08-299/index.rst
 
-Office Hours
-============
+Caporaso Lab Office Hours
+=========================
 
-Dr. Caporaso: ARD 225 (in the ARD 220 office suite)
+.. raw:: html
 
-Tues: 1:00-2:00pm
-Wed: 1:00-2:00pm
-
-John Chase: ARD 224 (in the ARD 220 office suite)
-
-Thurs: 3:00-4:00pm
-
-Arron Shiffer: ARD 224 (in the ARD 220 office suite)
-
-Mon: 10:30-11:30am
-Fri: 9:00-10:00am
-
-Programming Boot Camp (Room TBD)
-
-Tues: 3:00-4:00pm
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=49fk5nt75q2j7f7sma4br11nic%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FPhoenix" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
 
 Bioinformatics @ Northern Arizona University
 ============================================
 
-I teach graduate and undergraduate courses in bioinformatics at Northern Arizona University in the Biology and Computer Science departments. There is not an official track in bioinformatics at NAU yet, but several courses are in development that will prepare you for a career in bioinformatics. You should contact Greg Caporaso (gregcaporaso@gmail.com) if you're interested in studying bioinformatics at NAU.
+There is not an undergraduate or graduate bioinformatics program at NAU, but there are some courses that will start to prepare you for a career in bioinformatics. Biology, Computer Science and Statistics are the most relevant undergraduate degrees. If you're interested in a graduate degree and have a biology background, you'd likely want to come in to either the PhD or Master's Biology program. You would then work with a faculty member whose research is bioinformatics-heavy, and they would guide you toward relevant coursework. You can find some more information on graduate studies in biology on the `department website <http://nau.edu/CEFNS/NatSci/Biology/Degrees-Programs/Graduate/>`_.
 
-Getting started
----------------
-*Undergraduate students*: If you're interested in getting started in Bioinformatics at NAU, you should plan to take BIO/CS 290 (formerly BIO/CS 299) in Spring 2015. **The pre-requistes are CS 126 and BIO 181, both with lab. I will allow you to take one of these as a co-requisite, but not both!**
-
-*Graduate students*: In the Fall of 2014, I'll offer BIO 698: Applied Bioinformatics, a one-credit seminar focused on paper discussions. This will be a great follow-on to my BIO 599 class, though it will stand-alone so you do not need to take BIO 599 to take BIO 698. In the Spring of 2015 I'll offer BIO599. This is an opportunity to get started in Bioinformatics, and will provide the background you'll need to integrate bioinformatics into your master's or doctoral research projects.
-
-NAU does not currently have a graduate program specifically in bioinformatics. If you have a biology background, you'd likely want to come in to either the PhD or Master's Biology program. You would then work with a faculty member whose research is bioinformatics heavy, and they would guide you toward relevant coursework. You can find some more information on graduate studies in biology on the `department website <http://nau.edu/CEFNS/NatSci/Biology/Degrees-Programs/Graduate/>`_.
-
-
-Keeping up to date on Bioinformatics at NAU
--------------------------------------------
-I maintain an email list that anyone at NAU can join to stay up-to-date on informatics-related activities at NAU. You can request to join by sending an email message to listserv@lists.nau.edu
-with a single line of text in the body of the message that reads::
-
-  subscribe big-data your_first_name your_last_name
-
-
-Current Bioinformatics Courses at NAU
-======================================
-
-Spring 2015, BIO599 Addressing Biological Questions with Computing (three credits)
-----------------------------------------------------------------------------------
+BIO/CS 499/599 Fundamentals of Bioinformatics (three credits)
+-------------------------------------------------------------
 
 Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
+This course covers fundamental concepts in bioinformatics, method and tool benchmarking, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299, and in Spring 2015 as BIO/CS 290 and BIO 599. The previous course websites are listed above.
 
-Schedule: T/Th 9:35-10:50am, Chemistry 209
+**You do not need to know how to program to take this course!**
 
-This course covers introductory topics in bioinformatics, method and tool benchmarking, in depth coverage of several specific high-interest topics, and advanced computing skills that students need to become effective researchers in modern biology. This includes using tools like cloud computing and python programming to deal with very large data sets (e.g., tens to hundreds of gigabytes of next-generation sequence data). This course was previously taught in Fall 2012 and Spring 2014. The previous course website is listed above.  **You do not need to know how to program to take this course!**
+For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://readIAB.org>`_  and the materials in my resources section below.
 
-For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_ , `Practical Computing for Biologists <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_ and the materials in my resources section below.
+CS 499 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs. BIO 499 counts as a major elective for the Biology degree programs.
 
-
-Spring 2015, BIO290 / CS290 Introduction to Bioinformatics (three credits)
---------------------------------------------------------------------------
-
-Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
-
-
-Schedule: T/Th 9:35-10:50am, Chemistry 209
-
-This course covers introductory topics in bioinformatics, method and tool benchmarking, and in depth coverage of several specific high-interest topics. This course was previous taught in Fall 2011, Spring 2013, and Spring 2014 as BIO/CS 299. The previous course websites are listed above. **You do not need to know how to program to take this course!**
-
-For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_  and the materials in my resources section below.
-
-CS 290 counts as a Technical Elective for Computer Science and Applied Computer Science degree programs. BIO 290 counts as a major elective for the Biology degree programs.
-
-
-Upcoming Bioinformatics Courses at NAU
-======================================
-
-Fall 2015, BIO698 Bioinformatics Code Review (one credit)
----------------------------------------------------------
-
-Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
-
-
-This seminar will focus on reviewing bioinformatics software that is being developed by students in the course, as well as code that is commonly in use in bioinformatics. We'll discuss best practices in scientific computing and software engineering. The focus will be on student presentations of their code, with each student present 1-2 times through-out the semester.
-
-
-For students who are looking to get a head-start on the material, see my resources section below.
-
-
-Fall 2015, BIO399 / CS399 Bioinformatics II (three credits)
------------------------------------------------------------
-
-Instructor: Dr. Stephen Beckstrom-Sternberg (Stephen.Beckstrom-Sternberg@nau.edu)
-
-
-This course is topics-oriented (ideally expanding on the special topics introduced in Bioinformatics I) using real world bioinformatics data sets and problems to explore a few techniques in much greater coverage than was achieved in Bioinformatics I. Students will learn about high-performance computing (including relevant topics in python programming), the design and implementation and presentation of bioinformatics experiments, and working in cross-disciplinary collaborative environments.  This course was previous taught in Spring, 2012. The previous course website is listed above.
+**This course is generally taught every Spring semester.**
 
 
 Independent research
@@ -135,16 +67,19 @@ Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
 
 I occasionally mentor exceptional undergraduate and graduate students in bioinformatics-related research projects. If you're interested in this, contact me with details about the type of project you'd like to work on, and about your educational background. These are considerably harder than a single semester course in bioinformatics, and require you to be highly self-motivated. I do not accept all students who are interested.
 
-Some resources for getting started with bioinformatics and python
+Some resources for getting started with bioinformatics and Python
 ==========================================================================================
 
 
-| `An Introduction to Applied Bioinformatics <http://www.caporasolab.us/An-Intr
+| `An Introduction to Applied Bioinformatics <http://readIAB.org>`_
 | My interactive, IPython Notebook-based introductory bioinformatics text. This is in early development, but is (in my unbiased opinion) a good place to get for both Biologists and Computer Scientists interested in Bioinformatics. For more information see my `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_.
 |
 
 For biologists who want to pick up computational skills
 -------------------------------------------------------
+| `Software Carpentry <https://software-carpentry.org/>`_
+| Online materials and in-person workshops covering essential computational skills for scientists.
+|
 | `Practical Computing for Biologists <http://www.amazon.com/Practical-Computing-Biologists-Steven-Haddock/dp/0878933913>`_ by Steven Haddock and Casey Dunn
 | A great introduction to many computational skills that are required of modern biologists. I *highly* recommend this book to all Biology undergraduate and graduate students.
 |
