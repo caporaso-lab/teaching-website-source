@@ -5,13 +5,13 @@ BIO/CS 499/599 - Spring 2016
 General information
 ===================
 
-The **course schedule** (subject to updates through-out the semester) will be available here.
+The **course schedule** (subject to updates through-out the semester) is `here <https://docs.google.com/spreadsheets/d/1dL1Z1ij828YaE86YKjV6zR_UZ15187vqCprYDjzf1ZA/pubhtml?gid=0&single=true>`_.
 
 Find information on **homework assignments** `here <./homework_assignments.html>`_.
 
 Find information on in-class exercises `here <./in_class_assignments.html>`_.
 
-Schedule: Tu/Th 9:35-10:50am, ARD Large Pod (first floor, room at the southwest corner of the building; `map <https://goo.gl/maps/kWFjEWZZuPk>`_)
+Schedule: Tu/Th 9:35-10:50am, CHEM 233
 
 Course materials
 ================
