@@ -19,7 +19,7 @@ Course materials
 Syllabus
 --------
 
-The course syllabus will be available here.
+The course syllabus is available `here <https://drive.google.com/file/d/0B_glGXLayhG7NXJUMmNCQlVwOTA/view?usp=sharing>`_.
 
 Lecture notes
 -------------
@@ -41,7 +41,7 @@ The IPython Notebook server used in class is accessible `here <https://dana.ucc.
 Office Hours
 ============
 
-`Office hours for Dr. Caporaso and the TAs for this class are listed on Dr. Caporaso's main teaching website <http://caporasolab.us/teaching/#office-hours>`_.
+`Office hours for Dr. Caporaso and the TA for this class are listed on Dr. Caporaso's main teaching website <http://caporasolab.us/teaching/#office-hours>`_.
 
 Turning in your homework by email
 =================================
