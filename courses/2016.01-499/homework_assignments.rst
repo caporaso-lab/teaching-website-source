@@ -13,6 +13,15 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
+Assignment 3: Pairwise alignment exercises (due 18 February 2016, 20 points)
+-------------------------------------------------------------------------
+
+For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.jupyter.org/github/gregcaporaso/built-iab/blob/7a250c85472582f857a4a377303f61c5ab125026/4/1.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class Jupyter Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date.
+
+.. important::
+	Homework id: ``pairwise_alignment``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_pairwise_alignment.pdf``.
+
+
 Assignment 2: BLAST exercises (due 4 February 2016, 20 points)
 ---------------------------------------------------------------
 
