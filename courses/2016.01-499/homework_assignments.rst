@@ -37,8 +37,6 @@ Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=bl
 .. important::
 	Homework id: ``blast``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_blast.pdf``.
 
-.. note:: This assignment is derived from `BLASTing Through the Kingdom of Life <http://www.digitalworldbiology.com/BLAST/62000sequences.html>`_. You may find `this tutorial <http://digitalworldbiology.com/dwb/BLAST>`_ to be very helpful.
-
 Query sequences::
 
 	>Sequence1
