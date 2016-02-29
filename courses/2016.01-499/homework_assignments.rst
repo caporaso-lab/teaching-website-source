@@ -13,6 +13,17 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
+
+Assignment 4: Multiple sequence alignment and phylogeny exercises (due 24 March 2016, 20 points)
+------------------------------------------------------------------------------------------------
+
+For this assignment, you will answer questions from the IPython Notebook provided `here <http://nbviewer.jupyter.org/github/gregcaporaso/built-iab/blob/master/4/2.ipynb>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in your copy of the IPython Notebook, and submit that notebook by email.
+
+.. important::
+	Homework id: ``multiple_alignment``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_multiple_alignment.ipynb``.
+
+
+
 Assignment 3: Pairwise alignment exercises (due 18 February 2016, 20 points)
 ----------------------------------------------------------------------------
 
