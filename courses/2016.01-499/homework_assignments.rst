@@ -70,7 +70,7 @@ Presentations groups
 ````````````````````
 .. raw:: html
 
-	<iframe src="https://docs.google.com/spreadsheets/d/1VlVD53zPT9n9ILjGj0QpYdG32PZBKZFX7orHETlARf0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="600" height="600"></iframe>
+	<iframe src="https://docs.google.com/spreadsheets/d/1VlVD53zPT9n9ILjGj0QpYdG32PZBKZFX7orHETlARf0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="400"></iframe>
 
 
 Assignment 3: Pairwise alignment exercises (due 18 February 2016, 20 points)
