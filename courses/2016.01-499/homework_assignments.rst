@@ -23,6 +23,49 @@ For this assignment, you will answer questions from the IPython Notebook provide
 	Homework id: ``multiple_alignment``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_multiple_alignment.ipynb``.
 
 
+Presentations
+-------------
+
+.. important::
+	Homework id: ``app``; Extension: ``pdf``; For BIO/CS 499 students, the assignment should be named ``<group-number>_app_slides.pdf``, so for example Group 1’s assignment would be named ``group1_app_slides.pdf``. For BIO/CS 599 students, the assignments should be named ``<nau-id>_app.pdf`` and ``<nau-id>_app_slides.pdf``, so for example my assignments would be named ``jgc53_app.pdf`` and ``jgc53_app_slides.pdf``.
+
+BIO/CS 499 Group Application Report and Presentation
+````````````````````````````````````````````````````
+
+Each group will be pre-assigned a bioinformatics software package and associated documentation or paper two weeks before their presentation date, and will present the software in class the day they’re assigned. Every member of the group must give part of the presentation. Your presentation should answer the following questions and your slides must be turned in as a PDF (by email, with all group member names included, before class on the day of your presentation).
+
+#. What is the biological problem that the authors are trying to address?
+#. What is the motivation for addressing this problem?
+#. What previous work has been done in this area? Are there preexisting tools that address this problem?
+#. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+#. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)?
+#. What is the input to this tool?
+#. What is the output of this tool?
+#. How did the authors test this tool? Was performance benchmarking included in their paper?
+#. How did the authors evaluate whether this tool was giving biologically meaningful results?
+
+Your presentation will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output. Your presentation should be 15 +/- 2 minutes, including the live demo. **You will lose points if your presentation falls outside of this time range.**
+
+All students in a group will receive the same grade on this assignment, unless there is clear evidence that some student(s) didn’t contribute, in which case the rest of the group should discuss with the TA or professor.
+
+BIO/CS 599 Individual Application Report and Presentation
+`````````````````````````````````````````````````````````
+
+Graduate student presentations should be 15 +/- 2 minutes and should address all of the following questions. **You will lose points if your presentation falls outside of this time range.** You will also turn in a 2 +/- 1/3 page report answering these questions, by email on the day of your presentation. **You will lose points if your report falls outside of this length range.**
+
+#. Background/Introduction to your research.
+#. How does bioinformatics play a role in your research?
+#. What bioinformatics tool have you used (or do you plan to use) to address your questions?
+#. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+#. What pre-existing biological resources (e.g., sequence databases) did the authors make use of (if any)?
+#. What is the input to this tool (ideally you will demo this using your own data)?
+#. What is the output of this tool (ideally you will demo this using your own data)?
+#. How did the authors test this tool? Was performance benchmarking included in their paper?
+#. How did the authors evaluate whether this tool was giving biologically meaningful results?
+#. Discuss the pros and cons of this software relative to related bioinformatics software.
+
+The presentation should address all of the questions listed here and should include a live demonstration of the software where the presenters show/discuss the input data, run the application, and show/discuss the output.
+
 
 Assignment 3: Pairwise alignment exercises (due 18 February 2016, 20 points)
 ----------------------------------------------------------------------------
