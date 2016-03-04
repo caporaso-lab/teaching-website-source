@@ -66,6 +66,12 @@ Graduate student presentations should be 15 +/- 2 minutes and should address all
 
 The presentation should address all of the questions listed here and should include a live demonstration of the software where the presenters show/discuss the input data, run the application, and show/discuss the output.
 
+Presentations groups
+````````````````````
+.. raw:: html
+
+	<iframe src="https://docs.google.com/spreadsheets/d/1VlVD53zPT9n9ILjGj0QpYdG32PZBKZFX7orHETlARf0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 Assignment 3: Pairwise alignment exercises (due 18 February 2016, 20 points)
 ----------------------------------------------------------------------------
