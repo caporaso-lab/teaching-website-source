@@ -13,6 +13,22 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
+Final assignment (part 2): Interpreting and reporting QIIME results (due 10 May 2015 9:30am, 20 points)
+---------------------------------------------------------------------------------------------
+
+This assignment continues on from *Final assignment (part 1)*. You should continue working from the IPython Notebook that you developed for that assignment, this time addressing the questions in **Part 3 only**. For this assignment you will turn in a 2.5 to 3 page paper as a PDF. Details on the format are provided in the IPython Notebook.
+
+.. important::
+	Homework id: ``qiime2``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_qiime2.pdf``.
+
+Final assignment (part 1): Microbiome-based forensics with QIIME (due 21 April 2016, 20 points)
+----------------------------------------------------------------------------------
+
+For this assignment, you will run analyses and answer questions in the IPython Notebook provided `here  <http://nbviewer.jupyter.org/gist/gregcaporaso/d4b0dd71d72e9c864989a1ff4545991d>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the `class IPython Notebook server <https://dana.ucc.nau.edu:8887/>`_. You should answer the questions in **Parts 1 and 2 only** in your copy of the IPython Notebook, and submit that notebook by email. You will also submit the rarefied BIOM table generated in your analysis as a gzipped BIOM file (instructions for locating that file are in the IPython Notebook).
+
+.. important::
+	Homework id: ``qiime1``; Extension: ``ipynb`` and ``.biom.gz``; For this assignment, the files I turn in would be named ``jgc53_qiime1.ipynb`` and ``jgc_qiime1.biom.gz``.
+
 
 Assignment 4: Multiple sequence alignment and phylogeny exercises (due 24 March 2016, 20 points)
 ------------------------------------------------------------------------------------------------
