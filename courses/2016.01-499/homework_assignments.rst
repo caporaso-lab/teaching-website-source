@@ -18,6 +18,9 @@ Extra credit assignment (due 5 May 2016)
 
 Complete `this assignment worksheet <https://docs.google.com/document/d/1ZndiFb5LS0TicPrhPyUSwELP9afCfd4IRCYENyo54tk/pub>`_ and the associated assigned reading (described in the worksheet). You will turn in a PDF containing the answers to the questions. You may answer some or all of the questions, and the points that you accumulate will be added to your total homework score for the semester.
 
+.. important::
+	Homework id: ``clustering``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_clustering.pdf``.
+
 Final assignment (part 2): Interpreting and reporting QIIME results (due 10 May 2016 9:30am, 20 points)
 ---------------------------------------------------------------------------------------------
 
