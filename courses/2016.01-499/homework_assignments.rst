@@ -13,7 +13,12 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
-Final assignment (part 2): Interpreting and reporting QIIME results (due 10 May 2015 9:30am, 20 points)
+Extra credit assignment (due 5 May 2016)
+----------------------------------------
+
+Complete `this assignment worksheet <https://docs.google.com/document/d/1ZndiFb5LS0TicPrhPyUSwELP9afCfd4IRCYENyo54tk/pub>`_ and the associated assigned reading (described in the worksheet). You will turn in a PDF containing the answers to the questions. You may answer some or all of the questions, and the points that you accumulate will be added to your total homework score for the semester.
+
+Final assignment (part 2): Interpreting and reporting QIIME results (due 10 May 2016 9:30am, 20 points)
 ---------------------------------------------------------------------------------------------
 
 This assignment continues on from *Final assignment (part 1)*. You should continue working from the IPython Notebook that you developed for that assignment, this time addressing the questions in **Part 3 only**. For this assignment you will turn in a 2.5 to 3 page paper as a PDF. Details on the format are provided in the IPython Notebook.
