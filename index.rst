@@ -2,7 +2,7 @@
 Caporaso Lab Teaching Website
 ====================================================
 
-Current courses (Spring 2016)
+Current courses (Spring 2017)
 =============================
 
 .. toctree::
