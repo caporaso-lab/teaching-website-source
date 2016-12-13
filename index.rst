@@ -8,7 +8,8 @@ Current courses (Spring 2016)
 .. toctree::
    :maxdepth: 1
 
-   courses/2016.01-499/index.rst
+   courses/2017.01-450/index.rst
+   courses/2017.01-698/index.rst
 
 
 An Introduction to Applied Bioinformatics (IAB)
@@ -22,6 +23,7 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/2016.01-499/index.rst
    courses/2015.01-290/index.rst
    courses/2014.08-698/index.rst
    courses/2014.01-599/index.rst
