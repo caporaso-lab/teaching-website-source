@@ -7,8 +7,6 @@ General information
 
 The **course schedule** (subject to updates through-out the semester) is `here <https://docs.google.com/spreadsheets/d/1WAYfFvKVr9Bht0O8fnLcIIinFiQS-IhncVe5l2OAafw/pubhtml?gid=0&single=true>`_.
 
-Find information on **assignments** `here <./assignments.html>`_.
-
 Schedule: We 4:00-5:15pm, Biological Sciences Rm 419
 
 Course materials
@@ -17,7 +15,7 @@ Course materials
 Syllabus
 --------
 
-The course syllabus will be available here.
+The course syllabus is available `here <https://docs.google.com/document/d/1Zd__jIpUoRWuETxsQ6-XlgzXMpGM6vdBESOlKsdSpj4/pub>`_.
 
 Text book
 ---------
