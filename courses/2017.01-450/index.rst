@@ -19,7 +19,7 @@ Course materials
 Syllabus
 --------
 
-The course syllabus will be available here when it's ready.
+The course syllabus is available `here <https://docs.google.com/document/d/1V5mzElIMZSTqnPXQFeUzt6qFb_tAW2bprCsFKvIQHg8/pub>`_.
 
 Lecture notes
 -------------

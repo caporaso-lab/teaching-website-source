@@ -13,8 +13,8 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
-Assignment 2: BLAST exercises (due 4 February 2016, 20 points)
----------------------------------------------------------------
+Assignment 2: BLAST exercises (see schedule for due date, 20 points)
+--------------------------------------------------------------------
 
 Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/1IHyRHa8PYrXrSRimZJ8JpLQxYwbNdXmC6scHR7b92T0/pub>`_. You should turn in a PDF of that file with all answers filled in by email.
 
@@ -170,8 +170,8 @@ Query sequences::
 	CCCCGCCCGTCACCCCACCAGAGTTTGTAACACCAGAAGCCGGTGGAGTAA
 	CATTTTATTAGGAGCTAGCCGTCGAAGGTGGGAC
 
-Assignment 1: GC content (due 24 January 2016, 10 points)
----------------------------------------------------------
+Assignment 1: GC content (see schedule for due date, 10 points)
+---------------------------------------------------------------
 Download a genome and compute its GC content. Copy or download `the assignment <https://docs.google.com/document/d/1iY1sfH9uKulmO0CLugtQOzBoAIGqh0oIwzZfa1ARay0/edit>`_, fill in your answers, and turn the assignment in by email as a PDF. **While you will get started on this assignment in class (optionally in small groups), you will complete the questions in assignment yourself.**
 
 Note that there are various ways that you can just look up the GC content, including via the IMG website. I'm asking you to compute it, and you're being graded on your descriptions. Getting the right answer is a bonus (i.e., if you spend a couple of hours trying, and get it wrong, you'll be graded on your well-documented effort, not your final answer).
