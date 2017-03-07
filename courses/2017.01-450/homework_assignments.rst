@@ -39,7 +39,7 @@ Presentations groups
 ````````````````````
 .. raw:: html
 
-  <iframe src="https://docs.google.com/spreadsheets/d/1BT3yRszEi9pDOew1mj9STr0lA7FTAePejU6NK2q2Oo4/pubhtml?widget=true&amp;headers=false"></iframe>
+  <iframe src="https://docs.google.com/spreadsheets/d/1BT3yRszEi9pDOew1mj9STr0lA7FTAePejU6NK2q2Oo4/pubhtml?widget=true&amp;headers=false"  width="1000" height="400"></iframe>
 
 
 Assignment 4: Multiple sequence alignment and phylogeny exercises
