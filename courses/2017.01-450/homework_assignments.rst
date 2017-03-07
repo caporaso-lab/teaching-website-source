@@ -13,6 +13,35 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
+Presentations
+-------------
+
+.. important::
+	Homework id: ``app``; Extension: ``pdf``; The assignment should be named ``<group-number>_app_slides.pdf``, so for example Group 1’s assignment would be named ``group1_app_slides.pdf``.
+
+Each group will be pre-assigned a bioinformatics software package and associated documentation or paper at least two weeks before their presentation date, and will present the software in class the day they’re assigned. Every member of the group must give part of the presentation. Your presentation should answer the following questions and your slides must be turned in as a PDF (by email, with all group member names included, before class on the day of your presentation).
+
+#. What is the biological problem that the authors are trying to address?
+#. What is the motivation for addressing this problem?
+#. What previous work has been done in this area? Are there preexisting tools that address this problem?
+#. What computational technologies did the authors make use of to create this tool (e.g., programming language, databases, etc)?
+#. What preexisting biological resources (e.g., sequence databases) did the authors make use of (if any)?
+#. What is the input to this tool?
+#. What is the output of this tool?
+#. How did the authors test this tool? Was performance benchmarking included in their paper?
+#. How did the authors evaluate whether this tool was giving biologically meaningful results?
+
+Your presentation will additionally include a live demo of the software where the presenters show/discuss the input data, run the application, and show/discuss the output. Your presentation should be 15 +/- 2 minutes, including the live demo. **You will lose points if your presentation falls outside of this time range.**
+
+All students in a group will receive the same grade on this assignment, unless there is clear evidence that some student(s) didn’t contribute, in which case the rest of the group should discuss with the instructor.
+
+Presentations groups
+````````````````````
+.. raw:: html
+
+  <iframe src="https://docs.google.com/spreadsheets/d/1BT3yRszEi9pDOew1mj9STr0lA7FTAePejU6NK2q2Oo4/pubhtml?widget=true&amp;headers=false"></iframe>
+
+
 Assignment 4: Multiple sequence alignment and phylogeny exercises
 -----------------------------------------------------------------
 
