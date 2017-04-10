@@ -13,6 +13,23 @@ Your homework must always be turned in with a standardized name. That name shoul
 
 Unless otherwise noted, homework must be turned in by email to Arron (ams379@nau.edu) before class on the day it is due.
 
+Final assignment: Interpreting and reporting QIIME 2 results
+------------------------------------------------------------
+
+This assignment continues on from *Assignment 5*. You should continue working from the Jupyter Notebook that you developed for that assignment, this time addressing the questions in **Part 3 only**. For this assignment you will turn in a 2.5 to 3 page paper as a PDF. Details on the format are provided in the Jupyer Notebook.
+
+.. important::
+	Homework id: ``final``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53_final.pdf``.
+
+Assignment 5: Microbiome-based forensics with QIIME 2
+-----------------------------------------------------
+
+For this assignment, you will run analyses and answer questions in the Jupyter Notebook provided `here  <http://nbviewer.jupyter.org/github/gregcaporaso/2017.04-bio450-qiime2-assignment/blob/master/qiime2-assignment.ipynb>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the class Jupyter Notebook server. You should answer the questions in **Parts 1 and 2 only** in your copy of the Jupyter Notebook, and submit that notebook by email. You will also submit all `.qzv` files that you reference in your answers to the *Part 2 Questions*.
+
+.. important::
+	Homework id: ``qiime2``; Extensions: ``ipynb`` and ``.qzv``. For this assignment, the files I turn in would be ``jgc53_qiime2.ipynb``, and some number of ``.qzv`` files (these can have any file names).
+
+
 Presentations
 -------------
 
