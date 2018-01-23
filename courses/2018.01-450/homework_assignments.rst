@@ -188,7 +188,7 @@ Query sequences::
 Assignment 3: Pairwise alignment exercises
 ------------------------------------------
 
-For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.jupyter.org/github/gregcaporaso/built-iab/blob/master/4/1.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class Jupyter Notebook server <https://juptyer.hpc.nau.edu/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date.
+For this assignment, you will answer four questions from the IPython Notebook provided `here <http://nbviewer.jupyter.org/github/gregcaporaso/built-iab/blob/master/4/1.ipynb>`_. Download that file (click the download icon on the top-right) and then upload it to the `class Jupyter Notebook server <https://jupyter.hpc.nau.edu/>`_. You should answer the questions in a text or word processing document, and email that document as a PDF before class on the due date.
 
 Point breakdown:
  * Question 1: 4 points
