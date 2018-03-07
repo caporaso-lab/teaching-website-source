@@ -243,6 +243,13 @@ Your presentation will additionally include a live demo of the software where th
 
 All students in a group will receive the same grade on this assignment, unless there is clear evidence that some student(s) didn’t contribute, in which case the rest of the group should discuss with the instructor.
 
+Presentations groups
+````````````````````
+.. raw:: html
+
+  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOsS39VyXsVi74lnOps1IOSRwQ95mkpdB3m_EetKDRnSHM2NXvSeayzZEL5Ew8iBdVhg5MH-E5tmq8/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+
 
 Final assignment: Interpreting and reporting QIIME 2 results
 ------------------------------------------------------------
