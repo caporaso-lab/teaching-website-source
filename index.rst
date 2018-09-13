@@ -14,7 +14,7 @@ Current courses (Spring 2018)
 An Introduction to Applied Bioinformatics (IAB)
 ===============================================
 
-Dr. Caporaso's interactive, IPython Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_. For more information see Dr. Caporaso's `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://www.caporasolab.us/An-Introduction-To-Applied-Bioinformatics>`_.
+Dr. Caporaso's interactive, IPython Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://readIAB.org>`_. For more information see Dr. Caporaso's `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://readIAB.org>`_.
 
 Previous courses
 ==================
