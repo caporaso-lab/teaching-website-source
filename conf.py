@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'bioinformatics@nau'
-copyright = u'2012, J Gregory Caporaso'
+copyright = u'2019, J Gregory Caporaso'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
