@@ -245,6 +245,11 @@ Presentations groups
 
 To be determined.
 
+BIO 685: extra assignment and presentation
+------------------------------------------
+
+Students enrolled in BIO 685 will have one extra assignment that is ideally tailored to their graduate research. They will present this project individually in place of joining a group for group presentations.
+
 Final assignment: Interpreting and reporting QIIME 2 results
 ------------------------------------------------------------
 
