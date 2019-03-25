@@ -242,8 +242,9 @@ All students in a group will receive the same grade on this assignment, unless t
 
 Presentations groups
 ````````````````````
+.. raw:: html
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQE_rDxdEcfnlm0ESoEUdoEPivz1RpUnB5mVE8DYuDTBuy9p6fRDIwjXFv3rnQTZb9s14UXaRYxtb1i/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQE_rDxdEcfnlm0ESoEUdoEPivz1RpUnB5mVE8DYuDTBuy9p6fRDIwjXFv3rnQTZb9s14UXaRYxtb1i/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 BIO 685: extra assignment and presentation
 ------------------------------------------
