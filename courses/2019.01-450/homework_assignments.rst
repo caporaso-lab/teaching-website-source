@@ -244,7 +244,7 @@ Presentations groups
 ````````````````````
 .. raw:: html
 
-	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQE_rDxdEcfnlm0ESoEUdoEPivz1RpUnB5mVE8DYuDTBuy9p6fRDIwjXFv3rnQTZb9s14UXaRYxtb1i/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+	<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQE_rDxdEcfnlm0ESoEUdoEPivz1RpUnB5mVE8DYuDTBuy9p6fRDIwjXFv3rnQTZb9s14UXaRYxtb1i/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="400"></iframe>
 
 BIO 685: extra assignment and presentation
 ------------------------------------------
