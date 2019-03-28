@@ -194,7 +194,7 @@ Point breakdown:
  * Question 1: 4 points
  * Question 2: 2 points
  * Question 3: 2 points
- * Question 4: 12 points; This is the meat of the assignment, you should answer with 1-2 paragraphs. This is also where we can score you on your process, rather than just on whether you get the correct answer, if you provide sufficient detail.
+ * Question 4: 12 points; This is the majority of the assignment. You should answer with 1-2 paragraphs. This is also where we can score you on your process, rather than just on whether you get the correct answer, if you provide sufficient detail.
 
 
 .. important::
@@ -211,7 +211,7 @@ Point breakdown:
  * Question 2: 1 point
  * Question 3: 2 points
  * Question 4: 2 points
- * Question 5: 10 points (thoroughly explain your process (7 pts) and come up with the correct answers (3 pts))
+ * Question 5: 10 points; This is the majority of the assignment. You should thoroughly explain your process (7 pts) and provide the correct answers (3 pts).
  * Question 6: 2 points
  * Question 7: 2 points
 
