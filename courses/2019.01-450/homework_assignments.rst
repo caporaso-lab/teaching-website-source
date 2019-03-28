@@ -206,6 +206,15 @@ Assignment 4: Multiple sequence alignment and phylogeny exercises
 
 For this assignment, you will answer questions from the IPython Notebook provided `here <https://github.com/applied-bioinformatics/built-iab/blob/master/IAB-notebooks/4/2.ipynb>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the class IPython Notebook server. You should answer the questions in your copy of the IPython Notebook, and submit that notebook by email.
 
+Point breakdown:
+ * Question 1: 1 point
+ * Question 2: 1 point
+ * Question 3: 2 points
+ * Question 4: 2 points
+ * Question 5: 10 points (thoroughly explain your process (7 pts) and come up with the correct answers (3 pts))
+ * Question 6: 2 points
+ * Question 7: 2 points
+
 .. important::
 	Homework id: ``multiple_alignment``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_multiple_alignment.ipynb``.
 
