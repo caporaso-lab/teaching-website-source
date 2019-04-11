@@ -218,11 +218,13 @@ Point breakdown:
 .. important::
 	Homework id: ``multiple_alignment``; Extension: ``ipynb``; For this assignment, the file I turn in would be named ``jgc53_multiple_alignment.ipynb``.
 
+Assignment 5: Microbiome-based forensics with QIIME 2
+-----------------------------------------------------
 
-Assignment 5: Microbiome analysis with QIIME 2
-----------------------------------------------
+For this assignment, you will run analyses and answer questions in the Jupyter Notebook provided `here  <http://nbviewer.jupyter.org/github/gregcaporaso/bio450-qiime2-assignment/blob/master/qiime2-assignment.ipynb>`_. Download that file (click the download icon on the top-right, and save it to your computer) and then upload it to the class Jupyter Notebook server. You should answer the questions in **Parts 1 and 2 only** in your copy of the Jupyter Notebook, and submit that notebook by email. You will also submit all `.qzv` files that you reference in your answers to the *Part 2 Questions*.
 
-This assignment is currently being developed. More information will be provided here when it's ready.
+.. important::
+	Homework id: ``qiime2``; Extensions: ``ipynb`` and ``.qzv``. For this assignment, the files I turn in would be ``jgc53_qiime2.ipynb``, and some number of ``.qzv`` files (these can have any file names).
 
 
 Group presentations
