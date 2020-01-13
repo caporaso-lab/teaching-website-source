@@ -8,7 +8,7 @@ Current courses (Spring 2019)
 .. toctree::
    :maxdepth: 1
 
-   courses/2019.01-450/index.rst
+   courses/2020.01-450/index.rst
 
 
 An Introduction to Applied Bioinformatics (IAB)
@@ -22,6 +22,7 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/2019.01-450/index.rst
    courses/2018.01-450/index.rst
    courses/2017.01-450/index.rst
    courses/2017.01-698/index.rst
@@ -60,7 +61,7 @@ For students who are looking to get a head-start on the material, I recommend `A
 Independent research
 --------------------
 
-Instructor: Dr. Greg Caporaso (gregcaporaso@gmail.com)
+Instructor: Dr. Greg Caporaso (greg.caporaso@nau.edu)
 
 I occasionally mentor exceptional undergraduate and graduate students in bioinformatics-related research projects. If you're interested in this, contact me with details about the type of project you'd like to work on, and about your educational background. These are considerably harder than a single semester course in bioinformatics, and require you to be highly self-motivated. I do not accept all students who are interested.
 
