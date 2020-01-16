@@ -24,4 +24,4 @@ Hints: Start with the `NCBI Genome Browser <http://www.ncbi.nlm.nih.gov/genome>`
 Be creative - there are many ways to achieve this.
 
 .. important::
-	Homework id: ``gc_content``; Extension: ``pdf``; For this first assignment, the file I turn in would be named ``jgc53_gc_content.pdf``.
+	Homework id: ``gc-content``; Extension: ``pdf``; For this first assignment, the file I turn in would be named ``jgc53-gc-content.pdf``.
