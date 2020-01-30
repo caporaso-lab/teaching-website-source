@@ -36,7 +36,7 @@ The text book for this class is `An Introduction to Applied Bioinformatics <http
 Jupyter Notebook
 ----------------
 
-We'll use Jupyter Notebooks during the course of the semester. You can find the `class Jupyter Notebook server here <https://jupyter.hpc.nau.edu/>`_.
+We'll use the monsoon supercomputer housed at NAU over the course of the semester. You can access this `here <https://ondemand.hpc.nau.edu/>`_.
 
 Office Hours
 ============
