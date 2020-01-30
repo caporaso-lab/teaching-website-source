@@ -29,7 +29,7 @@ Be creative - there are many ways to achieve this.
 Assignment 2: BLAST exercises (see schedule for due date, 20 points)
 --------------------------------------------------------------------
 
-Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/e/2PACX-1vRiQRKRKKKzoqzVDO_0EaheL7bvWs3z8no9RHjviaEcc5DcjelSxrrILQAE6NsdMifYvzy-iU4W4mJe/pub>`_. You should turn in a PDF of that file with all answers filled in by email.
+Using `NCBI nucleotide BLAST <http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&BLAST_PROGRAMS=megaBlast&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome>`_, complete the `assignment worksheet <https://docs.google.com/document/d/1d2A6KImyXKtIksKT2TAvwuBofQ7QcOqsNLHsH_4U38k/edit?usp=sharing>`_. You should turn in a PDF of that file with all answers filled in by email.
 
 .. important::
   Homework id: ``blast``; Extension: ``pdf``; For this assignment, the file I turn in would be named ``jgc53-blast.pdf``.
