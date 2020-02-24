@@ -123,3 +123,26 @@ Query sequences::
 		ATAAATTATTTTAATTAATATCTTTCAACTAAATGGGAACTGATGATATGT
 		TTCATGACTGTTGTGAAGTCGTAACAAGGTAGCGCTAGCGGAAGCTGGTGC
 		TGGAT
+
+Assignment 3: Python programming (see schedule for due date, 20 points)
+-----------------------------------------------------------------------
+
+In this assignment you'll apply some of the topics we covered in our Python programming lectures to write a Python script that can help you clean up information in a microbiome sample metadata file. The sample metadata that you'll work with here is from the Yellowstone Hot Springs study that Dr. Caporaso covered in class, and you'll modify a few functions in a template script to help standardize values in this file for use in microbiome analysis.
+
+You can begin by downloading the [template script](https://www.dropbox.com/s/imi5b9m3aalauvl/fix_table.py?dl=0), [a test script](https://www.dropbox.com/s/qi4p4btf2fa2b0y/test_fix_table.py?dl=0), and [the input file](https://www.dropbox.com/s/tbapy4sufnrjbde/yellowstone.csv?dl=0). You'll then upload these to the class Jupyter Notebook server, which you can access `here <https://ondemand.hpc.nau.edu/>`_.
+
+After uploading these files, you should be able to run the following command::
+
+		python test_fix_table.py
+
+This is a test file that evaluates the accuracy of the functions that you've written by providing them with specific input, and then comparing their output to an expected result. It should report 16 failures, and you can use this to test whether your code is working correctly. You can run this as you make edits to the template script. When there are zero failures, you'll know that you have completely the assignment correctly.
+
+Your code will do a few things. Acting only on the `Site` column in the table, it will remove leading and trailing whitespace, and convert the value to lowercase. Acting on the temperature column, it will remove units if they are present (this will be either `F` or `f`, for Fahrenheit), and convert the temperature value from Fahrenheit to Celsius. And finally, it will remove any rows that start with a `#` character, as these are often interpreted as comment lines that do not contain data. To achieve this, open the `fix_table.py` script and begin reading the comments to see what code you'll need to edit. All of your edits will be in the `fix_table.py` file.
+
+You can apply your script to the input file as follows to created a new, cleaned up sample metadata file:
+
+		python fix_table.py yellowstone.csv yellowstone-clean.csv
+
+(You can name the output file whatever you'd like  - here I named it `yellowstone-clean.csv`.)
+
+To submit this assignment, after you have completed your code and tested it, rename your script to include your NAU id in the name, so the file name looks like: `fix-table-<nau-id>.pdf`, where `<nau-id>` is replaced with your NAU id. For example, my file would be named `fix-table-jgc53.pdf`. Email this file to Dr. Caporaso (greg.caporaso@nau.edu) with the subject line: Assignment 3.
