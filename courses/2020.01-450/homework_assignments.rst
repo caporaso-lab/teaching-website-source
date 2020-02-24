@@ -129,7 +129,7 @@ Assignment 3: Python programming (see schedule for due date, 20 points)
 
 In this assignment you'll apply some of the topics we covered in our Python programming lectures to write a Python script that can help you clean up information in a microbiome sample metadata file. The sample metadata that you'll work with here is from the Yellowstone Hot Springs study that Dr. Caporaso covered in class, and you'll modify a few functions in a template script to help standardize values in this file for use in microbiome analysis.
 
-You can begin by downloading the `template script <https://www.dropbox.com/s/imi5b9m3aalauvl/fix_table.py?dl=0>_`, `a test script <https://www.dropbox.com/s/qi4p4btf2fa2b0y/test_fix_table.py?dl=0>`_, and `the input file <https://www.dropbox.com/s/tbapy4sufnrjbde/yellowstone.csv?dl=0>`_`. You'll then upload these to the class Jupyter Notebook server, which you can access `here <https://ondemand.hpc.nau.edu/>`_.
+You can begin by downloading the `template script <https://www.dropbox.com/s/imi5b9m3aalauvl/fix_table.py?dl=0>`_, `a test script <https://www.dropbox.com/s/qi4p4btf2fa2b0y/test_fix_table.py?dl=0>`_, and `the input file <https://www.dropbox.com/s/tbapy4sufnrjbde/yellowstone.csv?dl=0>`_. You'll then upload these to the class Jupyter Notebook server, which you can access `here <https://ondemand.hpc.nau.edu/>`_.
 
 After uploading these files, you should be able to run the following command::
 
@@ -145,4 +145,5 @@ You can apply your script to the input file as follows to created a new, cleaned
 
 (You can name the output file whatever you'd like  - here I named it `yellowstone-clean.csv`.)
 
-To submit this assignment, after you have completed your code and tested it, rename your script to include your NAU id in the name, so the file name looks like: `fix-table-<nau-id>.py`, where `<nau-id>` is replaced with your NAU id. For example, my file would be named `fix-table-jgc53.py`. Email this file to Dr. Caporaso (greg.caporaso@nau.edu) with the subject line: Assignment 3.
+
+.. important:: To submit this assignment, after you have completed your code and tested it, rename your script to include your NAU id in the name, so the file name looks like: `fix-table-<nau-id>.py`, where `<nau-id>` is replaced with your NAU id. For example, my file would be named `fix-table-jgc53.py`. Email this file to Dr. Caporaso (greg.caporaso@nau.edu) with the subject line: Assignment 3.
