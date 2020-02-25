@@ -129,7 +129,7 @@ Assignment 3: Python programming (see schedule for due date, 20 points)
 
 In this assignment you'll apply some of the topics we covered in our Python programming lectures to write a Python script that can help you clean up information in a microbiome sample metadata file. The sample metadata that you'll work with here is from the Yellowstone Hot Springs study that Dr. Caporaso covered in class, and you'll modify a few functions in a template script to help standardize values in this file for use in microbiome analysis.
 
-You can begin by downloading the `template script <https://www.dropbox.com/s/imi5b9m3aalauvl/fix_table.py?dl=0>`_, `a test script <https://www.dropbox.com/s/qi4p4btf2fa2b0y/test_fix_table.py?dl=0>`_, and `the input file <https://www.dropbox.com/s/tbapy4sufnrjbde/yellowstone.csv?dl=0>`_. You'll then upload these to the class Jupyter Notebook server, which you can access `here <https://ondemand.hpc.nau.edu/>`_.
+You can begin by downloading the `template script <https://www.dropbox.com/s/imi5b9m3aalauvl/fix_table.py?dl=0>`_, `a test script <https://www.dropbox.com/s/qi4p4btf2fa2b0y/test_fix_table.py?dl=0>`_, and `the input file <https://www.dropbox.com/s/yq12tfbbjhg5ogh/yellowstone.csv?dl=0>`_. You'll then upload these to the class Jupyter Notebook server, which you can access `here <https://ondemand.hpc.nau.edu/>`_.
 
 After uploading these files, you should be able to run the following command::
 
