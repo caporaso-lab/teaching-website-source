@@ -154,3 +154,30 @@ Assignment 4: Primer analysis using Jupyter Notebooks
 In this assignment you'll use the Jupyter Notebook on monsoon to analyze 16S rRNA PCR primers. You'll work on the `class Jupyter Notebook server for this assignment <https://ondemand.hpc.nau.edu/>`_. Begin by creating a new directory to work in and uploading the following two files: `assignment4.py <https://www.dropbox.com/s/t9s36b8n2tv3928/assignment4.py?dl=0>`_ and `assignment4.ipynb <https://www.dropbox.com/s/q5hwc5dbqctp6hg/assignment4.ipynb?dl=0>`_. You will answer the questions in `this Google Doc <https://docs.google.com/document/d/1GV9Hyp4SlrqKqWbYcQHMo0h52M6vLBRGWUWpzNxqies/edit?usp=sharing>`_. **You will not need to open or edit the `assignment4.py` file.** You will edit the `assignment4.ipynb` file to show your work and experiment with the functions that you'll use for this assignment. You will create a copy of the Google Doc, answer the questions in there, and then submit that as a PDF.
 
 .. important:: To submit this assignment, after you have completed your work in the Jupyter Noteboook (`.ipynb` file), rename it to include your NAU id in the name, so the file name looks like: `assignment4-<nau-id>.ipynb`, where `<nau-id>` is replaced with your NAU id. For example, my file would be named `assignment4-jgc53.ipynb`. You will also turn in the answers to your question as a PDF, based on the template in the Google Doc. This file should be named `assignment4-<nau-id>.pdf`, where `<nau-id>` is replaced with your NAU id. For example, my file would be named `assignment4-jgc53.pdf`. Email these two files to Dr. Caporaso (greg.caporaso@nau.edu) with the subject line: Assignment 4.
+
+Assignment 5: Learning and presenting on a bioinformatics workflow
+------------------------------------------------------------------
+
+In assignment 5 you will learn about and present on a bioinformatics workflow that is being used or proposed for SARS-CoV-2 research. This is a very real world bioinformatics task. In fact, I'm doing this very same thing at the moment as `we develop our capacity for sequencing and analyzing genomes from covid-19 cases in Arizona <https://azdailysun.com/news/local/tgen-diversifying-covid-19-testing-and-research/article_df3d2fb2-7540-5774-9ab0-a92cc481d786.html>`_ at the Pathogen and Microbiome Institute. 
+
+You can do this in groups of up to three students, or work on this on your own. If you would like to create your own group or work on your own, please e-mail me with the full names of everyone in your group or to let me know that you want to work on your own by Tuesday, April 7th at 12:30pm. If I don't hear from you by then, I will randomly assign you to a group by 5pm on Tuesday, April 7th. Any of these three options (working on your own, creating your own group, or being assigned to a group) are totally fine - given the current challenges that everyone is facing, I just want to make sure that you have the flexibility to choose whichever option works best for you. 
+
+For this assignment, you will turn in a video file in mp4 format by uploading it to `this Google Drive folder <https://drive.google.com/drive/folders/1_0LgXLUqAl1o9J6_kyo5ZBbFQD9CQ4LC?usp=sharing>`_. Each member of the group must contribute to the project in some way. This can be by doing research and writing a script for the video, presenting in the video, installing and demonstrating a workflow, or in some other way. 
+
+Choose one of the Bioinformatic Tools, Scripts or Workflows described in `this document provided by the CDC <https://github.com/CDCgov/SARS-CoV-2_Sequencing#bioinformatic-tools-scripts-and-workflows>`_ (choose something outside of the "0. General Resources" section). (Alternatively, if there is another bioinforamtics tool/script/workflow that you're interested in learning about, and which is or could be related to SARS-CoV-2 research, email me to see if it would be a good subject for this presentation.) Present the tool/script/workflow of your choice in a video that is between 8-12 minutes long. Your presentation should address the following questions:
+
+#. What organization or people are providing this tool/script/workflow?
+#. Who provided the funding for this tool/script/workflow (try to determine this, but don't worry if you can't find it - it may not be reported)? 
+#. What is the biological question that the tool/script/workflow is trying to address?
+#. What is the motivation for addressing this question? (In other words, what could we learn by applying the tool/script/workflow?)
+#. What computational technologies are used in this tool/script/workflow (e.g., bioinformatics software, programming language)?
+#. What biological resources (e.g., public sequence databases) did the authors make use of?
+#. What is the input to this tool/script/workflow?
+#. What is the output from this tool/script/workflow?
+#. Present either a demo of the tool/script/workflow (e.g., install it on your computer and run it with test data) or present an example of the output generated by this workflow and explain how to interpret it.
+
+All students in a group will receive the same grade on this assignment unless there is clear evidence that some student(s) didn’t contribute, in which case the rest of the group should e-mail me to discuss the issue.
+
+Before choosing a tool/script/workflow to present on, you should look at several in the list. Some of these have higher quality descriptions and examples than others. 
+
+
