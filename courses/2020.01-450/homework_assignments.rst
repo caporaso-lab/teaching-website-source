@@ -221,7 +221,7 @@ You should address several specific questions in your *Results and Conclusions*:
 * Which features were most different in abundance across the subjects? Refer to the *Taxonomic barplots* to address this. Present a table containing the most differentially abundant features and their taxonomy. 
 * Which subject had the most features (i.e., the highest microbial community richness) in their skin microbiome, on average? Was the number of features across subjects significantly different? 
 
-Please turn all of this in by e-mail to greg.caporaso@nau.edu with subject: _final assignment_.
+Please turn all of this in by e-mail to greg.caporaso@nau.edu with subject `final assignment`.
 
 Troubleshooting
 +++++++++++++++
