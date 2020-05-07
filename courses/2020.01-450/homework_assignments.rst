@@ -205,7 +205,7 @@ For **Part 1**, you'll turn in the notebook containing the commands that you ran
 
 For **Part 2**, you'll turn in the notebook containing the commands that you ran, as well as a completed question sheet (linked above), and the `.qza` or `.qzv` files that you reference in your answers in the question sheet (with the exception of any `.qza` or `.qzv` files that I'm providing for you). Append your NAU ID to the beginning of each file name. For example, the files I turn in would be named: `jgc53-qiime2-assignment-part2.ipynb`, `jgc53-qiime2-assignment-part2-questions.pdf`, and multiple files with names like `jgc53-*.qzv` (where the `*` is replaced with a descriptive name for each file, such as `jgc53-taxonomy-barplot.qzv`). Don't try to submit artifacts that I've provided for you, such as `gg-13-8-99-nb-classifier.qza`. Some will be too large to send by email, and I already have them.
 
-For **Part 3**, you will write a 2.5 to 3 page paper describing your analysis. **Your paper should not be any shorter than 2.5 pages nor any longer than 3 pages. It must have 1.5 line spacing, 0.5" margins, and be written in 12 point Times New Roman font. Figures and tables are included in the page count, though the total space taken by these should be a maximum of one page.**
+For **Part 3**, you will write a 2.5 to 3 page paper describing your analysis. **Your paper should not be any shorter than 2.5 pages nor any longer than 3 pages. It must have 1.5 line spacing, 0.5" margins, and be written in 12 point Times New Roman font. Figures and tables are included in the page count, though the total space taken by these should be a maximum of one page.** You'll turn this file in as a PDF named `final-paper-<nau-id>.pdf`, where `<nau-id>` is replaced with your NAU id. For example, my file would be named `final-paper-jgc53.pdf`.
 
 Write this as if you’re submitting to a journal, so your paper should contain:
 
@@ -221,7 +221,7 @@ You should address several specific questions in your *Results and Conclusions*:
 * Which features were most different in abundance across the subjects? Refer to the *Taxonomic barplots* to address this. Present a table containing the most differentially abundant features and their taxonomy. 
 * Which subject had the most features (i.e., the highest microbial community richness) in their skin microbiome, on average? Was the number of features across subjects significantly different? 
 
-Please turn all of this in by e-mail to greg.caporaso@nau.edu with subject `final assignment`.
+Please turn all of this in by e-mail to greg.caporaso@nau.edu with subject: *final assignment*.
 
 Troubleshooting
 +++++++++++++++
