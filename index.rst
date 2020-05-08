@@ -7,9 +7,8 @@ Current courses (Spring 2020)
 
 .. toctree::
    :maxdepth: 1
-
-   courses/2020.01-450/index.rst
-
+   BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2021 (website coming in Fall 2020)
+   
 
 An Introduction to Applied Bioinformatics (IAB)
 ===============================================
@@ -22,6 +21,7 @@ Previous courses
 .. toctree::
    :maxdepth: 1
 
+   courses/2020.01-450/index.rst
    courses/2019.01-450/index.rst
    courses/2018.01-450/index.rst
    courses/2017.01-450/index.rst
