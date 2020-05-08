@@ -2,11 +2,9 @@
 Caporaso Lab Teaching Website
 ====================================================
 
-Current courses (Spring 2020)
-=============================
+Current and upcoming courses
+============================
 
-.. toctree::
-   :maxdepth: 1
    BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2021 (website coming in Fall 2020)
    
 
