@@ -47,27 +47,6 @@ Due to COVID-19, during the summer of 2020 all office hours will be held by vide
 
     <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=49fk5nt75q2j7f7sma4br11nic%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FPhoenix" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
 
-Upcoming courses
-================
-
-BIO 450/BIO 599 Fundamentals of Bioinformatics (three credits)
--------------------------------------------------------------
-
-This course covers fundamental concepts in bioinformatics, method and tool benchmarking, and in depth coverage of several specific high-interest topics. This course was previously taught under various different course numbers between 2011 and 2017 as it went through a few design iterations.
-
-**You do not need to know how to program to take this course!**
-
-For students who are looking to get a head-start on the material, I recommend `An Introduction to Applied Bioinformatics <http://readIAB.org>`_  and the materials in my resources section below.
-
-**This course is generally taught every Spring semester.**
-
-Independent research
---------------------
-
-Instructor: Dr. Greg Caporaso (greg.caporaso@nau.edu)
-
-I occasionally mentor exceptional undergraduate and graduate students in bioinformatics-related research projects. If you're interested in this, contact me with details about the type of project you'd like to work on, and about your educational background. These are considerably harder than a single semester course in bioinformatics, and require you to be highly self-motivated. I do not accept all students who are interested.
-
 Resources for getting started with bioinformatics and Python
 ============================================================
 
