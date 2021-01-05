@@ -5,8 +5,8 @@ Caporaso Lab Teaching Website
 Current and upcoming courses
 ============================
 
-   BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2021 (website coming in Fall 2020)
-   
+   :ref:`BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2021 <2021.01-450>`
+   BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2022 (website coming in Fall 2021)
 
 An Introduction to Applied Bioinformatics (IAB)
 ===============================================
@@ -34,18 +34,6 @@ Previous courses
    courses/2012.08-599/index.rst
    courses/2012.01-399/index.rst
    courses/2011.08-299/index.rst
-
-Caporaso Lab Office Hours
-=========================
-
-All lab member office hours are open to the public. 
-
-Due to COVID-19, during the summer of 2020 all office hours will be held by video conference, and by appointment only. To schedule office hours, please contact lab members by e-mail or Slack.
-
-..
-    .. raw:: html
-
-    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=49fk5nt75q2j7f7sma4br11nic%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FPhoenix" style="border-width:0" width="600" height="300" frameborder="0" scrolling="no"></iframe>
 
 Resources for getting started with bioinformatics and Python
 ============================================================
