@@ -2,14 +2,25 @@
 Caporaso Lab Teaching Website
 ====================================================
 
-Current and upcoming courses
-============================
+Current courses
+===============
 
-   * :ref:`BIO 450 / BIO 599 Fundamentals of Bioinformatics, Spring 2021 <2021.01-450>`
-   * BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2022 (website coming in Fall 2021)
+.. toctree::
+   :maxdepth: 1
+
+   courses/2021.01-450/index.rst
+
+Upcoming courses
+================
+
+I teach Bio 450 / 599, *Fundamentals of Bioinformatics*, every Spring. This course introduces biologists to bioinformatics, and assumes no background in bioinformatics or computer programming. This is a coconvened course for undergraduate and graduate students. (The course number for the graduate section of this course will soon become BIO 590.)
+
+My lab regularly teaches workshops on the `QIIME 2 microbiome bioinformatics platform <https://qiime2.org>`_. You can find a lot of content from these workshops on the `QIIME 2 YouTube channel <https://www.youtube.com/channel/UCgjZXjHOjV-KbkXsnuMKoUA>`_. While my *Fundamentals of Bioinformatics* course does use QIIME 2 throughout the semester, it's not a QIIME 2 course. If you're primarily interested in learning QIIME 2, I recommend starting with the YouTube channel rather than *Fundamentals of Bioinformatics*.  
+
+I lead independent study courses focused on bioinformatics software engineering or microbiome research projects for undergraduate and graduate students. Please contact me by email if you're interested in discussing an independent study.  
 
 Previous courses
-==================
+================
 
 .. toctree::
    :maxdepth: 1
@@ -30,13 +41,3 @@ Previous courses
    courses/2012.01-399/index.rst
    courses/2011.08-299/index.rst
 
-An Introduction to Applied Bioinformatics (IAB)
-===============================================
-
-Dr. Caporaso's interactive, Jupyter Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://readIAB.org>`_. For more information see Dr. Caporaso's `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://readIAB.org>`_.
-
-
-Resources for getting started with bioinformatics and Python
-============================================================
-
-See the `IAB reading list <http://readiab.org/book/0.1.3/1/1#4>`_ for resources for getting started in bioinformatics.
