@@ -5,13 +5,8 @@ Caporaso Lab Teaching Website
 Current and upcoming courses
 ============================
 
-   :ref:`BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2021 <2021.01-450>`
-   BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2022 (website coming in Fall 2021)
-
-An Introduction to Applied Bioinformatics (IAB)
-===============================================
-
-Dr. Caporaso's interactive, Jupyter Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://readIAB.org>`_. For more information see Dr. Caporaso's `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://readIAB.org>`_.
+   * :ref:`BIO 450 / BIO 599 Fundamentals of Bioinformatics, Spring 2021 <2021.01-450>`
+   * BIO 450 / BIO 590 Fundamentals of Bioinformatics, Spring 2022 (website coming in Fall 2021)
 
 Previous courses
 ==================
@@ -34,6 +29,12 @@ Previous courses
    courses/2012.08-599/index.rst
    courses/2012.01-399/index.rst
    courses/2011.08-299/index.rst
+
+An Introduction to Applied Bioinformatics (IAB)
+===============================================
+
+Dr. Caporaso's interactive, Jupyter Notebook-based introductory bioinformatics text, An Introduction to Applied Bioinformatics, is available for free `here <http://readIAB.org>`_. For more information see Dr. Caporaso's `microbe.net blog post on IAB <http://microbe.net/2014/05/01/teaching-bioinformatics-using-ipython-notebooks/>`_ and the `IAB website <http://readIAB.org>`_.
+
 
 Resources for getting started with bioinformatics and Python
 ============================================================
